@@ -1,3 +1,57 @@
+
+#EXTINF:-1 tvg-id="144" group-title="JIO CINEMA" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg",Colors HD
+https://live.drmlive-02.workers.dev/jc/144.m3u8
+#EXTINF:-1 tvg-id="1370" group-title="JIO CINEMA" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/collors-rishtey-live-channels-16x9-3-1642676080416-1674198105431-1697532377978.jpg",Rishtey
+https://live.drmlive-02.workers.dev/jc/1370.m3u8
+#EXTINF:-1 tvg-id="1157" group-title="JIO CINEMA" tvg-language="English" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/comedy-central-16x9-1624419769894-1663699927285.jpg",Comedy Central HD
+https://live.drmlive-02.workers.dev/jc/1157.m3u8
+#EXTINF:-1 tvg-id="1158" group-title="JIO CINEMA" tvg-language="English" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-infinity-live-channels-16x9-1642496946057.jpg",Colors Infinity HD
+https://live.drmlive-02.workers.dev/jc/1158.m3u8
+#EXTINF:-1 tvg-id="1477" group-title="JIO CINEMA" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/Live-Tv-Channels-colors-cineplex-1607514413063.jpg",Colors Cineplex HD
+https://live.drmlive-02.workers.dev/jc/1477.m3u8
+#EXTINF:-1 tvg-id="1450" group-title="JIO CINEMA" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_960,h_540/v3Storage/assets/colors-cineplex-superhit%2016x9-1648793655358.jpg",Colors Cineplex Superhit
+https://live.drmlive-02.workers.dev/jc/1450.m3u8
+#EXTINF:-1 tvg-id="1763" group-title="JIO CINEMA" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/cineplex-1713963820848.jpeg",Colors Cineplex Bollywood
+https://live.drmlive-02.workers.dev/jc/1763.m3u8
+#EXTINF:-1 tvg-id="1145" group-title="JIO CINEMA" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/mtv-16x9-1714316345624.jpg",MTV HD
+https://live.drmlive-02.workers.dev/jc/1145.m3u8
+#EXTINF:-1 tvg-id="753" group-title="JIO CINEMA" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/mtv-beats-live-channels-16x9-1642675874665.jpg",MTV Beats HD
+https://live.drmlive-02.workers.dev/jc/753.m3u8
+#EXTINF:-1 tvg-id="544" group-title="JIO CINEMA" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/nick-jr-16x9-2-1626708077243.jpg",Nick Junior
+https://live.drmlive-02.workers.dev/jc/544.m3u8
+#EXTINF:-1 tvg-id="1226" group-title="JIO CINEMA" tvg-language="English" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/nick-hd-plus-live-channels-16x9-4-1642585145139.jpg",Nick HD+
+https://live.drmlive-02.workers.dev/jc/1226.m3u8
+#EXTINF:-1 tvg-id="1227" group-title="JIO CINEMA" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/16x9-1719554242246.jpg",Nick SD
+https://live.drmlive-02.workers.dev/jc/1227.m3u8
+#EXTINF:-1 tvg-id="815" group-title="JIO CINEMA" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sonic-16x9-2-1626707025539.jpg",Sonic
+https://live.drmlive-02.workers.dev/jc/815.m3u8
+#EXTINF:-1 tvg-id="122" group-title="JIO CINEMA" tvg-language="English" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sports18_tray-1693930594270.jpg",SPORTS 18 HD
+https://live.drmlive-02.workers.dev/jc/122.m3u8
+#EXTINF:-1 tvg-id="1998" group-title="JIO CINEMA" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/sports18_khel_tray-1693931658589.jpg",SPORTS 18 Khel
+https://live.drmlive-02.workers.dev/jc/1998.m3u8
+#EXTINF:-1 tvg-id="2000" group-title="JIO CINEMA" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/jc_sports_horizontal_tray-1695561700528.jpg",JC Sports
+https://live.drmlive-02.workers.dev/jc/2000.m3u8
+#EXTINF:-1 tvg-id="2001" group-title="JIO CINEMA" tvg-language="English" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/sports_zone_cricket_horizontal-1695032322122.jpg",CricStream
+https://live.drmlive-02.workers.dev/jc/2001.m3u8
+#EXTINF:-1 tvg-id="190" group-title="JIO CINEMA" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/cnbc-awaaz-16x9-1702387934761.jpg",CNBC Awaaz
+https://live.drmlive-02.workers.dev/jc/190.m3u8
+#EXTINF:-1 tvg-id="489" group-title="JIO CINEMA" tvg-language="English" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/cnbc18-shereen-bhan-16x9-2-1693479472079.jpg",CNBC Tv 18
+https://live.drmlive-02.workers.dev/jc/489.m3u8
+#EXTINF:-1 tvg-id="231" group-title="JIO CINEMA" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png",News18 India
+https://live.drmlive-02.workers.dev/jc/231.m3u8
+#EXTINF:-1 tvg-id="492" group-title="JIO CINEMA" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png",CNN NEWS 18
+https://live.drmlive-02.workers.dev/jc/492.m3u8
+#EXTINF:-1 tvg-id="655" group-title="JIO CINEMA" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Haryana_and_HP_News.png",News18 Punjab Haryana
+https://live.drmlive-02.workers.dev/jc/655.m3u8
+#EXTINF:-1 tvg-id="531" group-title="JIO CINEMA" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png",News18 RAJASTHAN
+https://live.drmlive-02.workers.dev/jc/531.m3u8
+#EXTINF:-1 tvg-id="529" group-title="JIO CINEMA" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_MP.png",News18 MP
+https://live.drmlive-02.workers.dev/jc/529.m3u8
+#EXTINF:-1 tvg-id="530" group-title="JIO CINEMA" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_UP.png",News18 UP
+https://live.drmlive-02.workers.dev/jc/530.m3u8
+#EXTINF:-1 tvg-id="694" group-title="JIO CINEMA" tvg-language="Urdu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Urdu.png",News18 JKLH
+https://live.drmlive-02.workers.dev/jc/694.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/T3/KeyLelo4.php?id=22
 #EXTINF:-1 tvg-id="ts22" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52679-k7zx7qqg-v1/imageContent-52679-k7zx7qqg-m2.png" tvg-country="IN" catchup-type="append" catchup-days="7" catchup-source="&utc={utc}&lutc={utcend}" group-title="TATA PLAY||Lifestyle",News World India
