@@ -455,8 +455,6 @@ https://play.denver1769.in/T3/index2.mpd?id=544
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://play.denver1769.in/T3/index2.mpd?id=486
 
-#EXTINF:-1 tvg-id="" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="▁•☆•𝐏𝐥𝐚𝐲𝐥𝐢𝐯𝐭𝐯 𝐉𝐨𝐢𝐧 𝐍𝐨𝐰•☆•▁" tvg-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg", t.me/Playlivtvlinks
-https://t.me/playlivtvlinks.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/T3/KeyLelo4.php?id=789
 #EXTINF:-1 tvg-id="ts789" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48748-k4jbpl00-v2/imageContent-48748-k4jbpl00-m3.png" tvg-country="IN" catchup-type="append" catchup-days="7" catchup-source="&utc={utc}&lutc={utcend}" group-title="TATA PLAY-Movies",Tata Play Hollywood Local
