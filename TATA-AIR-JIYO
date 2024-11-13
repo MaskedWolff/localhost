@@ -1,3 +1,4 @@
+
 #EXTINF:-1 tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" group-title="SONYLIV", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", SET HD
@@ -8899,9 +8900,7 @@ https://play.denver1769.in/J/Jtv5.mpd?id=1612
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/J/KeyLelo.php?id=1613
 #EXTINF:-1 tvg-id="1613" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Medha_Secondary.png" group-title="JIOTV - Educational",Medha Secondary
 https://play.denver1769.in/J/Jtv5.mpd?id=1613
-       
-#EXTINF:-1 tvg-id="" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="1▁𝐏𝐥𝐚𝐲𝐥𝐢𝐯𝐭𝐯 𝐉𝐨𝐢𝐧 𝐍𝐨𝐰▁" tvg-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg", t.me/Playlivtvlinks
-https://t.me/playlivtvlinks.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/J/KeyLelo.php?id=1614
 #EXTINF:-1 tvg-id="1614" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Omnicuris.png" group-title="JIOTV - Educational",Omnicuris
