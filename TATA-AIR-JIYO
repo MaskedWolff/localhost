@@ -329,8 +329,7 @@ https://play.denver1769.in/T3/index3.mpd?id=551
 #EXTINF:-1 tvg-id="ts523" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11969-j9luigc0-v2/imageContent-11969-j9luigc0-m2.png" tvg-country="IN" catchup-type="append" catchup-days="7" catchup-source="&begin={utc:YmdTHMS}&end=${lutc:YmdTHMS}" group-title="TATA SKY - Entertainment",Zee Anmol
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://play.denver1769.in/T3/index3.mpd?id=523
-#EXTINF:-1 tvg-id="" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="▁•☆•𝐏𝐥𝐚𝐲𝐥𝐢𝐯𝐭𝐯 𝐉𝐨𝐢𝐧 𝐍𝐨𝐰•☆•▁" tvg-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg", t.me/Playlivtvlinks
-https://t.me/playlivtvlinks.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/T3/KeyLelo4.php?id=438
 #EXTINF:-1 tvg-id="ts438" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/RIS_Thumbnail-v3/RIS_Thumbnail.png" tvg-country="IN" catchup-type="append" catchup-days="7" catchup-source="&begin={utc:YmdTHMS}&end=${lutc:YmdTHMS}" group-title="TATA SKY - Entertainment",Colors Rishtey
