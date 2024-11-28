@@ -101,6 +101,9 @@ http://port.denver1769.in/ulpl7.php?tv=4786
 #EXTINF:-1 tvg-id="0-9-zeemarathi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeemarathi/channel_list/1170x658withlogo83012bc9c1344c7aa000e70a5ec92587.png" group-title="ZEE5", Zee Marathi HD
 https://la.drmlive.au/tp/zee-zeemarathi.m3u8
 
+***URDU NEWS***
+#EXTINF:-1 tvg-logo=https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/aaj-news-live.webp?id=56" group-title="URDU NEWS", Aaj News
+https://vodzong.mjunoon.tv:8087/streamtest/AAJNews-124/playlist.m3u8
 JIO CINEMA
 #EXTINF:-1 tvg-id="144" group-title="JIO CINEMA" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg",Colors HD
 https://live.drmlive-02.workers.dev/jc/144.m3u8
