@@ -108,7 +108,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/AAJNews-124/playlist.m3u8
 #EXTINF:-1 tvg-logo=https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/express-news-live.webp?id=15" group-title="URDU NEWS", Express News
 https://vodzong.mjunoon.tv:8087/streamtest/ExpressNews-155/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/channel-24-live.webp?id=90" group-title="URDU NEWS", 24HD NEWS
+#EXTINF:-1 tvg-logo=https://ibb.co/QmcM9TT" group-title="URDU NEWS", 24HD NEWS
 https://vodzong.mjunoon.tv:8087/streamtest/24HD-146/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/gnn-live.webp?id=48" group-title="URDU NEWS", GNN News
