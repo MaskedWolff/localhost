@@ -48,7 +48,6 @@ https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
 ***ZEE5***
-#EXTM3U
 #EXTINF:-1 tvg-id="0-9-zeetvhd" group-title="ZEE 5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://m3u.yuvraj49.xyz/z5/index.m3u8?id=0-9-zeetvhd&token=KxfAR5BCAnQg
@@ -531,7 +530,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sansadtvsd/default/Sansadtvsd.m3u8
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/LKNgfzia.png" group-title="Dish TV",News Nation
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Newsnation/default/newsnation.m3u8
 
-
+#EXTINF:- tvg-name="The Movie Club" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD21000016Y_20241024T054057SQUARE.png" group-title="Dish TV", The Movie Club
+https://jmp2.uk/sam-INBD21000016Y.m3u8
 
 ***JIO CINEMA***
 #EXTINF:-1 tvg-id="144" group-title="JIO CINEMA" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg",Colors HD
