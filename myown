@@ -357,6 +357,9 @@ http://78.40.140.201:9321/86e4228d28529e5cb7bcba3a2bd86713507ea0709f390d46257b07
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZSJGRcj/Free-Simple-Modern-Circle-Design-Studio-Logo-20241205-125001-0000.png" group-title="Dish TV",Nat Geo HD
 http://78.40.140.201:9321/86e4228d28529e5cb7bcba3a2bd86713507ea0709f391b4e2e7514fb16a1b1a66040c1ed2269b4eba6/index.m3u8?token=392705e8b04b5667d4d2dbf85f5462620e09257c2a90b0b84063a6973e1053550a78fe371d1e98fedf5ff347ea1621427313614a0ee966328ef47f4b773afcb38bffa6fd697e96-05a216bdac82a4c5e503ac1a540f5c61
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YtYyLWp/images-1.jpg" group-title="Dish TV",Sony BBC Earth HD
+http://funcomtv.ydns.eu:80/live/frenzo/frenzo/3694.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mqGWxgv/20241202-102006-0000.png" group-title="Dish TV",Star Gold2
 http://tv.cloudcdn.me:80/live.ts?channelId=33165&uid=9423&deviceMac=00:1A:79:68:B0:74
 
