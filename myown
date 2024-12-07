@@ -1,4 +1,4 @@
-SONY LIV
+***SONY LIV**
 
 #EXTINF:-1 tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" group-title="SONYLIV", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
@@ -10,10 +10,6 @@ https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 #EXTINF:-1 tvg-id="1000001971" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SONYLIV", Sony YAY
 https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
-#EXTINF:-1 tvg-id="1000009255" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="SONYLIV", Sony AATH
-https://dai.google.com/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
-#EXTINF:-1 tvg-id="1000009259" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="SONYLIV", Sony Marathi
-https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
 #EXTINF:-1 tvg-id="1000009252" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SONYLIV", Sony BBC Earth HD
 https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 #EXTINF:-1 tvg-id="1000009258" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SONYLIV", Sony PIX HD
