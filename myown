@@ -42,6 +42,8 @@ https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
 ***DISH TV***
+#EXTINF:-1 tvg-id="zee-bihar-jharkhand" tvg-logo="https://i.ibb.co/TWqvt2T/download.png" group-title="Dish TV", Voice Urdu Tv
+https://live1.ottlive.co.in/voiceurdutv/voiceurdutv/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1ec6098b5014ac7aae0b37f72d5e85e:c04950f25d8e4107a96e828e7911e53b
