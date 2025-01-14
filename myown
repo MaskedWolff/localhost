@@ -82,7 +82,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=9423&deviceMac=00:1A:79:68:B0
 http://tv.cloudcdn.me:80/live.ts?channelId=128485&uid=9423&deviceMac=00:1A:79:68:B0:74
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6wJQyP0/In-Shot-20241202-103136338.jpg" group-title="Dish TV",Star Gold Select HD
-http://tv.cloudcdn.me:80/live.ts?channelId=197&uid=9423&deviceMac=00:1A:79:68:B0:74
+http://funcomtv.ydns.eu:80/live/frenzo/frenzo/3710.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50e714b65ead453cbfab9b20bed5c79d:bc08e108b9ee4f65b99cb9dad9532f3f
