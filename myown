@@ -251,38 +251,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/xiseyx.png" group-title="Dish TV", 9X Tashan
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
 
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/drciav.png" group-title="Dish TV", DD Bharati
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddbharti/default/Ddbharti.m3u8
-
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ftklpj.png" group-title="Dish TV", DD National
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddnational/default/Ddbharti.m3u8
-
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zwombd.png" group-title="Dish TV", Fakt Marathi
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Faktmarathi/default/Faktmarathi.m3u8
-
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/fjeoiu.png" group-title="Dish TV", Music India
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia/default/Musicindia.m3u8
-
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/bdxgyh.png" group-title="Dish TV", News Nation
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Newsnation/default/default.m3u8
-
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/hjdift.png" group-title="Dish TV", Sangeet Bangla
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbangla/default/Sangeetbangla.m3u8
-
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/bpgfhq.png" group-title="Dish TV", Sangeet Bhojpuri
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/Sangeetbhojpuri.m3u8 
-
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ptcgyh.png" group-title="Dish TV", Sansad TV HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sansadtvhd/default/Sansadtvhd.m3u8
-
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/oshzts.png" group-title="Dish TV", Sansad TV SD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sansadtvsd/default/Sansadtvsd.m3u8
-
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/LKNgfzia.png" group-title="Dish TV",News Nation
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Newsnation/default/newsnation.m3u8
-
-#EXTINF:- tvg-name="The Movie Club" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD21000016Y_20241024T054057SQUARE.png" group-title="Dish TV", The Movie Club
-https://jmp2.uk/sam-INBD21000016Y.m3u8
+https://jmp2.uk/sam-IN3900004Q7.m3u8
 
 ***JIO CINEMA***
 #EXTINF:-1 tvg-id="144" group-title="JIO CINEMA" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg",Colors HD
