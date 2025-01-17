@@ -512,8 +512,6 @@ http://192.168.1.3:5350/live/1327.m3u8
 http://192.168.1.3:5350/live/1368.m3u8
 #EXTINF:-1 tvg-id=1378 tvg-name="VH1" tvg-logo="http://192.168.1.3:5350/jtvimage/VH1.png" tvg-language="English" tvg-type="Music" group-title="Music", VH1
 http://192.168.1.3:5350/live/1378.m3u8
-#EXTINF:-1 tvg-id=1388 tvg-name="Goodness" tvg-logo="http://192.168.1.3:5350/jtvimage/Goodness_TV.png" tvg-language="Malayalam" tvg-type="Devotional" group-title="Devotional", Goodness
-http://192.168.1.3:5350/live/1388.m3u8
 #EXTINF:-1 tvg-id=1400 tvg-name="MTV Beats SD" tvg-logo="http://192.168.1.3:5350/jtvimage/MTV_Beats_SD.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV Beats SD
 http://192.168.1.3:5350/live/1400.m3u8
 #EXTINF:-1 tvg-id=1401 tvg-name="Romedy Now" tvg-logo="http://192.168.1.3:5350/jtvimage/Romedy_Now_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", Romedy Now
