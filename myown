@@ -95,9 +95,6 @@ http://funcomtv.ydns.eu:80/live/frenzo/frenzo/3684.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YtYyLWp/images-1.jpg" group-title="Dish TV",Sony BBC Earth HD
 http://funcomtv.ydns.eu:80/live/frenzo/frenzo/3694.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fNPpVh1/Free-Simple-Modern-Circle-Design-Studio-Logo-20241205-134326-0000.png" group-title="Dish TV",& Prive HD
-http://funcomtv.ydns.eu:80/live/frenzo/frenzo/3656.ts
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mqGWxgv/20241202-102006-0000.png" group-title="Dish TV",Star Gold2
 http://tv.cloudcdn.me:80/live.ts?channelId=33165&uid=9423&deviceMac=00:1A:79:68:B0:74
 
@@ -108,7 +105,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=9423&deviceMac=00:1A:79:68:B0
 http://tv.cloudcdn.me:80/live.ts?channelId=128485&uid=9423&deviceMac=00:1A:79:68:B0:74
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6wJQyP0/In-Shot-20241202-103136338.jpg" group-title="Dish TV",Star Gold Select HD
-http://funcomtv.ydns.eu:80/live/frenzo/frenzo/3710.ts
+https://live.flixtv.net/smart.m3u8?id=732
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
