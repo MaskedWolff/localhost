@@ -213,7 +213,7 @@ http://192.168.1.3:5350/live/193.m3u8
 http://192.168.1.3:5350/live/231.m3u8
 #EXTINF:-1 tvg-id=235 tvg-name="India TV" tvg-logo="http://192.168.1.3:5350/jtvimage/India_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", India TV
 http://192.168.1.3:5350/live/235.m3u8
-#EXTINF:-1 tvg-id=248 tvg-name="MTV" tvg-logo="http://192.168.1.3:5350/jtvimage/MTV.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV
+#EXTINF:-1 tvg-id=248 tvg-name="MTV" tvg-logo="http://192.168.1.3:5350/jtvimage/MTV.png" tvg-language="Hindi" tvg-type="Music" group-title="Entertainment", MTV
 http://192.168.1.3:5350/live/248.m3u8
 #EXTINF:-1 tvg-id=255 tvg-name="NDTV 24x7" tvg-logo="http://192.168.1.3:5350/jtvimage/NDTV_24x7.png" tvg-language="English" tvg-type="News" group-title="News", NDTV 24x7
 http://192.168.1.3:5350/live/255.m3u8
