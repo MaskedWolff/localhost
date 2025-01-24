@@ -293,8 +293,6 @@ JIO TV
 
 #EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="http://192.168.1.3:5350/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
 http://192.168.1.3:5350/live/144.m3u8
-#EXTINF:-1 tvg-id=146 tvg-name="History TV18 HD" tvg-logo="http://192.168.1.3:5350/jtvimage/History_HD.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", History TV18 HD
-http://192.168.1.3:5350/live/146.m3u8
 #EXTINF:-1 tvg-id=173 tvg-name="Aaj Tak" tvg-logo="http://192.168.1.3:5350/jtvimage/Aaj_Tak.png" tvg-language="Hindi" tvg-type="News" group-title="News", Aaj Tak
 http://192.168.1.3:5350/live/173.m3u8
 #EXTINF:-1 tvg-id=177 tvg-name="ABP News India" tvg-logo="http://192.168.1.3:5350/jtvimage/ABP_News_India.png" tvg-language="Hindi" tvg-type="News" group-title="News", ABP News India
@@ -303,24 +301,16 @@ http://192.168.1.3:5350/live/177.m3u8
 http://192.168.1.3:5350/live/182.m3u8
 #EXTINF:-1 tvg-id=193 tvg-name="CNN" tvg-logo="http://192.168.1.3:5350/jtvimage/CNN.png" tvg-language="English" tvg-type="News" group-title="News", CNN
 http://192.168.1.3:5350/live/193.m3u8
-#EXTINF:-1 tvg-id=212 tvg-name="ET Now" tvg-logo="http://192.168.1.3:5350/jtvimage/ET_Now.png" tvg-language="English" tvg-type="Business" group-title="Business", ET Now
-http://192.168.1.3:5350/live/212.m3u8
 #EXTINF:-1 tvg-id=231 tvg-name="News 18 India" tvg-logo="http://192.168.1.3:5350/jtvimage/IBN_7.png" tvg-language="Hindi" tvg-type="News" group-title="News", News 18 India
 http://192.168.1.3:5350/live/231.m3u8
 #EXTINF:-1 tvg-id=235 tvg-name="India TV" tvg-logo="http://192.168.1.3:5350/jtvimage/India_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", India TV
 http://192.168.1.3:5350/live/235.m3u8
-#EXTINF:-1 tvg-id=242 tvg-name="Discovery" tvg-logo="http://192.168.1.3:5350/jtvimage/Discovery_Channel_English.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Discovery
-http://192.168.1.3:5350/live/242.m3u8
 #EXTINF:-1 tvg-id=248 tvg-name="MTV" tvg-logo="http://192.168.1.3:5350/jtvimage/MTV.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV
 http://192.168.1.3:5350/live/248.m3u8
 #EXTINF:-1 tvg-id=255 tvg-name="NDTV 24x7" tvg-logo="http://192.168.1.3:5350/jtvimage/NDTV_24x7.png" tvg-language="English" tvg-type="News" group-title="News", NDTV 24x7
 http://192.168.1.3:5350/live/255.m3u8
 #EXTINF:-1 tvg-id=258 tvg-name="NDTV India" tvg-logo="http://192.168.1.3:5350/jtvimage/NDTV_India.png" tvg-language="Hindi" tvg-type="News" group-title="News", NDTV India
 http://192.168.1.3:5350/live/258.m3u8
-#EXTINF:-1 tvg-id=279 tvg-name="Rishtey" tvg-logo="http://192.168.1.3:5350/jtvimage/Rishtey.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Rishtey
-http://192.168.1.3:5350/live/279.m3u8
-#EXTINF:-1 tvg-id=286 tvg-name="Animal Planet HD World" tvg-logo="http://192.168.1.3:5350/jtvimage/Animal_Planet_HD.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Animal Planet HD World
-http://192.168.1.3:5350/live/286.m3u8
 #EXTINF:-1 tvg-id=383 tvg-name="Times NOW" tvg-logo="http://192.168.1.3:5350/jtvimage/Times_NOW.png" tvg-language="English" tvg-type="News" group-title="News", Times NOW
 http://192.168.1.3:5350/live/383.m3u8
 #EXTINF:-1 tvg-id=412 tvg-name="Wion" tvg-logo="http://192.168.1.3:5350/jtvimage/Wion.png" tvg-language="English" tvg-type="News" group-title="News", Wion
@@ -339,7 +329,7 @@ http://192.168.1.3:5350/live/493.m3u8
 http://192.168.1.3:5350/live/494.m3u8
 #EXTINF:-1 tvg-id=495 tvg-name="News X" tvg-logo="http://192.168.1.3:5350/jtvimage/News_X.png" tvg-language="English" tvg-type="News" group-title="News", News X
 http://192.168.1.3:5350/live/495.m3u8
-#EXTINF:-1 tvg-id=496 tvg-name="dw" tvg-logo="http://192.168.1.3:5350/jtvimage/dw.png" tvg-language="English" tvg-type="News" group-title="News", dw
+#EXTINF:-1 tvg-id=496 tvg-name="DW" tvg-logo="http://192.168.1.3:5350/jtvimage/dw.png" tvg-language="English" tvg-type="News" group-title="News", dw
 http://192.168.1.3:5350/live/496.m3u8
 #EXTINF:-1 tvg-id=498 tvg-name="India news" tvg-logo="http://192.168.1.3:5350/jtvimage/India_news.png" tvg-language="Hindi" tvg-type="News" group-title="News", India news
 http://192.168.1.3:5350/live/498.m3u8
@@ -353,8 +343,6 @@ http://192.168.1.3:5350/live/502.m3u8
 http://192.168.1.3:5350/live/504.m3u8
 #EXTINF:-1 tvg-id=518 tvg-name="Sudarshan" tvg-logo="http://192.168.1.3:5350/jtvimage/Sudarshan.png" tvg-language="Hindi" tvg-type="News" group-title="News", Sudarshan
 http://192.168.1.3:5350/live/518.m3u8
-#EXTINF:-1 tvg-id=544 tvg-name="Nick Junior" tvg-logo="http://192.168.1.3:5350/jtvimage/Nick_Junior.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nick Junior
-http://192.168.1.3:5350/live/544.m3u8
 #EXTINF:-1 tvg-id=545 tvg-name="Nick Hindi" tvg-logo="http://192.168.1.3:5350/jtvimage/Nick_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Nick Hindi
 http://192.168.1.3:5350/live/545.m3u8
 #EXTINF:-1 tvg-id=548 tvg-name="Nickelodeon Jr." tvg-logo="http://192.168.1.3:5350/jtvimage/Nickelodeon_Jr.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Nickelodeon Jr.
@@ -367,14 +355,8 @@ http://192.168.1.3:5350/live/559.m3u8
 http://192.168.1.3:5350/live/560.m3u8
 #EXTINF:-1 tvg-id=566 tvg-name="Animal Planet Hindi" tvg-logo="http://192.168.1.3:5350/jtvimage/Animal_Planet_Hindi.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Animal Planet Hindi
 http://192.168.1.3:5350/live/566.m3u8
-#EXTINF:-1 tvg-id=567 tvg-name="Animal Planet English" tvg-logo="http://192.168.1.3:5350/jtvimage/Animal_Planet_English.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Animal Planet English
-http://192.168.1.3:5350/live/567.m3u8
-#EXTINF:-1 tvg-id=568 tvg-name="Discovery Science" tvg-logo="http://192.168.1.3:5350/jtvimage/Discovery_Science.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Discovery Science
-http://192.168.1.3:5350/live/568.m3u8
 #EXTINF:-1 tvg-id=571 tvg-name="TLC Hindi" tvg-logo="http://192.168.1.3:5350/jtvimage/TLC_Hindi.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="Lifestyle", TLC Hindi
 http://192.168.1.3:5350/live/571.m3u8
-#EXTINF:-1 tvg-id=574 tvg-name="TLC English" tvg-logo="http://192.168.1.3:5350/jtvimage/TLC_English.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", TLC English
-http://192.168.1.3:5350/live/574.m3u8
 #EXTINF:-1 tvg-id=575 tvg-name="Discovery Hindi" tvg-logo="http://192.168.1.3:5350/jtvimage/Discovery_Channel_Hindi.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Discovery Hindi
 http://192.168.1.3:5350/live/575.m3u8
 #EXTINF:-1 tvg-id=578 tvg-name="History TV18 HD Hindi" tvg-logo="http://192.168.1.3:5350/jtvimage/History_18_Hindi.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", History TV18 HD Hindi
@@ -439,14 +421,10 @@ http://192.168.1.3:5350/live/1403.m3u8
 http://192.168.1.3:5350/live/1405.m3u8
 #EXTINF:-1 tvg-id=1450 tvg-name="Colors Cineplex Superhit" tvg-logo="http://192.168.1.3:5350/jtvimage/Rishtey_Cineplex.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Superhit
 http://192.168.1.3:5350/live/1450.m3u8
-#EXTINF:-1 tvg-id=1457 tvg-name="News Only" tvg-logo="http://192.168.1.3:5350/jtvimage/News_Only.png" tvg-language="Punjabi" tvg-type="News" group-title="News", News Only
-http://192.168.1.3:5350/live/1457.m3u8
 #EXTINF:-1 tvg-id=1471 tvg-name="History TV18 SD" tvg-logo="http://192.168.1.3:5350/jtvimage/History_TV18_SD.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", History TV18 SD
 http://192.168.1.3:5350/live/1471.m3u8
 #EXTINF:-1 tvg-id=1477 tvg-name="Colors Cineplex HD" tvg-logo="http://192.168.1.3:5350/jtvimage/Color_Cineplex_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex HD
 http://192.168.1.3:5350/live/1477.m3u8
-#EXTINF:-1 tvg-id=1555 tvg-name="News First" tvg-logo="http://192.168.1.3:5350/jtvimage/News_First.png" tvg-language="Kannada" tvg-type="News" group-title="News", News First
-http://192.168.1.3:5350/live/1555.m3u8
 #EXTINF:-1 tvg-id=1658 tvg-name="Aalami Samay" tvg-logo="http://192.168.1.3:5350/jtvimage/Aalami_Samay.png" tvg-language="Urdu" tvg-type="News" group-title="News", Aalami Samay
 http://192.168.1.3:5350/live/1658.m3u8
 #EXTINF:-1 tvg-id=1699 tvg-name="ANN News" tvg-logo="http://192.168.1.3:5350/jtvimage/ANN_News.png" tvg-language="Urdu" tvg-type="News" group-title="News", ANN News
@@ -455,20 +433,8 @@ http://192.168.1.3:5350/live/1699.m3u8
 http://192.168.1.3:5350/live/1739.m3u8
 #EXTINF:-1 tvg-id=1763 tvg-name="Colors Cineplex Bollywood" tvg-logo="http://192.168.1.3:5350/jtvimage/Colors_Cineplex_Bollywood.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Bollywood
 http://192.168.1.3:5350/live/1763.m3u8
-#EXTINF:-1 tvg-id=1771 tvg-name="Express News" tvg-logo="http://192.168.1.3:5350/jtvimage/Express_News.png" tvg-language="Bengali" tvg-type="News" group-title="News", Express News
-http://192.168.1.3:5350/live/1771.m3u8
-#EXTINF:-1 tvg-id=1895 tvg-name="Today 24 News" tvg-logo="http://192.168.1.3:5350/jtvimage/Today_24_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Today 24 News
-http://192.168.1.3:5350/live/1895.m3u8
-#EXTINF:-1 tvg-id=1896 tvg-name="News Flash" tvg-logo="http://192.168.1.3:5350/jtvimage/News_Flash.png" tvg-language="Hindi" tvg-type="News" group-title="News", News Flash
-http://192.168.1.3:5350/live/1896.m3u8
-#EXTINF:-1 tvg-id=1900 tvg-name="Express News Bharat" tvg-logo="http://192.168.1.3:5350/jtvimage/ENB.png" tvg-language="Hindi" tvg-type="News" group-title="News", Express News Bharat
-http://192.168.1.3:5350/live/1900.m3u8
 #EXTINF:-1 tvg-id=1906 tvg-name="Times Now Navbharat" tvg-logo="http://192.168.1.3:5350/jtvimage/Times_Now_Navbharat.png" tvg-language="Hindi" tvg-type="News" group-title="News", Times Now Navbharat
 http://192.168.1.3:5350/live/1906.m3u8
-#EXTINF:-1 tvg-id=1961 tvg-name="Shemaroo TV" tvg-logo="http://192.168.1.3:5350/jtvimage/Shemaroo_TV.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Shemaroo TV
-http://192.168.1.3:5350/live/1961.m3u8
-#EXTINF:-1 tvg-id=1963 tvg-name="News 24 Express" tvg-logo="http://192.168.1.3:5350/jtvimage/News24_Express.png" tvg-language="Hindi" tvg-type="News" group-title="News", News 24 Express
-http://192.168.1.3:5350/live/1963.m3u8
 #EXTINF:-1 tvg-id=1984 tvg-name="Sports18 1 HD" tvg-logo="http://192.168.1.3:5350/jtvimage/Sports18_1_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sports18 1 HD
 http://192.168.1.3:5350/live/1984.m3u8
 #EXTINF:-1 tvg-id=1985 tvg-name="Sports18 1" tvg-logo="http://192.168.1.3:5350/jtvimage/Sports18_1_SD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sports18 1
@@ -495,18 +461,11 @@ http://192.168.1.3:5350/live/3009.m3u8
 http://192.168.1.3:5350/live/3025.m3u8
 #EXTINF:-1 tvg-id=3026 tvg-name="India TV Speed News" tvg-logo="http://192.168.1.3:5350/jtvimage/Speed_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", India TV Speed News
 http://192.168.1.3:5350/live/3026.m3u8
-#EXTINF:-1 tvg-id=3042 tvg-name="News 24x7" tvg-logo="http://192.168.1.3:5350/jtvimage/News_24x7.png" tvg-language="Hindi" tvg-type="News" group-title="News", News 24x7
-http://192.168.1.3:5350/live/3042.m3u8
 #EXTINF:-1 tvg-id=3050 tvg-name="Indian News" tvg-logo="http://192.168.1.3:5350/jtvimage/Indian_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Indian News
 http://192.168.1.3:5350/live/3050.m3u8
 #EXTINF:-1 tvg-id=3067 tvg-name="India Superfast" tvg-logo="http://192.168.1.3:5350/jtvimage/India_Superfast.png" tvg-language="Hindi" tvg-type="News" group-title="News", India Superfast
 http://192.168.1.3:5350/live/3067.m3u8
-#EXTINF:-1 tvg-id=3074 tvg-name="Shemaroo Filmy Gaane" tvg-logo="http://192.168.1.3:5350/jtvimage/shemaroofilmigaane.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Shemaroo Filmy Gaane
-http://192.168.1.3:5350/live/3074.m3u8
-#EXTINF:-1 tvg-id=3075 tvg-name="Shemaroo Bollywood" tvg-logo="http://192.168.1.3:5350/jtvimage/shemaroobollywood.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Shemaroo Bollywood
-http://192.168.1.3:5350/live/3075.m3u8
 #EXTINF:-1 tvg-id=3113 tvg-name="Jk Samachar News 24x7" tvg-logo="http://192.168.1.3:5350/jtvimage/Jk_Samachar_24x7.png" tvg-language="Hindi" tvg-type="News" group-title="News", Jk Samachar News 24x7
 http://192.168.1.3:5350/live/3113.m3u8
 #EXTINF:-1 tvg-id=3148 tvg-name="Live India News 24" tvg-logo="http://192.168.1.3:5350/jtvimage/Live_India_News_24.png" tvg-language="Punjabi" tvg-type="Infotainment" group-title="Infotainment", Live India News 24
 http://192.168.1.3:5350/live/3148.m3u8
-
