@@ -50,8 +50,10 @@ https://live1.ottlive.co.in/voiceurdutv/voiceurdutv/index.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-classic/logo_20231219_184825_52.png" group-title="Dish TV",Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jz4PqJb/Sony-SAB-HD.png" group-title="Dish TV", SAB SD
-http://mega4k.one:8080/23004/23004/131771
+#EXTINF:-1 tvg-id="ts559" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png" group-title="Dish TV",SONY SAB SD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.au/mix/eng_key.php?id=sonysab
+https://mix.drmlive.au/mix/engsonysab.mpd
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/mystery75/streaming/app/Series.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLUTOTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz, https://iptv36.vercel.app/epg.xml, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz, https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/refs/heads/main/starhub.xml" vod_library="https://mantop.worst.workers.dev/index.html , https://mantop.worst.workers.dev/dramabox.html,https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/vod,https://vod.pondan.workers.dev/dewanonton.json,https://aqfadtv.xyz/ePsBfM4g3bHk5XRx/index.php,https://fahmikacak.pages.dev/HBOGO%20Asia" refresh="1440"
 
