@@ -119,7 +119,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=9423&deviceMac=00:1A:79:68:B0
 http://tv.cloudcdn.me:80/live.ts?channelId=128485&uid=9423&deviceMac=00:1A:79:68:B0:74
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6wJQyP0/In-Shot-20241202-103136338.jpg" group-title="Dish TV",Star Gold Select HD
-https://live.flixtv.net/smart.m3u8?id=732
+http://activefrance.net:80/PMF3J9X/BV7HG8H/1020180
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
