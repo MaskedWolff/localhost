@@ -56,7 +56,7 @@ https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/510293
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mqGWxgv/20241202-102006-0000.png" group-title="Dish TV",Star Gold2
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/510292
+http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/510292.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X5VT04d/Untitled-design-20250126-182551-0000.png" group-title="Dish TV", Zee Classic
 http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/259159.ts
