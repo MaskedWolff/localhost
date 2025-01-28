@@ -46,6 +46,12 @@ https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://live1.ottlive.co.in/voiceurdutv/voiceurdutv/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://192.168.1.3:5350/jtvimage/ETV_Urdu.png" group-title="Dish TV", News18 JKLH
+https://nw18live.cdn.jio.com/bpk-tv/News18_Urdu_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://192.168.1.3:5350/jtvimage/Gulistan_News.png" group-title="Dish TV", Gulistan News
+https://live.gulistannews.in/hls/gul.m3u8
+
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",Sony Max 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
