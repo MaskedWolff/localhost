@@ -67,7 +67,7 @@ http://suprino.xyz:80/PMF3J9X/BV7HG8H/510293
 http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/510292.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X5VT04d/Untitled-design-20250126-182551-0000.png" group-title="Dish TV", Zee Classic
-http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/259159.ts
+https://m3u.yuvraj49.xyz/p/nWB9eiCBAlJS/manifest/727.m3u8|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36"&Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-classic/logo_20231219_184825_52.png" group-title="Dish TV",Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
