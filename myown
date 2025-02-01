@@ -54,7 +54,7 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_Urdu_NW18_MOB/output01/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://live.gulistannews.in/hls/gul.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fV8h7G7v/JK-24x7-News.png" group-title="Dish TV", Gulistan News
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fV8h7G7v/JK-24x7-News.png" group-title="Dish TV", JK24x7News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://live.gulistannews.in/hls/jk.m3u8
 
