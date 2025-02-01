@@ -69,13 +69,17 @@ https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4FQDH0H/20250127-011121-0000.png" group-title="Dish TV", &Xplor HD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/510293
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://la.drmlive.au/tp/zee-209.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mqGWxgv/20241202-102006-0000.png" group-title="Dish TV",Star Gold2
 http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/510292.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X5VT04d/Untitled-design-20250126-182551-0000.png" group-title="Dish TV", Zee Classic
-https://m3u.yuvraj49.xyz/p/nWB9eiCBAlJS/manifest/727.m3u8|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36"&Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.au/jiotvplus/jtck.php?id=1691
+https://jt.drmlive.au/jiotvplus/1691.mpd
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-classic/logo_20231219_184825_52.png" group-title="Dish TV",Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
