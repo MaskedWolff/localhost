@@ -86,16 +86,9 @@ https://la.drmlive.au/tp/zee-176.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-classic/logo_20231219_184825_52.png" group-title="Dish TV",Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
-#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://m3u.yuvraj49.xyz/extra/ss1hh/manifest.m3u8?token=nWB9eiCBAlJS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3u.yuvraj49.xyz/p/nWB9eiCBAlJS/artl/license/key?id=sony-sab
-#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_SAB" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Dish TV", SONY SAB
-#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://m3u.yuvraj49.xyz/p/nWB9eiCBAlJS/artl/sony-sab/manifest.mpd|User-Agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Dish TV", SONY SAB
+#EXTVLCOPT:http-user-agent=Denver1769
+https://game.denver1769.fun/TF/get/index.m3u8?id=sonysab_hd
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/mystery75/streaming/app/Series.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLUTOTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz, https://iptv36.vercel.app/epg.xml, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz, https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/refs/heads/main/starhub.xml" vod_library="https://mantop.worst.workers.dev/index.html , https://mantop.worst.workers.dev/dramabox.html,https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/vod,https://vod.pondan.workers.dev/dewanonton.json,https://aqfadtv.xyz/ePsBfM4g3bHk5XRx/index.php,https://fahmikacak.pages.dev/HBOGO%20Asia" refresh="1440"
 
