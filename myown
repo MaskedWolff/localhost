@@ -139,10 +139,12 @@ http://funcomtv.ydns.eu:80/live/frenzo/frenzo/3684.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YtYyLWp/images-1.jpg" group-title="Dish TV",Sony BBC Earth HD
 http://funcomtv.ydns.eu:80/live/frenzo/frenzo/3694.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pnkLMsk/In-Shot-20241202-102603590.jpg" group-title="Dish TV",Star Gold
-#KODIPROP:inputstream.adaptive.manifest_type=ts
-#EXTVLCOPT:http-user-agent=third-party
-#https://la.drmlive.au/tp/stargoldsel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pnkLMsk/In-Shot-20241202-102603590.jpg" group-title="Dish TV",Star Gold HD
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/24.10.07.2.10543 (Android/9)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.au/mix/star-40.mpd
+https://mix.drmlive.au/mix/star-40.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x6PyHgN/In-Shot-20241202-102835810.jpg" group-title="Dish TV",Star Gold Romance
 http://tv.cloudcdn.me:80/live.ts?channelId=128485&uid=9423&deviceMac=00:1A:79:68:B0:74
