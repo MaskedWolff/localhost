@@ -139,7 +139,7 @@ http://funcomtv.ydns.eu:80/live/frenzo/frenzo/3684.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YtYyLWp/images-1.jpg" group-title="Dish TV",Sony BBC Earth HD
 http://funcomtv.ydns.eu:80/live/frenzo/frenzo/3694.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pnkLMsk/In-Shot-20241202-102603590.jpg" group-title="Dish TV",Star Gold HD
+#EXTINF:-1 tvg-id="1260000040" tvg-logo="https://i.ibb.co/WKprrN6/IMG-20220810-100722-749.jpg" group-title="Dish TV" ,Star GOLD HD
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/24.10.07.2.10543 (Android/9)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
