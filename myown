@@ -84,7 +84,8 @@ https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4FQDH0H/20250127-011121-0000.png" group-title="Dish TV", &Xplor HD
-https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8|user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=TiviMate/5.1.0
+https://m3u.yuvraj49.xyz/z5/index.m3u8?id=0-9-209&token=nWB9eiCBAlJS
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mqGWxgv/20241202-102006-0000.png" group-title="Dish TV",Star Gold2
 http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/510292.ts
