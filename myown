@@ -6,12 +6,6 @@ https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF:-1 tvg-id="1000009273" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SONYLIV", Sony PAL
 https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
-#EXTINF:-1 tvg-id="1000001971" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SONYLIV", Sony YAY
-https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
-#EXTINF:-1 tvg-id="1000009252" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SONYLIV", Sony BBC Earth HD
-https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
-#EXTINF:-1 tvg-id="1000009258" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SONYLIV", Sony PIX HD
-https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF:-1 tvg-id="1000009253" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="SONYLIV", Sony WAH
 https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 #EXTINF:-1 tvg-id="1000009249" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="SONYLIV", Sony MAX
@@ -20,29 +14,10 @@ https://dai.google.com/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
 https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF:-1 tvg-id="1000044878" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="SONYLIV", Sony MAX2
 https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
-#EXTINF:-1 tvg-id="1000009280" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="SONYLIV", Sony TEN 1
-https://dai.google.com/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
-#EXTINF:-1 tvg-id="1000009279" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="SONYLIV", Sony TEN 2
-https://dai.google.com/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
-#EXTINF:-1 tvg-id="1000009283" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="SONYLIV", Sony TEN 3
-https://dai.google.com/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
-#EXTINF:-1 tvg-id="1000119187" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="SONYLIV", Sony TEN 4
-https://dai.google.com/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
-#EXTINF:-1 tvg-id="1000009281" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SONYLIV", Sony TEN 5
-https://dai.google.com/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
-#EXTINF:-1 tvg-id="1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SONYLIV", Sony TEN 1 HD
-https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
-#EXTINF:-1 tvg-id="1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SONYLIV", Sony TEN 2 HD
-https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
-#EXTINF:-1 tvg-id="1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SONYLIV", Sony TEN 3 HD
-https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
-#EXTINF:-1 tvg-id="1000119186" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SONYLIV", Sony TEN 4 HD
-https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
-#EXTINF:-1 tvg-id="1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SONYLIV", Sony TEN 5 HD
-https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+
 
 ***DISH TV***
-#EXTINF:-1 tvg-id="zee-bihar-jharkhand" tvg-logo="https://i.ibb.co/TWqvt2T/download.png" group-title="Dish TV", Voice Urdu Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TWqvt2T/download.png" group-title="Dish TV", Voice Urdu Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://live1.ottlive.co.in/voiceurdutv/voiceurdutv/index.m3u8
 
@@ -63,14 +38,6 @@ https://live.gulistannews.in/hls/jk.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
 https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://tsdevil.fun/Devil2_0/tplay-api/live-key.php?id=24#EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
-#EXTHTTP:{"origin":"https://watch.tataplay.com", "referer":"https://watch.tataplay.com/"}
-#EXTINF:-1 tvg-id="ts24" tvg-logo="https://i.postimg.cc/xTgWNMPV/images.jpg" group-title="Dish Tv", Star Sports hindi HD
-https://tsdevil.fun/Devil2_0/tplay-api/live-mpd.php?id=24|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2WwGBzd/images-1.jpg" group-title="Dish TV" ,Peace TV Urdu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36,IPTVSmartersPlayer
@@ -98,7 +65,7 @@ https://la.drmlive.au/tp/zee-176.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-classic/logo_20231219_184825_52.png" group-title="Dish TV",Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
-#EXTINF:-1 tvg-name="Zee Anmol Cinema 2" tvg-language="Hindi" group-title="Dish TV" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list_clean/1170x658b1a857ea78b747b4a6256dd13b3828fd.png",Zee Anmol Cinema 2
+#EXTINF:-1 tvg-language="Hindi" group-title="Dish TV" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list_clean/1170x658b1a857ea78b747b4a6256dd13b3828fd.png",Zee Anmol Cinema 2
 https://play.denver1769.fun/Play/Z5/index.php?id=0-9-bigganga|User-Agent=Denver1769
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Dish TV", SONY SAB
@@ -277,8 +244,6 @@ http://192.168.1.4:5350/live/1450.m3u8
 http://192.168.1.4:5350/live/1471.m3u8
 #EXTINF:-1 tvg-id=1477 tvg-name="Colors Cineplex HD" tvg-logo="http://192.168.1.4:5350/jtvimage/Color_Cineplex_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex HD
 http://192.168.1.4:5350/live/1477.m3u8
-#EXTINF:-1 tvg-id=1658 tvg-name="Aalami Samay" tvg-logo="http://192.168.1.4:5350/jtvimage/Aalami_Samay.png" tvg-language="Urdu" tvg-type="News" group-title="News", Aalami Samay
-http://192.168.1.4:5350/live/1658.m3u8
 #EXTINF:-1 tvg-id=1699 tvg-name="ANN News" tvg-logo="http://192.168.1.4:5350/jtvimage/ANN_News.png" tvg-language="Urdu" tvg-type="News" group-title="News", ANN News
 http://192.168.1.4:5350/live/1699.m3u8
 #EXTINF:-1 tvg-id=1763 tvg-name="Colors Cineplex Bollywood" tvg-logo="http://192.168.1.4:5350/jtvimage/Colors_Cineplex_Bollywood.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Bollywood
@@ -291,5 +256,3 @@ http://192.168.1.4:5350/live/2017.m3u8
 http://192.168.1.4:5350/live/2326.m3u8
 #EXTINF:-1 tvg-id=2772 tvg-name="India Daily Live" tvg-logo="http://192.168.1.4:5350/jtvimage/India_Daily_Live.png" tvg-language="Hindi" tvg-type="News" group-title="News", India Daily Live
 http://192.168.1.4:5350/live/2772.m3u8
-#EXTINF:-1 tvg-id=3025 tvg-name="India TV Aap Ki Adalat" tvg-logo="http://192.168.1.4:5350/jtvimage/Aap_Ki_Adalat.png" tvg-language="Hindi" tvg-type="News" group-title="News", India TV Aap Ki Adalat
-http://192.168.1.4:5350/live/3025.m3u8
