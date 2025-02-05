@@ -88,7 +88,8 @@ https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8|user-agent=Mozilla/5.0 (W
 https://m3u.yuvraj49.xyz/z5/index.m3u8?id=0-9-209&token=nWB9eiCBAlJS
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mqGWxgv/20241202-102006-0000.png" group-title="Dish TV",Star Gold2
-http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/510292.ts
+#EXTVLCOPT:http-user-agent=Safari/537.36
+https://m3u.yuvraj49.xyz/extra/str-gold-2/manifest.m3u8?token=nWB9eiCBAlJS
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X5VT04d/Untitled-design-20250126-182551-0000.png" group-title="Dish TV", Zee Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -159,7 +160,7 @@ http://funcomtv.ydns.eu:80/live/frenzo/frenzo/3694.ts
 https://mix.drmlive.au/mix/star-40.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x6PyHgN/In-Shot-20241202-102835810.jpg" group-title="Dish TV",Star Gold Romance
-http://tv.cloudcdn.me:80/live.ts?channelId=128485&uid=9423&deviceMac=00:1A:79:68:B0:74
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/72240
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6wJQyP0/In-Shot-20241202-103136338.jpg" group-title="Dish TV",Star Gold Select HD
 http://activefrance.net:80/PMF3J9X/BV7HG8H/1020180
