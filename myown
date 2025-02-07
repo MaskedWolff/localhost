@@ -83,10 +83,9 @@ EXTINF:-1 tvg-id="ts559" tvg-logo="https://xstreamcp-assets-msp.streamready.in/a
 
 #EXTINF:-1 tvg-id="Zee Cinema" ch-number="251" tvg-name="Zee Cinema" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/490_144.png" group-title="Dish TV",Zee Cinema HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IPOS5aECG+aPwyvNuew61A", "kid":"25ZIOQB2LiM6p4MEV6DTEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
 
 #EXTINF:-1 group-title="Dish TV", tvg-logo="https://i.ibb.co/1zFVnXg/makkahlive.png",MAKKAH LIVE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
