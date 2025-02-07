@@ -16,7 +16,11 @@ https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 
 
-***DISH TV***
+***DISH TV*** 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pvt5V87m/20250208-012400-0000.png" group-title="Dish TV", MBC Bollywood
+http://mega4k.one:8080/chanpreet/chanpreet/131695
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TWqvt2T/download.png" group-title="Dish TV", Voice Urdu Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://live1.ottlive.co.in/voiceurdutv/voiceurdutv/index.m3u8
