@@ -59,6 +59,7 @@ https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8|user-agent=Mozilla/5.0 (W
 https://m3u.yuvraj49.xyz/z5/index.m3u8?id=0-9-209&token=nWB9eiCBAlJS
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mqGWxgv/20241202-102006-0000.png" group-title="Dish TV",Star Gold2
+#EXTVLCOPT:http-user-agent=Denver1769
 http://port.denver1769.fun/oplx4.php?id=106133
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X5VT04d/Untitled-design-20250126-182551-0000.png" group-title="Dish TV", Zee Classic
@@ -134,7 +135,7 @@ https://mix.drmlive.au/mix/star-40.mpd
 http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/630
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6wJQyP0/In-Shot-20241202-103136338.jpg" group-title="Dish TV",Star Gold Select HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Denver1769
 http://port.denver1769.fun/oplx4.php?id=221257
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
