@@ -1,22 +1,22 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://tsdevil.fun/Devilbhai/tplay-api/live-key.php?id=605#EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
+#KODIPROP:inputstream.adaptive.license_key=https://tsdevil.fun/Devilbhai/tplay-api/live-key.php?id=605
 #EXTINF:-1 tvg-id="ts605" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Nature" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png",National Geographic HD
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
 https://tsdevil.fun/Devilbhai/tplay-api/live-mpd.php?id=605|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://tsdevil.fun/Devilbhai/tplay-api/live-key.php?id=137#EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
+#KODIPROP:inputstream.adaptive.license_key=https://tsdevil.fun/Devilbhai/tplay-api/live-key.php?id=137
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
 #EXTHTTP:{"origin":"https://watch.tataplay.com", "referer":"https://watch.tataplay.com/"}
-#EXTINF:-1 tvg-id="ts137" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Nature" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-462-j5jw44hk-v2/imageContent-462-j5jw44hk-m3.png",National Geographic
+#EXTINF:-1 tvg-id="ts137" group-title="Nature" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-462-j5jw44hk-v2/imageContent-462-j5jw44hk-m3.png",National Geographic
 https://tsdevil.fun/Devilbhai/tplay-api/live-mpd.php?id=137|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tsdevil.fun/Devilbhai/tplay-api/live-key.php?id=413
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
+#EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
 #EXTINF:-1 tvg-id="ts413" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Nature" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png",Nat Geo Wild HD
 https://tsdevil.fun/Devilbhai/tplay-api/live-mpd.php?id=413|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
 
