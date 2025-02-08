@@ -23,7 +23,7 @@ https://tsdevil.fun/Devilbhai/tplay-api/live-mpd.php?id=413|Origin="https://watc
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tsdevil.fun/Devilbhai/tplay-api/live-key.php?id=184
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
+#EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
 #EXTINF:-1 tvg-id="ts184" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Nature" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-438-j5jt26xc-v2/imageContent-438-j5jt26xc-m2.png",Nat Geo Wild
 https://tsdevil.fun/Devilbhai/tplay-api/live-mpd.php?id=184|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
 
