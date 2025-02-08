@@ -134,6 +134,7 @@ https://mix.drmlive.au/mix/star-40.mpd
 http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/630
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6wJQyP0/In-Shot-20241202-103136338.jpg" group-title="Dish TV",Star Gold Select HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 http://port.denver1769.fun/oplx4.php?id=221257
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
