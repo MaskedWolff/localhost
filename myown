@@ -1,32 +1,3 @@
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://tsdevil.fun/Devilbhai/tplay-api/live-key.php?id=605
-#EXTINF:-1 tvg-id="ts605" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Nature" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png",National Geographic HD
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
-https://tsdevil.fun/Devilbhai/tplay-api/live-mpd.php?id=605|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://tsdevil.fun/Devilbhai/tplay-api/live-key.php?id=137
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
-#EXTHTTP:{"origin":"https://watch.tataplay.com", "referer":"https://watch.tataplay.com/"}
-#EXTINF:-1 tvg-id="ts137" group-title="Nature" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-462-j5jw44hk-v2/imageContent-462-j5jw44hk-m3.png",National Geographic
-https://tsdevil.fun/Devilbhai/tplay-api/live-mpd.php?id=137|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://tsdevil.fun/Devilbhai/tplay-api/live-key.php?id=413
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
-#EXTINF:-1 tvg-id="ts413" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Nature" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png",Nat Geo Wild HD
-https://tsdevil.fun/Devilbhai/tplay-api/live-mpd.php?id=413|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://tsdevil.fun/Devilbhai/tplay-api/live-key.php?id=184
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
-#EXTINF:-1 tvg-id="ts184" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Nature" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-438-j5jt26xc-v2/imageContent-438-j5jt26xc-m2.png",Nat Geo Wild
-https://tsdevil.fun/Devilbhai/tplay-api/live-mpd.php?id=184|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
-
 **SONY LIV**
 
 #EXTINF:-1 tvg-id="1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", SET HD
@@ -101,10 +72,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-language="Hindi" group-title="Dish TV" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list_clean/1170x658b1a857ea78b747b4a6256dd13b3828fd.png",Zee Anmol Cinema 2
 https://play.denver1769.fun/Play/Z5/index.php?id=0-9-bigganga|User-Agent=Denver1769
 
-EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Dish TV", SONY SAB
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Dish TV", SONY SAB
 https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=sonysab_hd
 
-#EXTINF:-1 tvg-id="ts559" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Dish TV", SONY SAB
+EXTINF:-1 tvg-id="ts559" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Dish TV", SONY SAB
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -147,7 +118,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/1637
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZSJGRcj/Free-Simple-Modern-Circle-Design-Studio-Logo-20241205-125001-0000.png" group-title="Dish TV",Nat Geo HD
-http://mega4k.one:8080/23004/23004/97504
+http://activefrance.net:80/live/PMF3J9X/BV7HG8H/72220.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YtYyLWp/images-1.jpg" group-title="Dish TV",Sony BBC Earth HD
 http://mega4k.one:8080/23004/23004/97505
