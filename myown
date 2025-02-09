@@ -72,10 +72,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-language="Hindi" group-title="Dish TV" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list_clean/1170x658b1a857ea78b747b4a6256dd13b3828fd.png",Zee Anmol Cinema 2
 https://play.denver1769.fun/Play/Z5/index.php?id=0-9-bigganga|User-Agent=Denver1769
 
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Dish TV", SONY SAB
+EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Dish TV", SONY SAB
 https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=sonysab_hd
 
-EXTINF:-1 tvg-id="ts559" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Dish TV", SONY SAB
+#EXTINF:-1 tvg-id="ts559" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Dish TV", SONY SAB
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -102,8 +102,11 @@ https://quraan-enc.edgenextcdn.net/out/v1/c83937d3ef504ec49b5acd0cf7339f29/index
 #KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=3084383b39c3452b81ee0535bd381dee&key=bf25afb0796a4a73f127f056c206800d
 https://sunna-enc.edgenextcdn.net/out/v1/561f3a49088b47869fffb53d1412fe29/index.mpd
 
-#EXTINF:-1 channel-id="INBD47000042I" tvg-id="INBD47000042I" tvg-chno="1267" tvg-name="The Q Kahaniyan" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD47000042I_20240912T093648SQUARE.png" group-title="Dish TV", The Q Kahaniyan
-https://jmp2.uk/sam-INBD47000042I.m3u8
+#EXTINF:-1 channel-id="IN460000585" tvg-id="IN460000585" tvg-name="Wild Flix" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000585_20250205T004623SQUARE.png" group-title="Dish TV", Wild Flix
+https://jmp2.uk/sam-IN460000585.m3u8
+
+#EXTINF:-1 channel-id="IN46000011Q" tvg-id="IN46000011Q" tvg-name="XXTreme Jobs" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000011Q_20250205T004626SQUARE.png" group-title="Dish TV", XXTreme Jobs
+https://jmp2.uk/sam-IN46000011Q.m3u8
 
 #EXTINF:-1 channel-id="IN38000072R" tvg-id="IN38000072R" tvg-chno="1000" tvg-name="The Movie Club" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20241211T020400SQUARE.png" group-title="Dish TV", The Movie Club
 https://jmp2.uk/sam-IN38000072R.m3u8
