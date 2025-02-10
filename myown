@@ -134,6 +134,7 @@ http://mega4k.one:8080/23004/23004/97505
 https://mix.drmlive.au/mix/star-40.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x6PyHgN/In-Shot-20241202-102835810.jpg" group-title="Dish TV",Star Gold Romance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://link.luckonline.eu/live/Sohail02/myQYkEntaxuZ/630.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6wJQyP0/In-Shot-20241202-103136338.jpg" group-title="Dish TV",Star Gold Select HD
