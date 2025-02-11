@@ -74,7 +74,15 @@ https://play.denver1769.fun/Play/Z5/index.php?id=0-9-bigganga|User-Agent=Denver1
 EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Dish TV", SONY SAB
 https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=sonysab_hd
 
-#EXTINF:-1 tvg-id="ts559" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Dish TV", SONY SAB
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.yuvraj49.xyz/p/nWesqaGDW2R3/artl/license/key?id=sony-sab
+EXTINF:-1 tvg-id="ts559" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Dish TV", SONY SAB
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.yuvraj49.xyz/p/nWesqaGDW2R3/artl/sony-sab/manifest.mpd|User-Agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+
+
+EXTINF:-1 tvg-id="ts559" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Dish TV", SONY SAB
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
