@@ -136,9 +136,9 @@ http://mega4k.one:8080/23004/23004/97505
 #KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.au/mix/star-40.mpd
 https://mix.drmlive.au/mix/star-40.mpd
 
-🚫EXTINF:-1 tvg-logo="https://i.ibb.co/x6PyHgN/In-Shot-20241202-102835810.jpg" group-title="Dish TV",Star Gold2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x6PyHgN/In-Shot-20241202-102835810.jpg" group-title="Dish TV",Star Gold2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:19:20:C6&stream=569809&extension=ts
+https://webhop.xyz:443/live/5976336097/4425004958/98858.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6wJQyP0/In-Shot-20241202-103136338.jpg" group-title="Dish TV",Star Gold Select HD
 #EXTVLCOPT:http-user-agent=Denver1769
