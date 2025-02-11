@@ -128,7 +128,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://mega4k.one:8080/kamini11/kamini11/95902
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZSJGRcj/Free-Simple-Modern-Circle-Design-Studio-Logo-20241205-125001-0000.png" group-title="Dish TV",Nat Geo HD
-http://activefrance.net:80/live/PMF3J9X/BV7HG8H/72220.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
+https://m3u.yuvraj49.xyz/p/nWesqaGDW2R3/manifest/413.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YtYyLWp/images-1.jpg" group-title="Dish TV",Sony BBC Earth HD
 http://mega4k.one:8080/23004/23004/97505
