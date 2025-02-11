@@ -58,8 +58,7 @@ https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8|user-agent=Mozilla/5.0 (W
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://m3u.yuvraj49.xyz/z5/index.m3u8?id=0-9-209&token=nWB9eiCBAlJS
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mqGWxgv/20241202-102006-0000.png" group-title="Dish TV",Star Gold2
-#EXTVLCOPT:http-user-agent=Denver1769
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x6PyHgN/In-Shot-20241202-102835810.jpg" group-title="Dish TV",Star Gold Romance
 http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:19:20:C6&stream=569809&extension=ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X5VT04d/Untitled-design-20250126-182551-0000.png" group-title="Dish TV", Zee Classic
@@ -133,7 +132,7 @@ http://mega4k.one:8080/23004/23004/97505
 #KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.au/mix/star-40.mpd
 https://mix.drmlive.au/mix/star-40.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x6PyHgN/In-Shot-20241202-102835810.jpg" group-title="Dish TV",Star Gold Romance
+🚫EXTINF:-1 tvg-logo="https://i.ibb.co/x6PyHgN/In-Shot-20241202-102835810.jpg" group-title="Dish TV",Star Gold2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:19:20:C6&stream=569809&extension=ts
 
