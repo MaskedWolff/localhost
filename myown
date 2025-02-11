@@ -51,6 +51,8 @@ https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8|user-agent=Mozilla/5.0 (W
 https://m3u.yuvraj49.xyz/z5/index.m3u8?id=0-9-209&token=nWB9eiCBAlJS
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x6PyHgN/In-Shot-20241202-102835810.jpg" group-title="Dish TV",Star Gold Romance
+https://webhop.xyz:443/live/5976336097/4425004958/972.ts
+
 http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:19:20:C6&stream=569809&extension=ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X5VT04d/Untitled-design-20250126-182551-0000.png" group-title="Dish TV", Zee Classic
