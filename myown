@@ -123,13 +123,17 @@ https://api-ott-zee-zb.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id
 #EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/bollywood-hd.jpg" group-title="Dish TV",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://amit-2.allinonereborn.in/tataplay/key.php?id=413
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GVrRhGT/Free-Simple-Modern-Circle-Design-Studio-Logo-20241205-124418-0000.png" group-title="Dish TV",Nat Geo Wild HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
-https://m3u.yuvraj49.xyz/p/nWesqaGDW2R3/manifest/605.m3u8|User-Agent=Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
+http://amit-2.allinonereborn.in/tataplay/manifest.php?id=413|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36"&Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://amit-2.allinonereborn.in/tataplay/key.php?id=605
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZSJGRcj/Free-Simple-Modern-Circle-Design-Studio-Logo-20241205-125001-0000.png" group-title="Dish TV",Nat Geo HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
-https://m3u.yuvraj49.xyz/p/nWesqaGDW2R3/manifest/413.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+http://amit-2.allinonereborn.in/tataplay/manifest.php?id=605|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36"&Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YtYyLWp/images-1.jpg" group-title="Dish TV",Sony BBC Earth HD
 http://mega4k.one:8080/23004/23004/97505
