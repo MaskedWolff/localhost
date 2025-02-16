@@ -20,7 +20,7 @@ https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 https://dai.google.com/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
 #EXTINF:-1 tvg-id="1000009247" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="SONYLIV", Sony MAX HD
 https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
-#EXTINF:-1 tvg-id="1000044878" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="SONYLIV", Sony MAX2
+EXTINF:-1 tvg-id="1000044878" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="SONYLIV", Sony MAX2
 https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 
 
@@ -275,3 +275,30 @@ http://192.168.1.3:5350/live/2017.m3u8
 http://192.168.1.3:5350/live/2326.m3u8
 #EXTINF:-1 tvg-id=2772 tvg-name="India Daily Live" tvg-logo="http://192.168.1.3:5350/jtvimage/India_Daily_Live.png" tvg-language="Hindi" tvg-type="News" group-title="News", India Daily Live
 http://192.168.1.3:5350/live/2772.m3u8
+
+***TOFFEE***
+
+#EXTINF:-1 group-title="TOFFEE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png", SONY MAX2
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1739852375:KeyName=prod_linear:Signature=Q3zFzXnaEu3574DLXB-TVd4ySUtipRdHH12cuMMgK03CcP0LGueKxZRRHXussbJMV12x5CgoRRW9mcI1ckNgAA"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sonymax_2/playlist.m3u8|cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1739852375:KeyName=prod_linear:Signature=Q3zFzXnaEu3574DLXB-TVd4ySUtipRdHH12cuMMgK03CcP0LGueKxZRRHXussbJMV12x5CgoRRW9mcI1ckNgAA
+
+#EXTINF:-1 group-title="TOFFEE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png", SONY MAX HD
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1739852375:KeyName=prod_linear:Signature=Q3zFzXnaEu3574DLXB-TVd4ySUtipRdHH12cuMMgK03CcP0LGueKxZRRHXussbJMV12x5CgoRRW9mcI1ckNgAA"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max_hd/playlist.m3u8|cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1739852375:KeyName=prod_linear:Signature=Q3zFzXnaEu3574DLXB-TVd4ySUtipRdHH12cuMMgK03CcP0LGueKxZRRHXussbJMV12x5CgoRRW9mcI1ckNgAA
+
+#EXTINF:-1 group-title="TOFFEE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png", SONY MAX
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1739852375:KeyName=prod_linear:Signature=Q3zFzXnaEu3574DLXB-TVd4ySUtipRdHH12cuMMgK03CcP0LGueKxZRRHXussbJMV12x5CgoRRW9mcI1ckNgAA"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8|cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1739852375:KeyName=prod_linear:Signature=Q3zFzXnaEu3574DLXB-TVd4ySUtipRdHH12cuMMgK03CcP0LGueKxZRRHXussbJMV12x5CgoRRW9mcI1ckNgAA
+
+#EXTINF:-1 group-title="TOFFEE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png", SONY HD
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1739852375:KeyName=prod_linear:Signature=Q3zFzXnaEu3574DLXB-TVd4ySUtipRdHH12cuMMgK03CcP0LGueKxZRRHXussbJMV12x5CgoRRW9mcI1ckNgAA"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyentertainmnt_hd/playlist.m3u8|cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1739852375:KeyName=prod_linear:Signature=Q3zFzXnaEu3574DLXB-TVd4ySUtipRdHH12cuMMgK03CcP0LGueKxZRRHXussbJMV12x5CgoRRW9mcI1ckNgAA
+
+#EXTINF:-1 group-title="TOFFEE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png", SONY SD
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1739852375:KeyName=prod_linear:Signature=Q3zFzXnaEu3574DLXB-TVd4ySUtipRdHH12cuMMgK03CcP0LGueKxZRRHXussbJMV12x5CgoRRW9mcI1ckNgAA"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8|cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1739852375:KeyName=prod_linear:Signature=Q3zFzXnaEu3574DLXB-TVd4ySUtipRdHH12cuMMgK03CcP0LGueKxZRRHXussbJMV12x5CgoRRW9mcI1ckNgAA
