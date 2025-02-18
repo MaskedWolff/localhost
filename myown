@@ -128,7 +128,8 @@ http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/1637
 http://103.115.126.26:8000/play/a054/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YtYyLWp/images-1.jpg" group-title="Dish TV",Sony BBC Earth HD
-http://mega4k.one:8080/23004/23004/97505
+http://103.115.126.26:8000/play/a04n/index.m3u8
+$$http://mega4k.one:8080/23004/23004/97505
 
 #EXTINF:-1 tvg-id="1260000040" tvg-logo="https://i.ibb.co/WKprrN6/IMG-20220810-100722-749.jpg" group-title="Dish TV" ,Star GOLD HD
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
