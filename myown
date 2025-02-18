@@ -6,6 +6,14 @@
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=sony-sab
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_SAB" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Dish TV", SONY SAB SD
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3Nvbnlfc2FiL25kYXNoZC8=:Expires=1739928721:KeyName=iptv-prod-media-cdn-keys:Signature=by8RD3wHDDcDYsmaErsIrmIU5ABBkEYeISW-Ccp13Ewr18-HHZpfAE9SMJ5u-5WvdACeOI-AeAIPQ6_CxyNeBg=="}
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://companion-live-play1.streamready.in/live/med14/sony_sab/ndashd/sony_sab.mpd|cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3Nvbnlfc2FiL25kYXNoZC8=:Expires=1739928721:KeyName=iptv-prod-media-cdn-keys:Signature=by8RD3wHDDcDYsmaErsIrmIU5ABBkEYeISW-Ccp13Ewr18-HHZpfAE9SMJ5u-5WvdACeOI-AeAIPQ6_CxyNeBg==
+
 𝐒𝐎𝐍𝐘 𝐂𝐇𝐀𝐍𝐍𝐄𝐋𝐒
 
 #EXTINF:-1 tvg-id="1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", SET HD
@@ -78,16 +86,6 @@ https://play.denver1769.fun/Play/Z5/index.php?id=0-9-bigganga|User-Agent=Denver1
 
 EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Dish TV", SONY SAB
 https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=sonysab_hd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=sony-sab
-#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_SAB" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Dish TV", SONY SAB
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3Nvbnlfc2FiL25kYXNoZC8=:Expires=1739928721:KeyName=iptv-prod-media-cdn-keys:Signature=by8RD3wHDDcDYsmaErsIrmIU5ABBkEYeISW-Ccp13Ewr18-HHZpfAE9SMJ5u-5WvdACeOI-AeAIPQ6_CxyNeBg=="}
-#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
-https://companion-live-play1.streamready.in/live/med14/sony_sab/ndashd/sony_sab.mpd|cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3Nvbnlfc2FiL25kYXNoZC8=:Expires=1739928721:KeyName=iptv-prod-media-cdn-keys:Signature=by8RD3wHDDcDYsmaErsIrmIU5ABBkEYeISW-Ccp13Ewr18-HHZpfAE9SMJ5u-5WvdACeOI-AeAIPQ6_CxyNeBg==
-
-
 
 EXTINF:-1 tvg-id="ts559" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Dish TV", SONY SAB
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
