@@ -124,11 +124,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GVrRhGT/Free-Simple-Modern-Circle-Design-Studio-Logo-20241205-124418-0000.png" group-title="Dish TV",Nat Geo Wild HD
 http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/1637
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://amit-2.allinonereborn.in/tataplay/key.php?id=605
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZSJGRcj/Free-Simple-Modern-Circle-Design-Studio-Logo-20241205-125001-0000.png" group-title="Dish TV",Nat Geo HD
-http://amit-2.allinonereborn.in/tataplay/manifest.php?id=605|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36"&Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
+http://103.115.126.26:8000/play/a054/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YtYyLWp/images-1.jpg" group-title="Dish TV",Sony BBC Earth HD
 http://mega4k.one:8080/23004/23004/97505
