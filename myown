@@ -81,10 +81,12 @@ https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=sonysab_hd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3u.yuvraj49.xyz/p/nWesqaGDW2R3/artl/license/key?id=sony-sab
-#EXTINF:-1 tvg-id="ts559" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Dish TV", SONY SAB
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=sony-sab
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_SAB" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Dish TV", SONY SAB
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3Nvbnlfc2FiL25kYXNoZC8=:Expires=1739893843:KeyName=iptv-prod-media-cdn-keys:Signature=-1-POUfrOVDnoUbj3Njg5JQTM2HI8k1RgrSftCvA9JdS7Fzd7DVUCyC4cdjrCigr5m8KtqPNuIxAPgXJpy1TAw=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
-https://m3u.yuvraj49.xyz/p/nWesqaGDW2R3/artl/sony-sab/manifest.mpd|User-Agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://companion-live-play1.streamready.in/live/med14/sony_sab/ndashd/sony_sab.mpd|cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3Nvbnlfc2FiL25kYXNoZC8=:Expires=1739893843:KeyName=iptv-prod-media-cdn-keys:Signature=-1-POUfrOVDnoUbj3Njg5JQTM2HI8k1RgrSftCvA9JdS7Fzd7DVUCyC4cdjrCigr5m8KtqPNuIxAPgXJpy1TAw==
+
 
 
 EXTINF:-1 tvg-id="ts559" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Dish TV", SONY SAB
