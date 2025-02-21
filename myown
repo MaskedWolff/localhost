@@ -93,12 +93,12 @@ https://play.denver1769.fun/Play/Z5/index.php?id=0-9-bigganga|User-Agent=Denver1
 EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Dish TV", SONY SAB
 https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=sonysab_hd
 
-EXTINF:-1 tvg-id="ts559" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Dish TV", SONY SAB
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://tsdevil.fun/Devilbhai/tplay-api/live-key.php?id=559
-https://tsdevil.fun/Devilbhai/tplay-api/live-mpd.php?id=559|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=sony-sab
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Dish TV", SONY SAB
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3Nvbnlfc2FiL25kYXNoZC8=:Expires=1740178559:KeyName=iptv-prod-media-cdn-keys:Signature=em4GnvoXlNS7Wvrk_OQgaDczEvpp-Q1fMq7YRVvPgwE6YLoNeUXt6FIYoEqZgofy8OVQSxP5HK0DBwtvrHJLCQ=="}
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://companion-live-play1.streamready.in/live/med14/sony_sab/ndashd/sony_sab.mpd
 
 #EXTINF:-1 group-title="Dish TV", tvg-logo="https://i.ibb.co/1zFVnXg/makkahlive.png",MAKKAH LIVE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
