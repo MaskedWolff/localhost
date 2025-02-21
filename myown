@@ -6,6 +6,12 @@
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://pstlive.run.place/19vhhvuw/pstlive_1183.key
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="ts1183" group-title="Dish TV" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png",&Xplor HD
+http://pstlive.run.place/19vhhvuw/pstlive_1183.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36"&Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/" 
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=sony-sab
@@ -65,8 +71,8 @@ https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_list/1170x658withlog1953200347.png" group-title="Dish TV", Zee Action
 https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4FQDH0H/20250127-011121-0000.png" group-title="Dish TV", &Xplor HD
-#EXTVLCOPT:http-user-agent=TiviMate/5.1.0
+EXTINF:-1 tvg-logo="https://i.ibb.co/4FQDH0H/20250127-011121-0000.png" group-title="Dish TV", &Xplor HD
+EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://m3u.yuvraj49.xyz/z5/index.m3u8?id=0-9-209&token=nWB9eiCBAlJS
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x6PyHgN/In-Shot-20241202-102835810.jpg" group-title="Dish TV",Star Gold Romance
