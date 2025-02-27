@@ -12,12 +12,12 @@ https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
 #EXTINF:-1 tvg-id="ts1183" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Dish TV" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png",&Xplor HD
 https://live.drmlive-02.workers.dev/zee/209.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=sony-sab
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Dish TV", SONY SAB
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3Nvbnlfc2FiL25kYXNoZC8=:Expires=1740406120:KeyName=iptv-prod-media-cdn-keys:Signature=l1E-UuyxZjvsl6CeyZCTMIN4c983mEUWbuYttVwf08ado4GfZBgRs0xIDuMrKguWOYaRBRJzL14TNJfDM6ueCg=="}
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/Kzdgtk8y2YRw/artl/license/key?id=sony-sab
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_SAB" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Dish TV", SONY SAB
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
-https://companion-live-play1.streamready.in/live/med14/sony_sab/ndashd/sony_sab.mpd|cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3Nvbnlfc2FiL25kYXNoZC8=:Expires=1740406120:KeyName=iptv-prod-media-cdn-keys:Signature=l1E-UuyxZjvsl6CeyZCTMIN4c983mEUWbuYttVwf08ado4GfZBgRs0xIDuMrKguWOYaRBRJzL14TNJfDM6ueCg==
+https://m3u.ygxworld.in/p/Kzdgtk8y2YRw/artl/sony-sab/manifest.mpd|User-Agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 
 𝐒𝐎𝐍𝐘 𝐂𝐇𝐀𝐍𝐍𝐄𝐋𝐒
 
@@ -44,6 +44,12 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 
 #EXTINF:-1 tvg-id="1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Dish TV", Sony SET HD
 http://170.254.18.107/SONY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ottplay.com/images/ottplay-378.jpg" group-title="Dish TV", Goldmines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ottplay.com/images/ottplay-378.jpg" group-title="Dish TV", Goldmines2
+https://cdn-2.pishow.tv/live/1460/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TWqvt2T/download.png" group-title="Dish TV", Voice Urdu Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
