@@ -66,15 +66,14 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_Urdu_NW18_MOB/output01/index.m3u8
 https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2WwGBzd/images-1.jpg" group-title="Dish TV" ,Peace TV Urdu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36,IPTVSmartersPlayer
 https://cors-proxy.cooks.fyi/https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5vWmCQZ/images.jpg" group-title="Dish TV" ,Peace TV English
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://cors-proxy.cooks.fyi/https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_list/1170x658withlog1953200347.png" group-title="Dish TV", Zee Action
-https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/4FQDH0H/20250127-011121-0000.png" group-title="Dish TV", &Xplor HD
 EXTVLCOPT:http-user-agent=TiviMate/5.1.0
@@ -93,7 +92,8 @@ https://la.drmlive.au/tp/zee-176.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
 #EXTINF:-1 tvg-language="Hindi" group-title="Dish TV" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list_clean/1170x658b1a857ea78b747b4a6256dd13b3828fd.png",Zee Anmol Cinema 2
-https://play.denver1769.fun/Play/Z5/index.php?id=0-9-bigganga|User-Agent=Denver1769
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/bigganga.m3u8
 
 EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Dish TV", SONY SAB
 https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=sonysab_hd
@@ -119,42 +119,29 @@ https://jmp2.uk/sam-IN46000011Q.m3u8
 #EXTINF:-1 channel-id="IN38000072R" tvg-id="IN38000072R" tvg-chno="1000" tvg-name="The Movie Club" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20241211T020400SQUARE.png" group-title="Dish TV", The Movie Club
 https://jmp2.uk/sam-IN38000072R.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22882/zee-bollyworld/logo_20240326_225354_70.png" group-title="Dish TV", Zee Bollywolrd
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22882/zee-bollyworld/logo_20240326_225354_70.png" group-title="Dish TV", Zee BollyworLd
 https://api-ott-zee-zb.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=distro&ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22882&ads.content_duration=18000&ads.episode_id=126290&ads.show_id=5065&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CBollywood%2CClassic%20Movies%2CAsian&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=hi&ads.showtitle=Zee%20BollyWorld&ads.episodetitle=Zee%20BollyWorld&ads.keywords=Zee%2CBollyWorld%2CBollywood%2CClassic&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live&ads.vf=20241020
 
 #EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/bollywood-hd.jpg" group-title="Dish TV",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://playflix.icu/rj-1/keys.php?id=413
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GVrRhGT/Free-Simple-Modern-Circle-Design-Studio-Logo-20241205-124418-0000.png" group-title="Dish TV",Nat Geo Wild HD
-https://playflix.icu/rj-1/manifest.php?id=413|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36"&Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
-https://freelivtvog.vercel.app/play.m3u8?id=206285
+https://fifabd.site/OPLLX3/play.m3u8?id=206286
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://playflix.icu/rj-1/keys.php?id=605
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZSJGRcj/Free-Simple-Modern-Circle-Design-Studio-Logo-20241205-125001-0000.png" group-title="Dish TV",Nat Geo HD
-https://playflix.icu/rj-1/manifest.php?id=605|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36"&Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
-https://freelivtvog.vercel.app/play.m3u8?id=206286
-http://103.115.126.26:8000/play/a054/index.m3u8
+http://cool365.xyz:900/live/4160189881/DB4ACD54/186967.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YtYyLWp/images-1.jpg" group-title="Dish TV",Sony BBC Earth HD
+EXTINF:-1 tvg-logo="https://i.ibb.co/YtYyLWp/images-1.jpg" group-title="Dish TV",Sony BBC Earth HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://103.115.126.26:8000/play/a04n/index.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-
-$$http://mega4k.one:8080/23004/23004/97505
+http://mega4k.one:8080/23004/23004/97505
 
 #EXTINF:-1 tvg-id="1260000040" tvg-logo="https://i.ibb.co/WKprrN6/IMG-20220810-100722-749.jpg" group-title="Dish TV" ,Star GOLD HD
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/24.10.07.2.10543 (Android/9)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.au/mix/star-40.mpd
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/24.10.07.2.10543 (Android/9)
 https://mix.drmlive.au/mix/star-40.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x6PyHgN/In-Shot-20241202-102835810.jpg" group-title="Dish TV",Star Gold2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 http://opplex.ch:8080/live/10071975/10071975/106133.ts
 
 $$$EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -164,8 +151,6 @@ $$$https://webhop.xyz:443/live/5976336097/4425004958/157081.ts
 http://opplex.ch:8080/live/10071975/10071975/66176.ts
 http://103.115.126.26:8000/play/a04o/index.m3u8
 
-$$$EXTVLCOPT:http-user-agent=Denver1769
-$$$http://port.denver1769.fun/oplx4.php?id=221257
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
