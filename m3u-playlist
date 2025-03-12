@@ -45,7 +45,7 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://i.imgur.com/9Qq8DKh.png",Sony Kal HD
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.ottplay.com/images/ottplay-378.jpg" group-title="Dish TV", Goldmines
+#EXTINF:-1 tvg-logo="http://logo.opplextv.com/logo/goldmines.jpg" group-title="Dish TV", Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ottplay.com/images/ottplay-378.jpg" group-title="Dish TV", Goldmines2
@@ -125,11 +125,11 @@ https://api-ott-zee-zb.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id
 #EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/bollywood-hd.jpg" group-title="Dish TV",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GVrRhGT/Free-Simple-Modern-Circle-Design-Studio-Logo-20241205-124418-0000.png" group-title="Dish TV",Nat Geo Wild HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="Dish TV",Nat Geo Wild HD
 https://fifabd.site/OPLLX3/play.m3u8?id=206286
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZSJGRcj/Free-Simple-Modern-Circle-Design-Studio-Logo-20241205-125001-0000.png" group-title="Dish TV",Nat Geo HD
-http://cool365.xyz:900/live/4160189881/DB4ACD54/186967.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="Dish TV",Nat Geo HD
+https://fifabd.site/OPLLX3/play.m3u8?id=206285
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/YtYyLWp/images-1.jpg" group-title="Dish TV",Sony BBC Earth HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -230,7 +230,7 @@ http://192.168.1.6:5350/live/502.m3u8
 http://192.168.1.6:5350/live/504.m3u8
 #EXTINF:-1 tvg-id=518 tvg-name="Sudarshan" tvg-logo="http://192.168.1.6:5350/jtvimage/Sudarshan.png" tvg-language="Hindi" tvg-type="News" group-title="News", Sudarshan
 http://192.168.1.6:5350/live/518.m3u8
-#EXTINF:-1 tvg-id=566 tvg-name="Animal Planet Hindi" tvg-logo="http://192.168.1.6:5350/jtvimage/Animal_Planet_Hindi.png" tvg-language="Hindi" tvg-type="Nature" group-title="Nature", Animal Planet Hindi
+#EXTINF:-1 tvg-id=566 tvg-name="Animal Planet Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" tvg-language="Hindi" tvg-type="Nature" group-title="Nature", Animal Planet Hindi
 http://192.168.1.6:5350/live/566.m3u8
 #EXTINF:-1 tvg-id=575 tvg-name="Discovery Hindi" tvg-logo="http://192.168.1.6:5350/jtvimage/Discovery_Channel_Hindi.png" tvg-language="Hindi" tvg-type="Nature" group-title="Nature", Discovery Hindi
 http://192.168.1.6:5350/live/575.m3u8
