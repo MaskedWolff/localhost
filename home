@@ -142,9 +142,14 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/YtYyLWp/images-1.jpg" group-title="Dish TV"
 http://mega4k.one:8080/23004/23004/97505
 
 #EXTINF:-1 tvg-id="1260000040" tvg-logo="https://i.ibb.co/WKprrN6/IMG-20220810-100722-749.jpg" group-title="Dish TV" ,Star GOLD HD
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/24.10.07.2.10543 (Android/9)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.au/mix/star-40.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/Kz123yuvraj0/hs/license/keys?id=1260000020
+https://m3u.ygxworld.in/p/Kzmixtq7LoWc/hs/1260000020/index.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/824 (KHTML, like Gecko) Chrome/128.0.0.1 YGX/537.36"&Origin="https://www.hotstar.com"&Referer="https://www.hotstar.com/"
+
+EXTINF:-1 tvg-id="1260000040" tvg-logo="https://i.ibb.co/WKprrN6/IMG-20220810-100722-749.jpg" group-title="Dish TV" ,Star GOLD HD
+EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/24.10.07.2.10543 (Android/9)
+KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.au/mix/star-40.mpd
 https://mix.drmlive.au/mix/star-40.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x6PyHgN/In-Shot-20241202-102835810.jpg" group-title="Dish TV",Star Gold2
