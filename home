@@ -78,9 +78,21 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_Urdu_NW18_MOB/output01/index.m3u8
 https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2WwGBzd/images-1.jpg" group-title="Dish TV" ,Peace TV Urdu
-https://cors-proxy.cooks.fyi/https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
+http://192.168.1.3:8000/TP/play.php?id=223
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5vWmCQZ/images.jpg" group-title="Dish TV" ,Peace TV English
+http://192.168.1.3:8000/TP/play.php?id=2652
+
+#EXTINF:-1 tvg-id="199" tvg-logo="https://docdog.top/logo/countries/pakistan/aryqtv.png" group-title="Dish Tv",ARY QTV
+http://192.168.1.3:8000/TP/play.php?id=199
+
+#EXTINF:-1 tvg-id="220" tvg-logo="https://spoo.me/PAIGAM" group-title="Dish Tv",PAIGAM
+http://192.168.1.3:8000/TP/play.php?id=220
+
+EXTINF:-1 tvg-logo="https://i.ibb.co/2WwGBzd/images-1.jpg" group-title="Dish TV" ,Peace TV Urdu
+https://cors-proxy.cooks.fyi/https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
+
+EXTINF:-1 tvg-logo="https://i.ibb.co/5vWmCQZ/images.jpg" group-title="Dish TV" ,Peace TV English
 https://cors-proxy.cooks.fyi/https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X5VT04d/Untitled-design-20250126-182551-0000.png" group-title="Dish TV", Zee Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
