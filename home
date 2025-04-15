@@ -23,9 +23,9 @@ https://m3u.ygxworld.in/z5/index.m3u8?id=0-9-zeecinemahd&token=Kzmixtq7LoWc|User
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/209.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Dish TV", SONY SAB (SD)
+EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Dish TV", SONY SAB (SD)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.joker-verse.workers.dev/keys.json?id=559&uid=5576160134&pass=29187283
 #EXTHTTP:{"Origin": "https://watch.tataplay.com", "Referer": "https://watch.tataplay.com/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36"}
 https://tataplay.joker-verse.workers.dev/manifest.mpd?id=559&uid=5576160134&pass=29187283|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36"
@@ -185,9 +185,9 @@ https://bhavy.vercel.app/bhavy.m3u8?id=66176
 #EXTINF:-1 tvg-logo="https://media-hosting.imagekit.io//8ce5b46521ca4608/Black%20Flat%20Illustrative%20Dent%20Logo_20250323_151336_0000.png?Expires=1837331064&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=RB--U6roqUATl5LLuGBJ2mEdjgrG52q7qAgZcUkac5Pfc2givSM9-LDZj56W6pInZxnF1Q4OWvYZ6-Y3-gb8vKO6u2yXW1uvqpIAF0lfa5gcMhQR~e8TXQJwv0w~V8Wufl8Ofu116bpDy113uhorPyWRpQim5VCYXbFXmgKaHO8nTsf~B~JBSLJknzKkti2TCNllILJ8iR60v6nR8ku2Ex0lRri0PJ~5Hmp2QA3ykglvrMm6pNg4dqF6IA4mIPsx0VB63jEofzJgSuHzsCKhWYGgDstXBMWaNV1a-Af79RnQT5vbqS8e4IOEiphQVu1udrOg1QTBe~dUUmd1WHPRrA__" group-title="Dish TV",Star Utsav Movies HD
 https://bhavy.vercel.app/bhavy.m3u8?id=112971
 
+EXTINF:-1 tvg-id="zee-cinema-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png" group-title="Dish TV", Zee Cinema SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
-#EXTINF:-1 tvg-id="zee-cinema-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png" group-title="Dish TV", Zee Cinema SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -233,8 +233,6 @@ http://192.168.1.3:5350/live/258.m3u8
 http://192.168.1.3:5350/live/383.m3u8
 #EXTINF:-1 tvg-id=412 tvg-name="Wion" tvg-logo="http://192.168.1.3:5350/jtvimage/Wion.png" tvg-language="English" tvg-type="News" group-title="News", Wion
 http://192.168.1.3:5350/live/412.m3u8
-#EXTINF:-1 tvg-id=482 tvg-name="Colors Cineplex" tvg-logo="http://192.168.1.3:5350/jtvimage/Colors_Cineplex.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex
-http://192.168.1.3:5350/live/482.m3u8
 #EXTINF:-1 tvg-id=491 tvg-name="Mirror Now" tvg-logo="http://192.168.1.3:5350/jtvimage/Mirror_Now.png" tvg-language="English" tvg-type="News" group-title="News", Mirror Now
 http://192.168.1.3:5350/live/491.m3u8
 #EXTINF:-1 tvg-id=492 tvg-name="CNN NEWS 18" tvg-logo="http://192.168.1.3:5350/jtvimage/CNN_NEWS_18.png" tvg-language="English" tvg-type="News" group-title="News", CNN NEWS 18
@@ -253,11 +251,11 @@ http://192.168.1.3:5350/live/502.m3u8
 http://192.168.1.3:5350/live/504.m3u8
 #EXTINF:-1 tvg-id=518 tvg-name="Sudarshan" tvg-logo="http://192.168.1.3:5350/jtvimage/Sudarshan.png" tvg-language="Hindi" tvg-type="News" group-title="News", Sudarshan
 http://192.168.1.3:5350/live/518.m3u8
-#EXTINF:-1 tvg-id=566 tvg-name="Animal Planet Hindi" tvg-logo="https://spoo.me/Animalplane" tvg-language="Hindi" tvg-type="Nature" group-title="Nature", Animal Planet Hindi
+#EXTINF:-1 tvg-id=566 tvg-name="Animal Planet" tvg-logo="https://spoo.me/Animalplane" tvg-language="Hindi" tvg-type="Nature" group-title="Nature", Animal Planet Hindi
 http://192.168.1.3:5350/live/566.m3u8
-#EXTINF:-1 tvg-id=575 tvg-name="Discovery Hindi" tvg-logo="https://spoo.me/Discover" tvg-language="Hindi" tvg-type="Nature" group-title="Nature", Discovery Hindi
+#EXTINF:-1 tvg-id=575 tvg-name="Discovery" tvg-logo="https://spoo.me/Discover" tvg-language="Hindi" tvg-type="Nature" group-title="Nature", Discovery Hindi
 http://192.168.1.3:5350/live/575.m3u8
-#EXTINF:-1 tvg-id=578 tvg-name="History TV18 HD Hindi" tvg-logo="https://spoo.me/historyTV18" tvg-language="Hindi" tvg-type="Nature" group-title="Nature", History TV18 HD Hindi
+#EXTINF:-1 tvg-id=578 tvg-name="History TV18 HD" tvg-logo="https://spoo.me/historyTV18" tvg-language="Hindi" tvg-type="Nature" group-title="Nature", History TV18 HD Hindi
 http://192.168.1.3:5350/live/578.m3u8
 #EXTINF:-1 tvg-id=656 tvg-name="News 9" tvg-logo="http://192.168.1.3:5350/jtvimage/News9.png" tvg-language="English" tvg-type="News" group-title="News", News 9
 http://192.168.1.3:5350/live/656.m3u8
@@ -281,8 +279,6 @@ http://192.168.1.3:5350/live/1295.m3u8
 http://192.168.1.3:5350/live/1403.m3u8
 #EXTINF:-1 tvg-id=1450 tvg-name="Colors Cineplex Superhit" tvg-logo="http://192.168.1.3:5350/jtvimage/Rishtey_Cineplex.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Superhit
 http://192.168.1.3:5350/live/1450.m3u8
-EXTINF:-1 tvg-id=1471 tvg-name="History TV18 SD" tvg-logo="http://192.168.1.3:5350/jtvimage/History_TV18_SD.png" tvg-language="English" tvg-type="Nature" group-title="Nature", History TV18 SD
-http://192.168.1.3:5350/live/1471.m3u8
 #EXTINF:-1 tvg-id=1477 tvg-name="Colors Cineplex HD" tvg-logo="http://192.168.1.3:5350/jtvimage/Color_Cineplex_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex HD
 http://192.168.1.3:5350/live/1477.m3u8
 #EXTINF:-1 tvg-id=1699 tvg-name="ANN News" tvg-logo="http://192.168.1.3:5350/jtvimage/ANN_News.png" tvg-language="Urdu" tvg-type="News" group-title="News", ANN News
