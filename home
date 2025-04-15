@@ -8,7 +8,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png" group-title="Dish TV", &Pictures SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
 
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -25,7 +24,7 @@ https://m3u.ygxworld.in/z5/index.m3u8?id=0-9-zeecinemahd&token=Kzmixtq7LoWc|User
 https://live.drmlive-02.workers.dev/zee/209.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_SAB" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Dish TV", SONY SAB (SD)
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Dish TV", SONY SAB (SD)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.joker-verse.workers.dev/keys.json?id=559&uid=5576160134&pass=29187283
 #EXTHTTP:{"Origin": "https://watch.tataplay.com", "Referer": "https://watch.tataplay.com/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36"}
