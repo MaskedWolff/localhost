@@ -127,6 +127,8 @@ http://192.168.1.3:8000/tata/manifest.mpd?id=413|X-Forwarded-For=59.178.74.184&O
 http://192.168.1.3:8000/tata/manifest.mpd?id=605|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
 #EXTINF:-1 tvg-id="1260000040" tvg-logo="https://i.ibb.co/WKprrN6/IMG-20220810-100722-749.jpg" group-title="Dish TV" ,Star GOLD HD
+http://test.satlok.club:80/play/live.php?mac=00:1a:79:2d:d9:39&stream=5042&extension=ts
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/ssuwd28er-ihda
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1729/output/index.mpd
