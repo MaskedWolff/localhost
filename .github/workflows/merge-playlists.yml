@@ -17,7 +17,7 @@ jobs:
         run: |
           curl -L "https://raw.githubusercontent.com/alex4528/m3u/main/jtv.m3u" -o external_playlist.m3u
 
-      - name: Merge Playlists with Headers
+      - name: Merge Playlists with Group Separation
         run: |
           echo "# --- External Playlist: alex4528/jtv.m3u ---" > merged_playlist.m3u
           cat external_playlist.m3u >> merged_playlist.m3u
@@ -27,8 +27,15 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git config user.name "GitHub Action"
-          git config user.email "action@github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
           git add merged_playlist.m3u
-          git commit -m "Auto-merged external and local playlists"
-          git push
+
+          # Only commit if there are changes
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-merged external and local playlists"
+            git push
+          fi
