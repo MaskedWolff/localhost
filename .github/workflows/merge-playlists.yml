@@ -27,8 +27,18 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git config user.name "GitHub Action"
-          git config user.email "action@github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Pull latest changes from the remote before pushing
+          git pull origin main --rebase
+
           git add merged_playlist.m3u
-          git commit -m "Auto-merged external and local playlists"
-          git push
+
+          # Only commit if there are changes
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-merged external and local playlists"
+            git push
+          fi
