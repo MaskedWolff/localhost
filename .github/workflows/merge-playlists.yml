@@ -1,0 +1,34 @@
+name: Merge Playlists
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # every 6 hours
+  workflow_dispatch:
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Download External Playlist
+        run: |
+          curl -L "https://raw.githubusercontent.com/alex4528/m3u/main/jtv.m3u" -o external_playlist.m3u
+
+      - name: Merge Playlists with Headers
+        run: |
+          echo "# --- External Playlist: alex4528/jtv.m3u ---" > merged_playlist.m3u
+          cat external_playlist.m3u >> merged_playlist.m3u
+          echo "" >> merged_playlist.m3u
+          echo "# --- Your Playlist: MaskedWolff/localnetwork ---" >> merged_playlist.m3u
+          cat localnetwork/my_playlist.m3u >> merged_playlist.m3u
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add merged_playlist.m3u
+          git commit -m "Auto-merged external and local playlists"
+          git push
