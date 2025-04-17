@@ -310,18 +310,19 @@ http://192.168.1.3:8000/TP/play.php?id=1473
 http://192.168.1.3:8000/TP/play.php?id=2429
 
 𝐒𝐎𝐍𝐘 𝐂𝐇𝐀𝐍𝐍𝐄𝐋𝐒
-
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", SET HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=3931a693a596357b85c887b4cd6c1860&key=e61c04aa578191a33d39842028c51835
-#EXTHTTP:{"Cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1LTIvc2V0X2hkL25kYXNoaGQv:Expires=1744874113:KeyName=iptv-prod-media-cdn-keys:Signature=SKZ2zOIccmSpPxn91DvQldUBAPPxkjNjAB3KZGg01dyW1wdHNLns7Ll0bxKrMKOO_j_II6T7GDkYs6qY18swBA==", "User-Agent": "tv.accedo.airtel.wynk/1.97.1 (Linux;Android 13) ExoPlayerLib/2.19.1"}
-https://companion-live-play1.streamready.in/live/med15-2/set_hd/ndashhd/set_hd.mpd
+https://companion-live-play1.streamready.in/live/med14-2/sony_sab/ndashd/sony_sab.mpd
 
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SONYLIV", Sony SAB
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=49275a5eddfd38abb2ad95e90c75b2a0&key=1d523581670d2f288391d91ca43b87e2
 #EXTHTTP:{"Cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvc29ueV9zYWIvbmRhc2hkLw==:Expires=1744888517:KeyName=iptv-prod-media-cdn-keys:Signature=FoqIx6PnCutBZs_lHOsVbW6tzOo94ANsdQO74pf-huxNTOkw9-koA6-w01GQQwClO_-EzLeJz9obCPtkuBaqDQ==", "User-Agent": "tv.accedo.airtel.wynk/1.97.1 (Linux;Android 13) ExoPlayerLib/2.19.1"}
 https://companion-live-play1.streamready.in/live/med14-2/sony_sab/ndashd/sony_sab.mpd
+
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", SET HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=3931a693a596357b85c887b4cd6c1860&key=e61c04aa578191a33d39842028c51835
+#EXTHTTP:{"Cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1LTIvc2V0X2hkL25kYXNoaGQv:Expires=1744874113:KeyName=iptv-prod-media-cdn-keys:Signature=SKZ2zOIccmSpPxn91DvQldUBAPPxkjNjAB3KZGg01dyW1wdHNLns7Ll0bxKrMKOO_j_II6T7GDkYs6qY18swBA==", "User-Agent": "tv.accedo.airtel.wynk/1.97.1 (Linux;Android 13) ExoPlayerLib/2.19.1"}
+https://companion-live-play1.streamready.in/live/med15-2/set_hd/ndashhd/set_hd.mpd
 
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SONYLIV", Sony PAL
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
