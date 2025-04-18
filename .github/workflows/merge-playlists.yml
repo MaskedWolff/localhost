@@ -21,10 +21,18 @@ jobs:
           curl -L "https://raw.githubusercontent.com/alex4528/m3u/main/jtv.m3u" -o external_jtv.m3u
           curl -L "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u" -o external_fancode.m3u
 
+      - name: Filter & Rename Groups in jtv.m3u
+        run: |
+          # Remove unwanted groups
+          grep -v -E 'group-title="(Business News|Devotional|Educational|Music)"' external_jtv.m3u > temp_jtv.m3u
+
+          # Prefix all group titles with "JioTV"
+          sed -E 's/group-title="([^"]+)"/group-title="JioTV \1"/g' temp_jtv.m3u > filtered_jtv.m3u
+
       - name: Merge Playlists with Headers
         run: |
-          echo "# --- External Playlist: alex4528/jtv.m3u ---" > merged_playlist.m3u
-          cat external_jtv.m3u >> merged_playlist.m3u
+          echo "# --- External Playlist: alex4528/jtv.m3u (filtered) ---" > merged_playlist.m3u
+          cat filtered_jtv.m3u >> merged_playlist.m3u
           echo "" >> merged_playlist.m3u
 
           echo "# --- External Playlist: drmlive/fancode.m3u ---" >> merged_playlist.m3u
