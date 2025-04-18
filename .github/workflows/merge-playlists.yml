@@ -24,7 +24,7 @@ jobs:
 
       - name: Convert Willow JSON to M3U
         run: |
-          jq -r '.events[] | "#EXTINF:-1 tvg-logo=\"\(.logo)\" group-title=\"\(.group)\", \(.name)\n\(.event_details?.url // "N/A")"' willow.json > filtered_willow.m3u
+          jq -r 'if .events then .events[] | "#EXTINF:-1 tvg-logo=\"\(.logo)\" group-title=\"\(.group)\", \(.name)\n\(.event_details?.url // "N/A")" else empty end' willow.json > filtered_willow.m3u
 
       - name: Merge Playlists with Headers
         run: |
@@ -40,21 +40,4 @@ jobs:
           cat filtered_willow.m3u >> merged_playlist.m3u
           echo "" >> merged_playlist.m3u
 
-          echo "# --- Your Playlist: MaskedWolff/localnetwork ---" >> merged_playlist.m3u
-          cat localnetwork/my_playlist.m3u >> merged_playlist.m3u
-
-      - name: Commit and Push Changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-          git add merged_playlist.m3u
-
-          # Check for changes before committing
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Update merged playlist"
-            git pull origin main --rebase || echo "Merge conflict occurred, please resolve manually"
-            git push origin main || echo "Push failed, check permissions or conflicts"
-          fi
+          echo "# --- Your Playlist: MaskedWolff/localnetwork ---
