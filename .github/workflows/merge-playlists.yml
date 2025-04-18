@@ -29,6 +29,11 @@ jobs:
           # Prefix all group titles with "JioTV"
           sed -E 's/group-title="([^"]+)"/group-title="JioTV \1"/g' temp_jtv.m3u > filtered_jtv.m3u
 
+      - name: Fix Event Titles and Group in DRM Playlist
+        run: |
+          # Add group-title and populate event title from tvg-name if missing after comma
+          sed -E 's/#EXTINF:-1 ([^,]*tvg-name="([^"]+)")([^,]*), *$/#EXTINF:-1 group-title="DRM Events" \1\3, \2/' external_fancode.m3u > filtered_fancode.m3u
+
       - name: Merge Playlists with Headers
         run: |
           echo "# --- External Playlist: alex4528/jtv.m3u (filtered) ---" > merged_playlist.m3u
@@ -36,7 +41,7 @@ jobs:
           echo "" >> merged_playlist.m3u
 
           echo "# --- External Playlist: drmlive/fancode.m3u ---" >> merged_playlist.m3u
-          cat external_fancode.m3u >> merged_playlist.m3u
+          cat filtered_fancode.m3u >> merged_playlist.m3u
           echo "" >> merged_playlist.m3u
 
           echo "# --- Your Playlist: MaskedWolff/localnetwork ---" >> merged_playlist.m3u
