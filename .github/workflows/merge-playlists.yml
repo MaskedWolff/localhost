@@ -5,7 +5,7 @@ on:
     paths:
       - 'localnetwork/my_playlist.m3u'
   schedule:
-    - cron: '0 */6 * * *'  # every 1 hours
+    - cron: '*/10 * * * *'  # every 10 minutes
   workflow_dispatch:
 
 jobs:
@@ -16,40 +16,29 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
 
-      - name: Set Date Env
-        id: date
-        run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
-
-      - name: Delete Old Merged Playlists
-        run: |
-          find . -type f -name "merged_playlist_*.m3u" -exec rm -f {} +
-
       - name: Download External Playlist
         run: |
           curl -L "https://raw.githubusercontent.com/alex4528/m3u/main/jtv.m3u" -o external_playlist.m3u
 
       - name: Merge Playlists with Headers
         run: |
-          echo "# --- External Playlist: alex4528/jtv.m3u ---" > merged_playlist_${{ env.DATE }}.m3u
-          cat external_playlist.m3u >> merged_playlist_${{ env.DATE }}.m3u
-          echo "" >> merged_playlist_${{ env.DATE }}.m3u
-          echo "# --- Your Playlist: MaskedWolff/localnetwork ---" >> merged_playlist_${{ env.DATE }}.m3u
-          cat localnetwork/my_playlist.m3u >> merged_playlist_${{ env.DATE }}.m3u
-
-          # Overwrite latest file
-          cp merged_playlist_${{ env.DATE }}.m3u merged_playlist.m3u
+          echo "# --- External Playlist: alex4528/jtv.m3u ---" > merged_playlist.m3u
+          cat external_playlist.m3u >> merged_playlist.m3u
+          echo "" >> merged_playlist.m3u
+          echo "# --- Your Playlist: MaskedWolff/localnetwork ---" >> merged_playlist.m3u
+          cat localnetwork/my_playlist.m3u >> merged_playlist.m3u
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add merged_playlist_${{ env.DATE }}.m3u merged_playlist.m3u
+          git add merged_playlist.m3u
 
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update merged playlist for ${{ env.DATE }}"
+            git commit -m "Update merged playlist"
             git pull origin main --rebase || echo "No rebase needed"
             git push origin main
           fi
