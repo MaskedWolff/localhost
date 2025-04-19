@@ -26,10 +26,24 @@ jobs:
         run: |
           jq -r 'if .events then .events[] | "#EXTINF:-1 tvg-logo=\"\(.logo)\" group-title=\"\(.group)\", \(.name)\n\(.event_details?.url // "N/A")" else empty end' willow.json > filtered_willow.m3u
 
+      - name: Filter Unwanted Groups from jtv.m3u
+        run: |
+          awk 'BEGIN{IGNORECASE=1}
+               /^#EXTINF/ {
+                 if ($0 ~ /group-title="(business news|devotional|sports|educational|lifestyle|music|shopping|kids)"/) {
+                   skip=1;
+                 } else {
+                   print;
+                   skip=0;
+                 }
+                 next;
+               }
+               skip==0 { print; }' external_jtv.m3u > filtered_jtv.m3u
+
       - name: Merge Playlists with Headers
         run: |
           echo "# --- External Playlist: alex4528/jtv.m3u ---" > merged_playlist.m3u
-          cat external_jtv.m3u >> merged_playlist.m3u
+          cat filtered_jtv.m3u >> merged_playlist.m3u
           echo "" >> merged_playlist.m3u
 
           echo "# --- External Playlist: drmlive/fancode.m3u ---" >> merged_playlist.m3u
@@ -56,4 +70,3 @@ jobs:
             git commit -m "Update merged playlist"
             git pull origin main --rebase || echo "Merge conflict occurred, please resolve manually"
             git push origin main || echo "Push failed, check permissions or conflicts"
-          fi
