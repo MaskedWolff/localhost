@@ -24,7 +24,7 @@ jobs:
 
       - name: Filter out specific groups from jtv.m3u
         run: |
-          grep -v -iE 'group-title="(devotional|business news|shopping|kids|sports|lifestyle|music)"' external_jtv.m3u > filtered_jtv.m3u
+          grep -v -iE 'group-title="(devotional|business news|shopping|kids|sports|lifestyle|music|educational)"' external_jtv.m3u > filtered_jtv.m3u
 
       - name: Convert Willow JSON to M3U
         run: |
