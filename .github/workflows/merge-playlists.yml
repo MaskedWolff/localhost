@@ -24,12 +24,12 @@ jobs:
 
       - name: Convert Willow JSON to M3U
         run: |
-          jq -r '.events[] | "#EXTINF:-1 tvg-logo=\"\(.logo)\" group-title=\"\(.group)\", \(.name)\n\(.event_details.url // "N/A")"' willow.json > filtered_willow.m3u
+          jq -r 'if .events then .events[] | "#EXTINF:-1 tvg-logo=\"\(.logo)\" group-title=\"\(.group)\", \(.name)\n\(.event_details?.url // "N/A")" else empty end' willow.json > filtered_willow.m3u
 
       - name: Merge Playlists with Headers
         run: |
           echo "# --- External Playlist: alex4528/jtv.m3u ---" > merged_playlist.m3u
-          awk '!/group-title="(Business News|devotional|educational|music|sports|lifestyle|shopping|kids)"/' external_jtv.m3u >> merged_playlist.m3u
+          cat external_jtv.m3u >> merged_playlist.m3u
           echo "" >> merged_playlist.m3u
 
           echo "# --- External Playlist: drmlive/fancode.m3u ---" >> merged_playlist.m3u
