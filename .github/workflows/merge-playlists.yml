@@ -22,14 +22,18 @@ jobs:
           curl -L "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u" -o external_fancode.m3u
           curl -L "https://raw.githubusercontent.com/drmlive/willow-live-events/main/willow.json" -o willow.json
 
+      - name: Filter out specific groups from jtv.m3u
+        run: |
+          grep -vE 'group-title="(business news|devotional|kids|sports|educational|lifestyle|shopping)"' external_jtv.m3u > filtered_jtv.m3u
+
       - name: Convert Willow JSON to M3U
         run: |
           jq -r 'if .events then .events[] | "#EXTINF:-1 tvg-logo=\"\(.logo)\" group-title=\"\(.group)\", \(.name)\n\(.event_details?.url // "N/A")" else empty end' willow.json > filtered_willow.m3u
 
       - name: Merge Playlists with Headers
         run: |
-          echo "# --- External Playlist: alex4528/jtv.m3u ---" > merged_playlist.m3u
-          cat external_jtv.m3u >> merged_playlist.m3u
+          echo "# --- External Playlist: alex4528/jtv.m3u (Filtered) ---" > merged_playlist.m3u
+          cat filtered_jtv.m3u >> merged_playlist.m3u
           echo "" >> merged_playlist.m3u
 
           echo "# --- External Playlist: drmlive/fancode.m3u ---" >> merged_playlist.m3u
