@@ -23,6 +23,21 @@ jobs:
           curl -L "https://raw.githubusercontent.com/drmlive/willow-live-events/main/willow.json" -o willow.json
           curl -L "https://joker-verse.vercel.app/jokertv/playlist.m3u?uid=5576160134&pass=29187283" -o joker.m3u
 
+      - name: Display Downloaded Playlists
+        run: |
+          echo "--- External JTV Playlist ---"
+          cat external_jtv.m3u
+          echo "----------------------------"
+          echo "--- External FanCode Playlist ---"
+          cat external_fancode.m3u
+          echo "-----------------------------"
+          echo "--- Willow Playlist (JSON) ---"
+          cat willow.json
+          echo "-----------------------------"
+          echo "--- Joker Playlist ---"
+          cat joker.m3u
+          echo "-----------------------------"
+
       - name: Convert Willow JSON to M3U
         run: |
           jq -r '(.events // [])[] 
