@@ -16,46 +16,31 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
 
-      - name: Download External Playlists with Authentication (if needed)
+      - name: Download External Playlists
         run: |
-          curl -L -H "Authorization: Bearer YOUR_API_TOKEN" "https://raw.githubusercontent.com/alex4528/m3u/main/jtv.m3u" -o external_jtv.m3u
-          curl -L -H "Authorization: Bearer YOUR_API_TOKEN" "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u" -o external_fancode.m3u
-          curl -L -H "Authorization: Bearer YOUR_API_TOKEN" "https://raw.githubusercontent.com/drmlive/willow-live-events/main/willow.json" -o willow.json
+          curl -L "https://raw.githubusercontent.com/alex4528/m3u/main/jtv.m3u" -o external_jtv.m3u
+          curl -L "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u" -o external_fancode.m3u
+          curl -L "https://raw.githubusercontent.com/drmlive/willow-live-events/main/willow.json" -o willow.json
 
       - name: Convert Willow JSON to M3U
         run: |
-          jq -r 'if .events then .events[] | "#EXTINF:-1 tvg-logo=\"\(.logo)\" group-title=\"\(.group)\", \(.name)\n\(.event_details?.url // "N/A")" else empty end' willow.json > filtered_willow.m3u
-
-      - name: Filter and Prefix JioTV Groups
-        run: |
-          awk '
-            BEGIN {IGNORECASE=1}
-            /^#EXTINF/ {
-              next_line = getline url
-              if ($0 ~ /group-title="(devotional|educational|lifestyle|shopping|music|sports|kids)"/) {
-                next
-              }
-              sub(/group-title="/, "group-title=\"JioTV ")
-              print
-              print url
-            }
-          ' external_jtv.m3u > filtered_jtv.m3u
+          jq -r '.events[] | "#EXTINF:-1 tvg-logo=\"\(.logo)\" group-title=\"\(.group)\", \(.name)\n\(.event_details.url // "N/A")"' willow.json > filtered_willow.m3u
 
       - name: Merge Playlists with Headers
         run: |
-          echo "# --- External Playlist: JioTV ---" > merged_playlist.m3u
-          cat filtered_jtv.m3u >> merged_playlist.m3u
+          echo "# --- External Playlist: alex4528/jtv.m3u ---" > merged_playlist.m3u
+          awk '!/group-title="(Business News|devotional|educational|music|sports|lifestyle|shopping|kids)"/' external_jtv.m3u >> merged_playlist.m3u
           echo "" >> merged_playlist.m3u
 
-          echo "# --- External Playlist: FanCode ---" >> merged_playlist.m3u
+          echo "# --- External Playlist: drmlive/fancode.m3u ---" >> merged_playlist.m3u
           cat external_fancode.m3u >> merged_playlist.m3u
           echo "" >> merged_playlist.m3u
 
-          echo "# --- External Playlist: Willow ---" >> merged_playlist.m3u
+          echo "# --- External Playlist: drmlive/willow.m3u ---" >> merged_playlist.m3u
           cat filtered_willow.m3u >> merged_playlist.m3u
           echo "" >> merged_playlist.m3u
 
-          echo "# --- Your Playlist: Localnetwork ---" >> merged_playlist.m3u
+          echo "# --- Your Playlist: MaskedWolff/localnetwork ---" >> merged_playlist.m3u
           cat localnetwork/my_playlist.m3u >> merged_playlist.m3u
 
       - name: Commit and Push Changes
