@@ -16,11 +16,11 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
 
-      - name: Download External Playlists
+      - name: Download External Playlists with Authentication (if needed)
         run: |
-          curl -L "https://raw.githubusercontent.com/alex4528/m3u/main/jtv.m3u" -o external_jtv.m3u
-          curl -L "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u" -o external_fancode.m3u
-          curl -L "https://raw.githubusercontent.com/drmlive/willow-live-events/main/willow.json" -o willow.json
+          curl -L -H "Authorization: Bearer YOUR_API_TOKEN" "https://raw.githubusercontent.com/alex4528/m3u/main/jtv.m3u" -o external_jtv.m3u
+          curl -L -H "Authorization: Bearer YOUR_API_TOKEN" "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u" -o external_fancode.m3u
+          curl -L -H "Authorization: Bearer YOUR_API_TOKEN" "https://raw.githubusercontent.com/drmlive/willow-live-events/main/willow.json" -o willow.json
 
       - name: Convert Willow JSON to M3U
         run: |
@@ -53,3 +53,22 @@ jobs:
 
           echo "# --- External Playlist: Willow ---" >> merged_playlist.m3u
           cat filtered_willow.m3u >> merged_playlist.m3u
+          echo "" >> merged_playlist.m3u
+
+          echo "# --- Your Playlist: Localnetwork ---" >> merged_playlist.m3u
+          cat localnetwork/my_playlist.m3u >> merged_playlist.m3u
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add merged_playlist.m3u
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update merged playlist"
+            git pull origin main --rebase || echo "Merge conflict occurred, please resolve manually"
+            git push origin main || echo "Push failed, check permissions or conflicts"
+          fi
