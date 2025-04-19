@@ -21,12 +21,20 @@ jobs:
           curl -L "https://raw.githubusercontent.com/alex4528/m3u/main/jtv.m3u" -o external_jtv.m3u
           curl -L "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u" -o external_fancode.m3u
           curl -L "https://raw.githubusercontent.com/drmlive/willow-live-events/main/willow.json" -o willow.json
+          curl -L "https://joker-verse.vercel.app/jokertv/playlist.m3u?uid=5576160134&pass=29187283" -o joker_playlist.m3u
 
       - name: Convert Willow JSON to M3U
         run: |
-          jq -r 'if .events then .events[] | "#EXTINF:-1 tvg-logo=\"\(.logo)\" group-title=\"\(.group)\", \(.name)\n\(.event_details?.url // "N/A")" else empty end' willow.json > filtered_willow.m3u
+          jq -r '.events[] | select(.event_details.url != null) | "#EXTINF:-1 tvg-logo=\"\(.logo)\" group-title=\"\(.group)\", \(.name)\n\(.event_details.url)"' willow.json > filtered_willow.m3u
 
-      - name: Merge Playlists with Headers
+      - name: Filter AirtelXstream Group from Joker Playlist
+        run: |
+          awk 'BEGIN { show=0 } 
+               /#EXTINF/ { show=0 }
+               /group-title="AirtelXstream"/ { show=1 }
+               show { print }' joker_playlist.m3u > filtered_joker.m3u
+
+      - name: Merge Playlists
         run: |
           echo "# --- External Playlist: alex4528/jtv.m3u ---" > merged_playlist.m3u
           cat external_jtv.m3u >> merged_playlist.m3u
@@ -36,8 +44,12 @@ jobs:
           cat external_fancode.m3u >> merged_playlist.m3u
           echo "" >> merged_playlist.m3u
 
-          echo "# --- External Playlist: drmlive/willow.m3u ---" >> merged_playlist.m3u
+          echo "# --- External Playlist: drmlive/willow.json ---" >> merged_playlist.m3u
           cat filtered_willow.m3u >> merged_playlist.m3u
+          echo "" >> merged_playlist.m3u
+
+          echo "# --- External Playlist: joker-verse (AirtelXstream group) ---" >> merged_playlist.m3u
+          cat filtered_joker.m3u >> merged_playlist.m3u
           echo "" >> merged_playlist.m3u
 
           echo "# --- Your Playlist: MaskedWolff/localnetwork ---" >> merged_playlist.m3u
@@ -47,13 +59,13 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
+          
           git add merged_playlist.m3u
 
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update merged playlist"
-            git pull origin main --rebase || echo "Merge conflict occurred, please resolve manually"
-            git push origin main || echo "Push failed, check permissions or conflicts"
+            git commit -m "Update merged playlist with AirtelXstream and others"
+            git pull origin main --rebase || echo "No rebase needed"
+            git push origin main
           fi
