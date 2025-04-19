@@ -6600,7 +6600,7 @@ Error: MPD URL not found for the given tvg-id.
 
 # --- External Playlist: drmlive/fancode.m3u ---
 
-# --- External Playlist: drmlive/willow.m3u ---
+# --- External Playlist: drmlive/willow events ---
 
 # --- Your Playlist: MaskedWolff/localnetwork ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
