@@ -27,11 +27,11 @@ jobs:
         run: |
           jq -r '(.events // [])[] 
             | select(.event_details and .event_details.url != null) 
-            | "#EXTINF:-1 tvg-logo=\"\(.logo)\" group-title=\"\(.group)\", \(.name)\n\(.event_details.url)"' willow.json > filtered_willow.m3u || echo "" > filtered_willow.m3u
+            | "#EXTINF:-1 tvg-logo=\"\(.logo)\" group-title=\"\(.group)\", \(.name)\n\(.event_details.url)"' willow.json > filtered_willow.m3u || echo "No events found" > filtered_willow.m3u
 
       - name: Filter Joker Playlist - AirtelXstream only
         run: |
-          awk '/^#EXTINF/ {p = ($0 ~ /group-title="AirtelXstream"/)} p' joker.m3u > filtered_joker.m3u
+          awk '/^#EXTINF/ {p = ($0 ~ /group-title="AirtelXstream"/)} p' joker.m3u > filtered_joker.m3u || echo "No AirtelXstream found" > filtered_joker.m3u
 
       - name: Process and Merge Playlists
         run: |
