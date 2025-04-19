@@ -31,15 +31,14 @@ jobs:
           awk '
             BEGIN {IGNORECASE=1}
             /^#EXTINF/ {
-              if ($0 !~ /group-title="(devotional|educational|lifestyle|shopping|music|sports|kids)"/) {
-                sub(/group-title="/, "group-title=\"JioTV ")
-                print
-                get=1
+              next_line = getline url
+              if ($0 ~ /group-title="(devotional|educational|lifestyle|shopping|music|sports|kids)"/) {
                 next
               }
-              get=0
+              sub(/group-title="/, "group-title=\"JioTV ")
+              print
+              print url
             }
-            get==1 {print; get=0}
           ' external_jtv.m3u > filtered_jtv.m3u
 
       - name: Merge Playlists with Headers
@@ -54,22 +53,3 @@ jobs:
 
           echo "# --- External Playlist: Willow ---" >> merged_playlist.m3u
           cat filtered_willow.m3u >> merged_playlist.m3u
-          echo "" >> merged_playlist.m3u
-
-          echo "# --- Your Playlist: Localnetwork ---" >> merged_playlist.m3u
-          cat localnetwork/my_playlist.m3u >> merged_playlist.m3u
-
-      - name: Commit and Push Changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-          git add merged_playlist.m3u
-
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Update merged playlist"
-            git pull origin main --rebase || echo "Merge conflict occurred, please resolve manually"
-            git push origin main || echo "Push failed, check permissions or conflicts"
-          fi
