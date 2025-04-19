@@ -5,8 +5,7 @@ on:
     paths:
       - 'localnetwork/my_playlist.m3u'
   schedule:
-   schedule:
-  - cron: '* * * * *'  # every minute
+    - cron: '* * * * *'  # every 1 minute
   workflow_dispatch:
 
 jobs:
@@ -22,39 +21,45 @@ jobs:
           curl -L "https://raw.githubusercontent.com/alex4528/m3u/main/jtv.m3u" -o external_jtv.m3u
           curl -L "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u" -o external_fancode.m3u
           curl -L "https://raw.githubusercontent.com/drmlive/willow-live-events/main/willow.json" -o willow.json
+          curl -L "https://joker-verse.vercel.app/jokertv/playlist.m3u?uid=5576160134&pass=29187283" -o joker.m3u
 
-      - name: Convert Willow JSON to M3U
+      - name: Filter Willow JSON to M3U
         run: |
-          jq -r 'if .events then .events[] | select(.event_details?.url) | "#EXTINF:-1 tvg-logo=\"\(.logo)\" group-title=\"\(.group)\", \(.name)\n\(.event_details.url)" else empty end' willow.json > filtered_willow.m3u
+          jq -r 'if .events then .events[] | select(.event_details?.url != null) | "#EXTINF:-1 tvg-logo=\"\(.logo)\" group-title=\"\(.group)\", \(.name)\n\(.event_details.url)" else empty end' willow.json > filtered_willow.m3u
 
-      - name: Filter and Prefix JTV Groups
+      - name: Filter Joker Playlist for AirtelXstream
         run: |
-          awk '
-          /^#EXTINF/ {
-            if ($0 ~ /group-title="(Business News|devotional|educational|music)"/) {
-              skip = 1;
-            } else {
+          awk '/^#EXTINF/ { getline url; if ($0 ~ /group-title="AirtelXstream"/) { print $0; print url } }' joker.m3u > filtered_joker.m3u
+
+      - name: Filter and Prefix JioTV Groups
+        run: |
+          awk '/^#EXTINF/ {
+            if ($0 !~ /group-title="(Business News|devotional|educational|music)"/) {
               sub(/group-title="/, "group-title=\"JioTV ");
               print;
-              skip = 0;
+              getline;
+              print;
+            } else {
+              getline;  # Skip next line (URL)
             }
-            next;
-          }
-          skip == 0
-          ' external_jtv.m3u > filtered_jtv.m3u
+          }' external_jtv.m3u > filtered_jtv.m3u
 
       - name: Merge Playlists with Headers
         run: |
-          echo "# --- External Playlist: alex4528/jtv.m3u ---" > merged_playlist.m3u
+          echo "# --- External Playlist: JioTV (Filtered) ---" > merged_playlist.m3u
           cat filtered_jtv.m3u >> merged_playlist.m3u
           echo "" >> merged_playlist.m3u
 
-          echo "# --- External Playlist: drmlive/fancode.m3u ---" >> merged_playlist.m3u
+          echo "# --- External Playlist: Fancode ---" >> merged_playlist.m3u
           cat external_fancode.m3u >> merged_playlist.m3u
           echo "" >> merged_playlist.m3u
 
-          echo "# --- External Playlist: drmlive/willow-live-events ---" >> merged_playlist.m3u
+          echo "# --- External Playlist: Willow ---" >> merged_playlist.m3u
           cat filtered_willow.m3u >> merged_playlist.m3u
+          echo "" >> merged_playlist.m3u
+
+          echo "# --- External Playlist: AirtelXstream (Joker) ---" >> merged_playlist.m3u
+          cat filtered_joker.m3u >> merged_playlist.m3u
           echo "" >> merged_playlist.m3u
 
           echo "# --- Your Playlist: MaskedWolff/localnetwork ---" >> merged_playlist.m3u
