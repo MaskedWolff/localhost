@@ -21,57 +21,23 @@ jobs:
           curl -L "https://raw.githubusercontent.com/alex4528/m3u/main/jtv.m3u" -o external_jtv.m3u
           curl -L "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u" -o external_fancode.m3u
           curl -L "https://raw.githubusercontent.com/drmlive/willow-live-events/main/willow.json" -o willow.json
-          curl -L "https://joker-verse.vercel.app/jokertv/playlist.m3u?uid=5576160134&pass=29187283" -o joker.m3u
-
-      - name: Display Downloaded Playlists
-        run: |
-          echo "--- External JTV Playlist ---"
-          cat external_jtv.m3u
-          echo "----------------------------"
-          echo "--- External FanCode Playlist ---"
-          cat external_fancode.m3u
-          echo "-----------------------------"
-          echo "--- Willow Playlist (JSON) ---"
-          cat willow.json
-          echo "-----------------------------"
-          echo "--- Joker Playlist ---"
-          cat joker.m3u
-          echo "-----------------------------"
 
       - name: Convert Willow JSON to M3U
         run: |
-          jq -r '(.events // [])[] 
-            | select(.event_details and .event_details.url != null) 
-            | "#EXTINF:-1 tvg-logo=\"\(.logo)\" group-title=\"\(.group)\", \(.name)\n\(.event_details.url)"' willow.json > filtered_willow.m3u || echo "No events found" > filtered_willow.m3u
+          jq -r 'if .events then .events[] | "#EXTINF:-1 tvg-logo=\"\(.logo)\" group-title=\"\(.group)\", \(.name)\n\(.event_details?.url // "N/A")" else empty end' willow.json > filtered_willow.m3u
 
-      - name: Filter Joker Playlist - AirtelXstream only
-        run: |
-          awk '/^#EXTINF/ {p = ($0 ~ /group-title="AirtelXstream"/)} p' joker.m3u > filtered_joker.m3u || echo "No AirtelXstream found" > filtered_joker.m3u
-
-      - name: Process and Merge Playlists
+      - name: Merge Playlists with Headers
         run: |
           echo "# --- External Playlist: alex4528/jtv.m3u ---" > merged_playlist.m3u
-          awk '/^#EXTINF/ { 
-                if ($0 !~ /group-title="(Business News|devotional|educational|music)"/) { 
-                  sub(/group-title="/, "group-title=\"JioTV "); 
-                  print; 
-                } 
-              }' external_jtv.m3u >> merged_playlist.m3u
+          cat external_jtv.m3u >> merged_playlist.m3u
           echo "" >> merged_playlist.m3u
 
           echo "# --- External Playlist: drmlive/fancode.m3u ---" >> merged_playlist.m3u
-          awk '/^#EXTINF/ { 
-                sub(/group-title="/, "group-title=\"FanCode "); 
-                print; 
-              }' external_fancode.m3u >> merged_playlist.m3u
+          cat external_fancode.m3u >> merged_playlist.m3u
           echo "" >> merged_playlist.m3u
 
-          echo "# --- External Playlist: drmlive/willow.json ---" >> merged_playlist.m3u
+          echo "# --- External Playlist: drmlive/willow.m3u ---" >> merged_playlist.m3u
           cat filtered_willow.m3u >> merged_playlist.m3u
-          echo "" >> merged_playlist.m3u
-
-          echo "# --- External Playlist: Joker IPTV AirtelXstream ---" >> merged_playlist.m3u
-          cat filtered_joker.m3u >> merged_playlist.m3u
           echo "" >> merged_playlist.m3u
 
           echo "# --- Your Playlist: MaskedWolff/localnetwork ---" >> merged_playlist.m3u
@@ -88,6 +54,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update merged playlist"
-            git pull origin main --rebase || echo "No rebase needed"
-            git push origin main
+            git pull origin main --rebase || echo "Merge conflict occurred, please resolve manually"
+            git push origin main || echo "Push failed, check permissions or conflicts"
           fi
