@@ -5,7 +5,8 @@ on:
     paths:
       - 'localnetwork/my_playlist.m3u'
   schedule:
-    - cron: '*/10 * * * *'  # every 10 minutes
+   schedule:
+  - cron: '* * * * *'  # every minute
   workflow_dispatch:
 
 jobs:
