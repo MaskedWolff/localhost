@@ -6600,9 +6600,6 @@ Error: MPD URL not found for the given tvg-id.
 
 # --- External Playlist: drmlive/fancode.m3u ---
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123501_5112_GTC_SMH_fc-Web_1744784368838.jpg" group-title="Fancode-Cricket", Smashers vs Gauhati Town Club (Guwahati Spring League)
-https://dai.fancode.com/primary/123501_english_hls_15394ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123098_5096_GS_MZC_fc-web_1744799866253.jpg" group-title="Fancode-Cricket", Global Stars vs Mazang Gymkhana CC (KL T20 Bash, 2025)
 https://dai.fancode.com/primary/123098_english_hls_5565ta-di/index.m3u8
 
@@ -6620,6 +6617,9 @@ https://dai.fancode.com/primary/121942_english_hls_5576ta-no/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Volvo-China-open-old.jpg" group-title="Fancode-Golf", Day 4 vs Shanghai Enhance Anting Golf Club (Volvo China Open)
 https://dai.fancode.com/primary/122979_english_hls_5468ta-no/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123501_5112_GTC_SMH_fc-Web_1744784368838.jpg" group-title="Fancode-Cricket", Smashers vs Gauhati Town Club (Guwahati Spring League)
+https://dai.fancode.com/primary/123501_english_hls_15394ta-di_h264/index.m3u8
 
 
 # --- External Playlist: drmlive/willow events ---
