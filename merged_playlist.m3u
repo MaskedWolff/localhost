@@ -6600,11 +6600,17 @@ Error: MPD URL not found for the given tvg-id.
 
 # --- External Playlist: drmlive/fancode.m3u ---
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/_SAUDI-ARABIAN_F1-Academy_old.jpg" group-title="Fancode-Motorsports", Feature Race vs Jeddah (F1 ACADEMY SAUDI ARABIA 2025)
+https://d1dm4y2fvc48wp.cloudfront.net/out/v1/0b42fc9eb7de4b12928aff4f8d7e9a93/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/123838_CASACARDS_APP.png" group-title="Fancode-Cricket", Sweden vs France (ECI France, 2025)
 https://dai.fancode.com/primary/123838_english_hls_5277ta-no/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC-Heritage-Open-old.jpg" group-title="Fancode-Golf", Main Feed - Day 4 vs Harbour Town Golf Links (RBC Heritage)
 https://dai.fancode.com/primary/123141_english_hls_4877ta-no/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC-Heritage-Open-old.jpg" group-title="Fancode-Golf", Featured Group - Day 4 vs Harbour Town Golf Links (RBC Heritage)
+https://dai.fancode.com/primary/123144_english_hls_8810ta-no/index.m3u8
 
 
 # --- External Playlist: drmlive/willow events ---
@@ -6677,6 +6683,11 @@ http://192.168.1.3:8000/TP/play.php?id=220
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/2WwGBzd/images-1.jpg" group-title="Dish TV" ,Peace TV Urdu
 https://cors-proxy.cooks.fyi/https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
+
+#EXTINF:-1 tvg-id="zee-bollywood" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png" group-title="Dish TV", Zee Bollywood
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/5vWmCQZ/images.jpg" group-title="Dish TV" ,Peace TV English
 https://cors-proxy.cooks.fyi/https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
@@ -6752,10 +6763,6 @@ EXTINF:-1 tvg-id="zee-cinema-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.
 #KODIPROP:inputstream.adaptive.license_key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1
-#EXTINF:-1 tvg-id="zee-bollywood" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png" group-title="Dish TV", Zee Bollywood
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=812411cba8bc42c79eb2b19cd78ad3f3:468a0b8d3d5d42d8a5c41bb875390a74
