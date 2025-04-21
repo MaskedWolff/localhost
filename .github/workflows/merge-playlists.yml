@@ -52,3 +52,4 @@ jobs:
             git commit -m "Update merged playlist"
             git pull origin main --rebase || echo "Merge conflict occurred, please resolve manually"
             git push origin main || echo "Push failed, check permissions or conflicts"
+          fi
