@@ -20,22 +20,11 @@ jobs:
         run: |
           curl -L "https://raw.githubusercontent.com/alex4528/m3u/main/jtv.m3u" -o external_jtv.m3u
           curl -L "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u" -o external_fancode.m3u
-          curl -L "https://raw.githubusercontent.com/drmlive/willow-live-events/main/willow.json" -o willow.json
 
       - name: Filter and Prefix jtv.m3u Groups
         run: |
           grep -v -iE 'group-title="(devotional|business news|shopping|kids|sports|lifestyle|music|educational)"' external_jtv.m3u \
           | sed -E 's/group-title="([^"]+)"/group-title="JioTV \1"/' > filtered_jtv.m3u
-
-      - name: Convert Willow JSON to M3U (Willow Livefeed)
-        run: |
-          jq -r '
-            if .events then
-              .events[]
-              | select(.event_details?.url and .event_details.url != "")
-              | "#EXTINF:-1 tvg-logo=\"\(.logo)\" group-title=\"Willow Livefeed\", \(.name)\n\(.event_details.url)"
-            else empty end
-          ' willow.json > filtered_willow.m3u
 
       - name: Merge Playlists with Headers
         run: |
@@ -45,10 +34,6 @@ jobs:
 
           echo "# --- External Playlist: drmlive/fancode.m3u ---" >> merged_playlist.m3u
           cat external_fancode.m3u >> merged_playlist.m3u
-          echo "" >> merged_playlist.m3u
-
-          echo "# --- External Playlist: drmlive/willow events ---" >> merged_playlist.m3u
-          cat filtered_willow.m3u >> merged_playlist.m3u
           echo "" >> merged_playlist.m3u
 
           echo "# --- Your Playlist: MaskedWolff/localnetwork ---" >> merged_playlist.m3u
@@ -67,4 +52,3 @@ jobs:
             git commit -m "Update merged playlist"
             git pull origin main --rebase || echo "Merge conflict occurred, please resolve manually"
             git push origin main || echo "Push failed, check permissions or conflicts"
-          fi
