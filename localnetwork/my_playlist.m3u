@@ -248,34 +248,31 @@ http://192.168.1.3:5350/live/2772.m3u8
 http://192.168.1.3:8000/TP/play.php?id=643
 
 #EXTINF:-1 tvg-id="1471" tvg-logo="https://docdog.top/logo/countries/pakistan/aryzindagi.png" group-title="PAK ENTERTAINMENT",ARY ZINDAGI
-http://192.168.1.3:8000/TP/play.php?id=628
+http://xott.live:8080/live/4477884848/445566/25990.ts
 
 #EXTINF:-1 tvg-id="930" tvg-logo="https://docdog.top/logo/countries/pakistan/geokahani.png" group-title="PAK ENTERTAINMENT",GEO KAHANI
-http://192.168.1.3:8000/TP/play.php?id=649
+http://xott.live:8080/live/4477884848/445566/221341.ts
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/pakistan/geonews.png" group-title="PAK NEWS",GEO NEWS
-http://192.168.1.3:8000/TP/play.php?id=644
+http://xott.live:8080/live/4477884848/445566/221343.ts
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/pakistan/BOLNEWSURDU.png" group-title="PAK NEWS",BOL NEWS
-http://192.168.1.3:8000/TP/play.php?id=656
+http://xott.live:8080/live/4477884848/445566/26046.ts
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/pakistan/arynews.png" group-title="PAK NEWS",ARY NEWS
-http://192.168.1.3:8000/TP/play.php?id=630
+http://xott.live:8080/live/4477884848/445566/25980.ts
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/pakistan/92news.png" group-title="PAK NEWS",92 NEWS
-http://192.168.1.3:8000/TP/play.php?id=657
+http://xott.live:8080/live/4477884848/445566/221345.ts
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/pakistan/aajnews.png" group-title="PAK NEWS",AAJ NEWS
-http://192.168.1.3:8000/TP/play.php?id=658
+http://xott.live:8080/live/4477884848/445566/26001.ts
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/pakistan/GNNNEWS.png" group-title="PAK NEWS",GNN NEWS
-http://192.168.1.3:8000/TP/play.php?id=637
-
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/pakistan/dunyanews.png" group-title="PAK NEWS",DUNYA NEWS
-http://192.168.1.3:8000/TP/play.php?id=970
+http://xott.live:8080/live/4477884848/445566/25991.ts
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/pakistan/ptvnews.png" group-title="PAK NEWS",PTV NEWS
-http://192.168.1.3:8000/TP/play.php?id=652
+http://xott.live:8080/live/4477884848/445566/25988.ts
 
 𝐒𝐎𝐍𝐘 𝐂𝐇𝐀𝐍𝐍𝐄𝐋
 
