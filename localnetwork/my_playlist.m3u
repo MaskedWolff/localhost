@@ -55,10 +55,10 @@ https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 http://192.168.1.3:8000/TP/play.php?id=692
 
 #EXTINF:-1 tvg-id="199" tvg-logo="https://docdog.top/logo/countries/pakistan/aryqtv.png" group-title="Dish TV",ARY QTV
-http://192.168.1.3:8000/TP/play.php?id=199
+http://192.168.1.3:8000/TP/play.php?id=636
 
 #EXTINF:-1 tvg-id="220" tvg-logo="https://spoo.me/PAIGAM" group-title="Dish TV",PAIGAM
-http://192.168.1.3:8000/TP/play.php?id=220
+http://192.168.1.3:8000/TP/play.php?id=685
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/2WwGBzd/images-1.jpg" group-title="Dish TV" ,Peace TV Urdu
 https://cors-proxy.cooks.fyi/https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
