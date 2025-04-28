@@ -6600,15 +6600,6 @@ Error: MPD URL not found for the given tvg-id.
 
 # --- External Playlist: drmlive/fancode.m3u ---
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi_OLD.jpg" group-title="Fancode-Golf", Featured Groups - Day 4 vs Avondale, Louisiana (Zurich Classic of New Orleans)
-https://dai.fancode.com/primary/124141_english_hls_8689ta-di/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi_OLD.jpg" group-title="Fancode-Golf", World Feed - Day 4 vs Avondale, Louisiana (Zurich Classic of New Orleans)
-https://dai.fancode.com/primary/124138_english_hls_5088ta-di/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Mexico-city-old.jpg" group-title="Fancode-Golf", Day 3 vs Mexico City (LIV Golf Mexico City)
-https://dai.fancode.com/primary/123155_english_hls_5120ta-no/index.m3u8
-
 
 # --- Your Playlist: MaskedWolff/localnetwork ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
