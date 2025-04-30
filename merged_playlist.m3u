@@ -6600,6 +6600,9 @@ Error: MPD URL not found for the given tvg-id.
 
 # --- External Playlist: drmlive/fancode.m3u ---
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Malta,-Spring-Series_old_v1.jpg" group-title="Fancode-Cricket", Bugibba Blasters vs Southern Crusaders (ECS Malta, Spring Series, 2025)
+https://dai.fancode.com/primary/124178_english_hls_5681ta-di/index.m3u8
+
 
 # --- Your Playlist: MaskedWolff/localnetwork ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
