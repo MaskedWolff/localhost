@@ -6603,21 +6603,6 @@ Error: MPD URL not found for the given tvg-id.
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123869_5128_LIT_TTL_fc-web.jpg" group-title="Fancode-Cricket", Trinidad & Tobago Legions vs Leeward Islands Thunder (West Indies Breakout League, 2025)
 https://dai.fancode.com/primary/123869_english_hls_94464adfreeta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode-Golf", Main Feed - Day 2 vs McKinney, Texas (The CJ Cup Byron Nelson)
-https://dai.fancode.com/primary/124322_english_hls_6238ta-di/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode-Golf", Featured Group - Day 2 vs McKinney, Texas (The CJ Cup Byron Nelson)
-https://dai.fancode.com/primary/124325_english_hls_9232ta-no/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode-Golf", Featured Holes - Day 2 vs McKinney, Texas (The CJ Cup Byron Nelson)
-https://dai.fancode.com/primary/124324_english_hls_3334ta-di/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode-Golf", Marquee Group - Day 2 vs McKinney, Texas (The CJ Cup Byron Nelson)
-https://dai.fancode.com/primary/124323_english_hls_5898ta-no/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode-Golf", World Feed - Day 2 vs McKinney, Texas (The CJ Cup Byron Nelson)
-https://dai.fancode.com/primary/124321_english_hls_29890adfreeta-di_h264/index.m3u8
-
 
 # --- Your Playlist: MaskedWolff/localnetwork ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
