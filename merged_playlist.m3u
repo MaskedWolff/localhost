@@ -6606,6 +6606,9 @@ https://dai.fancode.com/primary/124159_english_hls_31114ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124854_CASACARDS_APP.png" group-title="Fancode-Cricket", Estonia vs Malta (ECI Malta-Estonia, 2025)
 https://dai.fancode.com/primary/124854_english_hls_33012ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg" group-title="Fancode-Cricket", Ai Octopus Challengers vs Going Global (KCC T10 Challengers League, 2025)
+https://dai.fancode.com/primary/123583_english_hls_42107ta-di_h264/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124493_CASACARDS_APP.png" group-title="Fancode-Cricket", United Arab Emirates vs Scotland (ICC CWC League 2, 2023-27)
 https://dai.fancode.com/primary/124493_english_hls_99063ta-di_h264/index.m3u8
 
@@ -6621,17 +6624,12 @@ https://dai.fancode.com/primary/124587_english_hls_65778ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg" group-title="Fancode-Golf", Marquee Group - Day 4 vs McKinney, Texas (The CJ Cup Byron Nelson)
 https://dai.fancode.com/primary/124556_english_hls_86699ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124595_CASACARDS_APP.png" group-title="Fancode-Baseball", Boston Red Sox vs Minnesota Twins (Major League Baseball, 2025)
+https://dai.fancode.com/primary/124595_english_hls_79382ta-di_h264/index.m3u8
+
 
 # --- External Playlist: Willow Livestream ---
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.70615499-7f76-444f-ab98-a95ae2933fd2/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Indian Premier League 2025 - 53rd Match - Kolkata Knight Riders vs Rajasthan Royals
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=15b6f857d4b55b6b8d7030cae2ebdc79:87a610cd55de104d7a2b23cbd5646bea
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e7dkwnmwsj/out/v1/9d217daa2df444548492cf885d47f0fb/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.60032bc9-ec16-4276-b0a1-b49a6ec125b6/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Indian Premier League 2025 - 54th Match - Punjab Kings vs Lucknow Super Giants
 #KODIPROP:inputstream=inputstream.adaptive
