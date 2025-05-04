@@ -51,9 +51,11 @@ jobs:
 
           git add merged_playlist.m3u
 
-          if git diff --cached --quiet; then
+          if git diff --cached --quiet
+          then
             echo "No changes to commit"
           else
             git commit -m "Update merged playlist"
-            git pull origin main --rebase || echo "Merge conflict occurred, please resolve manually"
-            git push origin main || echo "Push failed, check permissions or conflicts"
+            git pull origin main --rebase
+            git push origin main
+          fi
