@@ -6606,14 +6606,26 @@ https://dai.fancode.com/primary/124039_english_hls_72632ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124282_5144_RB_BIL_fc-web.jpg" group-title="Fancode-Cricket", Bilaspur vs Raipur Blue (Senior Elite Group T20 Tournament)
 https://dai.fancode.com/primary/124282_english_hls_64733ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124958_CASACARDS_APP.png" group-title="Fancode-Cricket", Rising Star Women vs S.G.Club Women (GTC Womens Summer Challenge T20 Trophy, 2025)
-https://dai.fancode.com/primary/124958_english_hls_42056ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124853_CASACARDS_APP.png" group-title="Fancode-Cricket", Malta vs Estonia (ECI Malta-Estonia, 2025)
 https://dai.fancode.com/primary/124853_english_hls_94036ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124493_CASACARDS_APP.png" group-title="Fancode-Cricket", United Arab Emirates vs Scotland (ICC CWC League 2, 2023-27)
 https://dai.fancode.com/primary/124493_english_hls_99063ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/124958_CASACARDS_APP.png" group-title="Fancode-Cricket", Rising Star Women vs S.G.Club Women (GTC Womens Summer Challenge T20 Trophy, 2025)
+https://dai.fancode.com/primary/124958_english_hls_42056ta-di_h264/index.m3u8
+
+
+# --- External Playlist: Willow Livestream ---
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.70615499-7f76-444f-ab98-a95ae2933fd2/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Indian Premier League 2025 - 53rd Match - Kolkata Knight Riders vs Rajasthan Royals
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=15b6f857d4b55b6b8d7030cae2ebdc79:87a610cd55de104d7a2b23cbd5646bea
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e7dkwnmwsj/out/v1/9d217daa2df444548492cf885d47f0fb/cenc.mpd
 
 
 # --- Your Playlist: MaskedWolff/localnetwork ---
