@@ -20,6 +20,7 @@ jobs:
         run: |
           curl -L "https://raw.githubusercontent.com/alex4528/m3u/main/jtv.m3u" -o external_jtv.m3u
           curl -L "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u" -o external_fancode.m3u
+          curl -L "https://raw.githubusercontent.com/drmlive/willow-live-events/main/willow.m3u" -o external_willow.m3u
 
       - name: Filter and Prefix jtv.m3u Groups
         run: |
@@ -34,6 +35,10 @@ jobs:
 
           echo "# --- External Playlist: drmlive/fancode.m3u ---" >> merged_playlist.m3u
           cat external_fancode.m3u >> merged_playlist.m3u
+          echo "" >> merged_playlist.m3u
+
+          echo "# --- External Playlist: Willow Livestream ---" >> merged_playlist.m3u
+          cat external_willow.m3u >> merged_playlist.m3u
           echo "" >> merged_playlist.m3u
 
           echo "# --- Your Playlist: MaskedWolff/localnetwork ---" >> merged_playlist.m3u
@@ -52,4 +57,3 @@ jobs:
             git commit -m "Update merged playlist"
             git pull origin main --rebase || echo "Merge conflict occurred, please resolve manually"
             git push origin main || echo "Push failed, check permissions or conflicts"
-          fi
