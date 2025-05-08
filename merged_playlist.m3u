@@ -6609,6 +6609,9 @@ https://dai.fancode.com/primary/123591_english_hls_39863ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124215_5140_STRC_BCC_fc-Web.jpg" group-title="Fancode-Cricket", Beveren vs 12 Stars Hofstade (ECSN Belgium, 2025)
 https://dai.fancode.com/primary/124215_english_hls_81917adfreeta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/125154_4352_BRI_SHF_fc-web.jpg" group-title="Fancode-Football", Bristol City vs Sheffield United (EFL Championship 2024-25)
+https://dai.fancode.com/primary/125154_english_hls_18479ta-di_h264/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg" group-title="Fancode-Golf", Main Feed - Day 1 vs Philadelphia, Pennsylvania (Truist Championship)
 https://dai.fancode.com/primary/125226_english_hls_29074ta-di_h264/index.m3u8
 
@@ -6630,14 +6633,6 @@ https://dai.fancode.com/primary/125225_english_hls_14091ta-di_h264/index.m3u8
 
 # --- External Playlist: Willow Livestream ---
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20e62bf8-5eb0-466b-b397-da54a0e1e8d3/5/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Indian Premier League 2025 - 58th Match - Punjab Kings vs Delhi Capitals
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f7526d76b4ec77e77d64c1c9eddcf992:6ebf591ee0856af0c9b96a662ad98fe2
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qxeax9v1j6/out/v1/0469ba87c8e845518dd87f6176dd459c/cenc.mpd
 
 
 # --- Your Playlist: MaskedWolff/localnetwork ---
