@@ -6603,9 +6603,6 @@ Error: MPD URL not found for the given tvg-id.
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/125021_CASACARDS_APP.png" group-title="Fancode-Football", Atlético de Madrid vs Real Sociedad (La Liga 2024-25)
 https://d2add8z8opsa0u.cloudfront.net/out/v1/bc130ad3233947e19d6b7feef7bb060e/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124219_5140_RB_HCC_fc-Web.jpg" group-title="Fancode-Cricket", Royal Brussels vs Hasselt (ECSN Belgium, 2025)
-https://dai.fancode.com/primary/124219_english_hls_70893ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/08/EFL-league-two-old-matchcard-1.png" group-title="Fancode-Football", Notts County vs AFC Wimbledon (League Two 2024-25)
 https://dai.fancode.com/primary/125162_english_hls_50441ta-di_h264/index.m3u8
 
@@ -6633,14 +6630,6 @@ https://dai.fancode.com/primary/124604_english_hls_221ta-di_h264/index.m3u8
 
 # --- External Playlist: Willow Livestream ---
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0eb411d3-d734-42f0-840d-d1757541a4ad/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Indian Premier League 2025 - 60th Match - Sunrisers Hyderabad vs Kolkata Knight Riders
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=de38e65bd7d66c60939a9a1fc7c9a598:0d544fc856fb98478ce9507bee6cae57
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/medo10zjrt/out/v1/0b18f369298741a094671ea8fedeaeb1/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.be85ef94-af48-41ff-a390-062871ed4c3e/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Pakistan Super League 2025 - 29th Match - Islamabad United vs Karachi Kings
 #KODIPROP:inputstream=inputstream.adaptive
