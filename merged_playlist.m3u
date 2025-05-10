@@ -6600,9 +6600,6 @@ Error: MPD URL not found for the given tvg-id.
 
 # --- External Playlist: drmlive/fancode.m3u ---
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg" group-title="Fancode-Golf", Featured Group - Day 3 vs Philadelphia, Pennsylvania (Truist Championship)
-https://dai.fancode.com/primary/125281_english_hls_48606ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg" group-title="Fancode-Golf", World Feed - Day 3 vs Philadelphia, Pennsylvania (Truist Championship)
 https://dai.fancode.com/primary/125283_english_hls_28391ta-di_h264/index.m3u8
 
@@ -6612,14 +6609,6 @@ https://dai.fancode.com/primary/124604_english_hls_221ta-di_h264/index.m3u8
 
 # --- External Playlist: Willow Livestream ---
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.be85ef94-af48-41ff-a390-062871ed4c3e/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Pakistan Super League 2025 - 29th Match - Islamabad United vs Karachi Kings
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6abdfdffad9d71ef3b241bf893b9cf0:1c8ade424e2859bdb98451ee8f10a92b
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rhcjhncy8c/out/v1/1ddd13a90fad47628f70082d648f2515/cenc.mpd
 
 
 # --- Your Playlist: MaskedWolff/localnetwork ---
