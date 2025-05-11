@@ -6618,12 +6618,17 @@ https://dai.fancode.com/primary/125369_english_hls_39223ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aramco-Korea-championship-old.jpg" group-title="Fancode-Golf", Day 3 vs New Korea Country Club  (Aramco Korea Championship)
 https://dai.fancode.com/primary/125377_english_hls_76463ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/121963_4795_OSA_YKFM_fc-web_1745966248445.jpg" group-title="Fancode-Football", Cerezo Osaka vs Yokohama F. Marinos (J League 2025)
-https://dai.fancode.com/primary/121963_english_hls_63486ta-di_h264/index.m3u8
-
 
 # --- External Playlist: Willow Livestream ---
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.aa02e617-a77f-4b0d-8aed-e7b195f7912c/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Indian Premier League 2025 - 61st Match - Punjab Kings vs Mumbai Indians
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=407e49cce4bcc8423dbbd78e0f72469e:779efc2f265c5b28efc051e1a914e37d
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/znznpjsprm/out/v1/19e61f0146c4401baa390f69c1242f5c/cenc.mpd
 
 
 # --- Your Playlist: MaskedWolff/localnetwork ---
