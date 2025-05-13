@@ -6599,7 +6599,8 @@ Error: MPD URL not found for the given tvg-id.
 
 
 # --- External Playlist: drmlive/fancode.m3u ---
-#EXTM3U
+502 Bad Gateway
+An error occurred while opening a stream to the origin.
 
 # --- External Playlist: Willow Livestream ---
 #EXTM3U
