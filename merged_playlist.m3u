@@ -6603,6 +6603,15 @@ Error: MPD URL not found for the given tvg-id.
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124536_5151_PEA_EME_fc-web.jpg" group-title="Fancode-Cricket", KCA Pearl vs KCA Emerald (KCA TCM Pink T20 Challengers, 2025)
 https://dai.fancode.com/primary/124547_english_hls_12401ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124520_5150_UAE-W_QAT-W_fc-Web_1746781110362.jpg" group-title="Fancode-Cricket", United Arab Emirates Women vs Qatar Women (ICC Women's T20 World Cup Asia Qualifier, 2025)
+https://dai.fancode.com/primary/124520_english_hls_91799ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124519_5150_NP-W_BRNW_fc-Web_1746781110319.jpg" group-title="Fancode-Cricket", Bahrain Women vs Nepal Women (ICC Women's T20 World Cup Asia Qualifier, 2025)
+https://dai.fancode.com/primary/124519_english_hls_66602ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECN-Estonia-Bulgaria-T20I-W-old.jpg" group-title="Fancode-Cricket", Bulgaria Women vs Estonia Women (ECN Estonia-Bulgaria T20IW, 2025)
+https://dai.fancode.com/primary/125685_english_hls_12580ta-di_h264/index.m3u8
+
 
 # --- External Playlist: Willow Livestream ---
 #EXTM3U
@@ -6691,7 +6700,7 @@ https://live.drmlive-02.workers.dev/zee/176.m3u8
 https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x6PyHgN/In-Shot-20241202-102835810.jpg" group-title="Dish TV",Star Gold Romance
-https://bhavy.vercel.app/bhavy.m3u8?id=66186
+https://allinonereborn.com/op141.m3u8?id=66186
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-classic/logo_20231219_184825_52.png" group-title="Dish TV",Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
@@ -6741,24 +6750,22 @@ http://192.168.1.3:8000/tata/manifest.mpd?id=605|X-Forwarded-For=59.178.74.184&O
 http://192.168.1.3:8000/tata/manifest.mpd?id=245|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x6PyHgN/In-Shot-20241202-102835810.jpg" group-title="Dish TV",Star Gold2
-https://bhavy.vercel.app/bhavy.m3u8?id=106133
+https://allinonereborn.com/op141.m3u8?id=106133
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6wJQyP0/In-Shot-20241202-103136338.jpg" group-title="Dish TV",Star Gold Select HD
-https://bhavy.vercel.app/bhavy.m3u8?id=66176
+https://allinonereborn.com/op141.m3u8?id=109960
 
 #EXTINF:-1 tvg-logo="https://media-hosting.imagekit.io//8ce5b46521ca4608/Black%20Flat%20Illustrative%20Dent%20Logo_20250323_151336_0000.png?Expires=1837331064&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=RB--U6roqUATl5LLuGBJ2mEdjgrG52q7qAgZcUkac5Pfc2givSM9-LDZj56W6pInZxnF1Q4OWvYZ6-Y3-gb8vKO6u2yXW1uvqpIAF0lfa5gcMhQR~e8TXQJwv0w~V8Wufl8Ofu116bpDy113uhorPyWRpQim5VCYXbFXmgKaHO8nTsf~B~JBSLJknzKkti2TCNllILJ8iR60v6nR8ku2Ex0lRri0PJ~5Hmp2QA3ykglvrMm6pNg4dqF6IA4mIPsx0VB63jEofzJgSuHzsCKhWYGgDstXBMWaNV1a-Af79RnQT5vbqS8e4IOEiphQVu1udrOg1QTBe~dUUmd1WHPRrA__" group-title="Dish TV",Star Utsav Movies HD
-https://bhavy.vercel.app/bhavy.m3u8?id=112971
+https://allinonereborn.com/op141.m3u8?id=112971
 
 EXTINF:-1 tvg-id="zee-cinema-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png" group-title="Dish TV", Zee Cinema SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=812411cba8bc42c79eb2b19cd78ad3f3:468a0b8d3d5d42d8a5c41bb875390a74
 #EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/diYkUOnX.png" group-title="Dish TV", Zee Anoml Cinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/zeeanmolcinema.m3u8
 
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/iqfloc.png" group-title="Dish TV", NDTV India
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
