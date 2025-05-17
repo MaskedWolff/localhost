@@ -6600,8 +6600,8 @@ Error: MPD URL not found for the given tvg-id.
 
 # --- External Playlist: drmlive/fancode.m3u ---
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Emilia-Romagna_Race_Old.jpg" group-title="Fancode-Formula 1", Practice 3 vs Italy (F1 AWS GRAN PREMIO DELL'EMILIA-ROMAGNA 2025)
-https://d1tl3i8040mo0t.cloudfront.net/out/v1/ad3d2236e8194e35a404ea88438f515c/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg" group-title="Fancode-Motorsports", Sprint Race vs Imola (F2 ITALY-EMILIA ROMAGNA 2025)
+https://dai.fancode.com/primary/119039_english_hls_99862adfreeta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-W-Estonia-Blugaria-old.jpg" group-title="Fancode-Cricket", Estonia Women vs Bulgaria Women (ECI-W Estonia-Bulgaria, 2025)
 https://dai.fancode.com/primary/125692_english_hls_66476ta-di_h264/index.m3u8
@@ -6615,6 +6615,22 @@ https://dai.fancode.com/primary/125164_english_hls_79153ta-di_h264/index.m3u8
 
 # --- External Playlist: Willow Livestream ---
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a64767a1-4b17-44f7-9f2f-ca91633e16c8/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Indian Premier League 2025 - 58th Match - Royal Challengers Bengaluru vs Kolkata Knight Riders
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ece9c98389916bb83f9c12544d90548e:ef94fda012a15d43bda732d2856d9487
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wzpciu2j5y/out/v1/c667ed163dd747a59c88a81d10b6a4db/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a0e2cd56-ad32-41e9-a2c8-08af9127682f/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",ICC CWC League Two 2023-27 - 1st Match - United States of America vs Canada
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f45a78625e41a525fb3ad51a2b91c1bd:d55e79fdfcf3e98459938f674ed09159
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iuh3zntdmm/out/v1/2b7a950a8a624ff0ad68c22adcf816dd/cenc.mpd
 
 
 # --- Your Playlist: MaskedWolff/localnetwork ---
