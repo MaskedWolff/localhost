@@ -81,7 +81,7 @@ https://live.drmlive-02.workers.dev/zee/176.m3u8
 https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x6PyHgN/In-Shot-20241202-102835810.jpg" group-title="Dish TV",Star Gold Romance
-https://freelivtvopplex.vercel.app/play.m3u8?id=388688
+http://xott.live:80/live/4477884848/445566/66186.ts
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-classic/logo_20231219_184825_52.png" group-title="Dish TV",Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
@@ -131,13 +131,13 @@ http://192.168.1.3:8000/tata/manifest.mpd?id=605|X-Forwarded-For=59.178.74.184&O
 http://192.168.1.3:8000/tata/manifest.mpd?id=245|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x6PyHgN/In-Shot-20241202-102835810.jpg" group-title="Dish TV",Star Gold2
-https://freelivtvopplex.vercel.app/play.m3u8?id=106133
+http://xott.live:80/live/4477884848/445566/106133.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6wJQyP0/In-Shot-20241202-103136338.jpg" group-title="Dish TV",Star Gold Select HD
-https://freelivtvopplex.vercel.app/play.m3u8?id=109960
+http://xott.live:80/live/4477884848/445566/221257.ts
 
 #EXTINF:-1 tvg-logo="https://media-hosting.imagekit.io//8ce5b46521ca4608/Black%20Flat%20Illustrative%20Dent%20Logo_20250323_151336_0000.png?Expires=1837331064&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=RB--U6roqUATl5LLuGBJ2mEdjgrG52q7qAgZcUkac5Pfc2givSM9-LDZj56W6pInZxnF1Q4OWvYZ6-Y3-gb8vKO6u2yXW1uvqpIAF0lfa5gcMhQR~e8TXQJwv0w~V8Wufl8Ofu116bpDy113uhorPyWRpQim5VCYXbFXmgKaHO8nTsf~B~JBSLJknzKkti2TCNllILJ8iR60v6nR8ku2Ex0lRri0PJ~5Hmp2QA3ykglvrMm6pNg4dqF6IA4mIPsx0VB63jEofzJgSuHzsCKhWYGgDstXBMWaNV1a-Af79RnQT5vbqS8e4IOEiphQVu1udrOg1QTBe~dUUmd1WHPRrA__" group-title="Dish TV",Star Utsav Movies HD
-https://freelivtvopplex.vercel.app/play.m3u8?id=112971
+http://xott.live:80/live/4477884848/445566/112971.ts
 
 EXTINF:-1 tvg-id="zee-cinema-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png" group-title="Dish TV", Zee Cinema SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
