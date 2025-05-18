@@ -6600,32 +6600,14 @@ Error: MPD URL not found for the given tvg-id.
 
 # --- External Playlist: drmlive/fancode.m3u ---
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Emilia-Romagna_Race_Old.jpg" group-title="Fancode-Formula 1", Race vs Italy (F1 AWS GRAN PREMIO DELL'EMILIA-ROMAGNA 2025)
-https://d2dzpk5pwuubuw.cloudfront.net/out/v1/1737374e7c4249e4a8e63ce71b51da44/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/124933_5166_CC_NW_fc-Web.jpg" group-title="Fancode-Cricket", Clove Challengers vs Nutmeg Warriors (Dream11 Spice Isle T10, 2025)
 https://dai.fancode.com/primary/124933_english_hls_62974ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/126110_4400_ROV_ZAR_fc-web.png" group-title="Fancode-Football", Real Oviedo vs Real Zaragoza (LALIGA HYPERMOTION 2024-25)
+https://dai.fancode.com/primary/126110_english_hls_32815ta-di_h264/index.m3u8
+
 
 # --- External Playlist: Willow Livestream ---
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.50d96f50-57d4-4f92-afdf-9091252ed4ff/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Indian Premier League 2025 - 60th Match - Delhi Capitals vs Gujarat Titans
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb0149c4ee5c9f50c82d4cffc9551044:0472ea0f977e324e07a820ff7e1f5a1e
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2ppvpr099z/out/v1/8e4142c6df6e442c94feba54c3887da0/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cc90b035-5a5d-437d-a7f7-51ef868bcada/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Pakistan Super League 2025 - 29th Match - Peshawar Zalmi vs Lahore Qalandars
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=10321e25451df18aa104ac7985578b10:7e835e3da235f946eded90fdf63276f1
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/aok2x3fo43/out/v1/252e3027e5734d29a6e259474deecfc6/cenc.mpd
-
 
 # --- Your Playlist: MaskedWolff/localnetwork ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
