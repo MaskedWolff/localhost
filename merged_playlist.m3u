@@ -6600,6 +6600,9 @@ Error: MPD URL not found for the given tvg-id.
 
 # --- External Playlist: drmlive/fancode.m3u ---
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_-MONACO_Old.jpg" group-title="Fancode-Formula 1", Qualifying vs Monaco (F1 TAG HEUER GRAND PRIX DE MONACO 2025)
+https://d3fn1go544ixyx.cloudfront.net/out/v1/1bfdcb77d7da404ea97692d56541e564/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-Tour-of-England-test-old-match-card.png" group-title="Fancode-Cricket", England vs Zimbabwe (Zimbabwe tour of England, 2025)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/ZIMEN/master.m3u8?hdnea=exp=1748123521~acl=/*~id=82814331980283123478953079673915~hmac=f0d3787bf4d93235c0f2969312c817bab630993d98f1400336a5485ee5e22c65
 
@@ -6624,9 +6627,6 @@ https://dai.fancode.com/primary/126278_english_hls_78143ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-old-match-card.png" group-title="Fancode-Golf", Main Feed - Day 3 vs Colonial Country Club, Texas (Charles Schwab Challenge)
 https://dai.fancode.com/primary/127065_english_hls_63443ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg" group-title="Fancode-Motorsports", Sprint Race vs Monte Carlo (F2 MONACO 2025)
-https://dai.fancode.com/primary/119043_english_hls_19305adfreeta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-old-match-card.png" group-title="Fancode-Golf", Featured Group - Day 3 vs Colonial Country Club, Texas (Charles Schwab Challenge)
 https://dai.fancode.com/primary/127068_english_hls_954ta-di_h264/index.m3u8
 
@@ -6635,9 +6635,6 @@ https://dai.fancode.com/primary/127067_english_hls_28333ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-old-match-card.png" group-title="Fancode-Golf", Marquee Group - Day 3 vs Colonial Country Club, Texas (Charles Schwab Challenge)
 https://dai.fancode.com/primary/127066_english_hls_865ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_-MONACO_Old.jpg" group-title="Fancode-Formula 1", Qualifying vs Monaco (F1 TAG HEUER GRAND PRIX DE MONACO 2025)
-https://d3fn1go544ixyx.cloudfront.net/out/v1/1bfdcb77d7da404ea97692d56541e564/index.m3u8
 
 
 # --- External Playlist: Willow Livestream ---
