@@ -6605,8 +6605,6 @@ https://dai.fancode.com/primary/125766_english_hls_63998ta-di_h264/index.m3u8
 
 
 # --- External Playlist: Willow Livestream ---
-#EXTM3U
-
 
 # --- Your Playlist: MaskedWolff/localnetwork ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
