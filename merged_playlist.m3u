@@ -6600,6 +6600,9 @@ Error: MPD URL not found for the given tvg-id.
 
 # --- External Playlist: drmlive/fancode.m3u ---
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECN-Central-europe-cup-old.png" group-title="Fancode-Cricket", Norway vs Austria (ECN Central Europe Cup T20I, 2025)
+https://dai.fancode.com/primary/128422_english_hls_20213ta-di_h264/index.m3u8
+
 
 # --- External Playlist: Willow Livestream ---
 #EXTM3U
