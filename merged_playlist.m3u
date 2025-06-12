@@ -6600,6 +6600,9 @@ Error: MPD URL not found for the given tvg-id.
 
 # --- External Playlist: drmlive/fancode.m3u ---
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/128357_CASACARDS_APP.png" group-title="Fancode-Baseball", Colorado Rockies vs San Francisco Giants (Major League Baseball, 2025)
+https://dai.fancode.com/primary/128357_english_hls_3586ta-di_h264/index.m3u8
+
 
 # --- External Playlist: Willow Livestream ---
 #EXTM3U
