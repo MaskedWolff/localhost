@@ -4941,7 +4941,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 
 # --- External Playlist: drmlive/fancode.m3u ---
-error code: 1033
+#EXTM3U
+
 # --- External Playlist: Willow Livestream ---
 #EXTM3U
 
