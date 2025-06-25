@@ -4957,11 +4957,14 @@ https://dai.fancode.com/primary/128728_english_hls_48025ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/128095_5283_SRT-W_HD-W_fc-Web.jpg" group-title="Fancode-Cricket", Harbour Diamonds Womens vs Shrachi Rarh Tigers Womens (Bengal Women's Pro T20 League, 2025)
 https://dai.fancode.com/primary/128095_english_hls_85254ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/128108_5283_LSKT-W_MK-W_fc-Web.jpg" group-title="Fancode-Cricket", Lux Shyam Kolkata Tigers Womens vs Murshidabad Kueens Womens (Bengal Women's Pro T20 League, 2025)
+https://dai.fancode.com/primary/128108_english_hls_33841ta-di_h264/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Assam-tour-of-Namibia_old.jpg" group-title="Fancode-Cricket", Namibia vs Assam (Assam tour of Namibia, 2025)
 https://dai.fancode.com/primary/128786_english_hls_69012ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/128108_5283_LSKT-W_MK-W_fc-Web.jpg" group-title="Fancode-Cricket", Lux Shyam Kolkata Tigers Womens vs Murshidabad Kueens Womens (Bengal Women's Pro T20 League, 2025)
-https://dai.fancode.com/primary/128108_english_hls_33841ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/128675_5310_PTP_DDZ_fc-Web.jpg" group-title="Fancode-Cricket", Diamond Dazzlers vs Pruthvi Panthers (Baroda Premier League, 2025)
+https://dai.fancode.com/primary/129692_english_hls_63068ta-di_h264/index.m3u8
 
 
 # --- External Playlist: Willow Livestream ---
@@ -5300,3 +5303,6 @@ https://play.denver1769.fun/J/Jtv.mpd?id=1152|User-Agent=Denver1769
 #EXTINF:-1 tvg-id="1136" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav_Movies.png" group-title="Dish TV",Star Utsav Movies
 #EXTVLCOPT:http-user-agent=Denver1769
 https://play.denver1769.fun/J/Jtv.mpd?id=1136|User-Agent=Denver1769
+
+#EXTINF:-1 group-title="Dish TV",Zee Bolly Movies
+https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
