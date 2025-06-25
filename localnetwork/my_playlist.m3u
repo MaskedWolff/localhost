@@ -330,5 +330,5 @@ https://play.denver1769.fun/J/Jtv.mpd?id=1152|User-Agent=Denver1769
 #EXTVLCOPT:http-user-agent=Denver1769
 https://play.denver1769.fun/J/Jtv.mpd?id=1136|User-Agent=Denver1769
 
-#EXTINF:-1 tvg-logo="https://ik.imagekit.io/73j3jnxcs/InShot_20250625_133152207.jpg?updatedAt=1750838678427"group-title="Dish TV",Zee Bolly Movies
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/73j3jnxcs/InShot_20250625_133152207.jpg?updatedAt=1750838678427" group-title="Dish TV",Zee Bolly Movies
 https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
