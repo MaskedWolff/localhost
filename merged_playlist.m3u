@@ -4942,14 +4942,9 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- External Playlist: drmlive/fancode.m3u ---
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic--old-match-card.png" group-title="Fancode-Golf", Featured Groups - Day 2 vs Detroit, Michigan (Rocket Classic)
-https://dai.fancode.com/primary/129354_english_hls_19730ta-di_h264/index.m3u8
-
 
 # --- External Playlist: Willow Livestream ---
-#EXTM3U
-
-
+error code: 1033
 # --- Your Playlist: MaskedWolff/localnetwork ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
