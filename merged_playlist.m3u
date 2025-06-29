@@ -4962,9 +4962,7 @@ https://dai.fancode.com/primary/119052_english_hls_9653adfreeta-di_h264/index.m3
 
 
 # --- External Playlist: Willow Livestream ---
-#EXTM3U
-
-
+error code: 1033
 # --- Your Playlist: MaskedWolff/localnetwork ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
