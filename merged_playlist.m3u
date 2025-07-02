@@ -4942,9 +4942,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- External Playlist: drmlive/fancode.m3u ---
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/123344_5107_SWI-W_NR-W_fc-web.jpg" group-title="Fancode-Football", Switzerland Women vs Norway Women (UEFA Women's EURO 2025)
-https://dai.fancode.com/primary/123344_english_hls_18171ta-di_h264/index.m3u8
-
 
 # --- External Playlist: Willow Livestream ---
 #EXTM3U
