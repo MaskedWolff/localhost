@@ -4942,9 +4942,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- External Playlist: drmlive/fancode.m3u ---
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/128396_CASACARDS_APP.png" group-title="Fancode-Baseball", Los Angeles Dodgers vs Chicago White Sox (Major League Baseball, 2025)
-https://dai.fancode.com/primary/128396_english_hls_80115ta-di_h264/index.m3u8
-
 
 # --- External Playlist: Willow Livestream ---
 #EXTM3U
