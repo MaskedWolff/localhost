@@ -4951,9 +4951,6 @@ https://in-mc-fdlive.fancode.com/mumbai/130125_english_hls_60841ta-di_h264/index
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg" group-title="Fancode-Cricket", Uganda vs Kenya (Pearl of Africa T20, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/130765_english_hls_9443ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/131623_CASACARDS_APP.png" group-title="Fancode-Cricket", Stockholm CC-W vs Djurgardens IF-W (ECS-W Sweden, Stockholm, 2025)
-https://in-mc-fdlive.fancode.com/mumbai/131623_english_hls_23752ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/129866_5373_CAM-W_LESW_fc-web.jpg" group-title="Fancode-Cricket", Cameroon Women vs Lesotho Women (ICC Women's Africa T20 WC Qualifier 2 2025)
 https://in-mc-fdlive.fancode.com/mumbai/129866_english_hls_46223ta-di_h264/index.m3u8
 
@@ -4992,7 +4989,7 @@ https://m3u.ygxworld.in/z5/index.m3u8?id=0-9-zeecinemahd&token=Kzmixtq7LoWc|User
 #KODIPROP:inputstream.adaptive.license_key=https://tp.drmlive-01.workers.dev?id=1183
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-http://192.168.1.3:8000/tataplay/get-mpd.php?id=1183|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+http://192.168.1.3:8000/tataplay-main/get-mpd.php?id=1183|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
 ***DISH TV***
 
