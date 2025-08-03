@@ -4945,7 +4945,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_match-card.jpg" group-title="Fancode-Cricket", Pupkewitz Motors Wildcats vs Paratus Jets (Namibia T20, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/132437_english_hls_98118ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v2/132400_CASACARDS_APP.png" group-title="Fancode-Cricket", Bud Cricket Club vs Navarang Club (GTC Spring T20 Cup, 2nd Edition, 2025)
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v2/132400_CASACARDS_APP.png" group-title="Fancode-Cricket", Navarang Club vs Bud Cricket Club (GTC Spring T20 Cup, 2nd Edition, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/132400_english_hls_95305ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/132527_CASACARDS_APP.png" group-title="Fancode-Cricket", Pirates vs Marlins (Mackay T20 Championship, 2025)
@@ -4956,9 +4956,6 @@ https://in-mc-fdlive.fancode.com/mumbai/132465_english_hls_3087ta-di_h264/index.
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Hungarian_GP__Match_card_MRF_Old_match-card.jpg" group-title="Fancode-Motorsports", Race vs Budapest (Porsche Mobil 1 Super Cup)
 https://in-mc-fdlive.fancode.com/mumbai/132114_english_hls_59485adfreeta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/132828_CASACARDS_APP.png" group-title="Fancode-Cricket", Gaming CC vs Sloggers (ECS Gibraltar, 2025)
-https://in-mc-fdlive.fancode.com/mumbai/132828_english_hls_66816ta-di_h264/index.m3u8
 
 
 # --- External Playlist: Willow Livestream ---
