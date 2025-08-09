@@ -4945,15 +4945,20 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Super-Series_old_v2.jpg" group-title="Fancode-Cricket", Johor vs Kuala Lumpur (MCA Men's T20 Inter-State Championship, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/132638_english_hls_85434ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" group-title="Fancode-Cricket", West Indies vs Pakistan (Pakistan tour of West Indies, 2025)
-https://in-mc-fdlive.fancode.com/mumbai/131399_english_hls_99872ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v2/132411_CASACARDS_APP.png" group-title="Fancode-Cricket", City Cricket Club vs Nabajyoti Club (GTC Spring T20 Cup, 2nd Edition, 2025)
+https://in-mc-fdlive.fancode.com/mumbai/132411_english_hls_52274ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/132848_CASACARDS_APP.png" group-title="Fancode-Baseball", Los Angeles Dodgers vs Toronto Blue Jays (Major League Baseball, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/132848_english_hls_99602ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Asia-Rugby-U20-Men's-&-Women's-Sevens-old-match-card.jpg" group-title="Fancode-Live events", Day 1 vs Rajgir, Bihar (Asia Rugby U20 Men's & Women's Sevens)
+https://in-mc-fdlive.fancode.com/mumbai/133382_english_hls_96027ta-di_h264/index.m3u8
+
 
 # --- External Playlist: Willow Livestream ---
-error code: 502
+#EXTM3U
+
+
 # --- Your Playlist: MaskedWolff/localnetwork ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
