@@ -5292,22 +5292,22 @@ http://192.168.1.3:8000/tataplay-main/manifest.mpd?id=120|X-Forwarded-For=59.178
 #KODIPROP:inputstream.adaptive.license_key=https://game.denver1769.fun/Jtv/Jtv.php?id=1155&keys
 #EXTINF:-1 tvg-id="1155" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" group-title="Dish TV",Star Gold 2 HD
 #EXTVLCOPT:http-user-agent=Denver1769
-https://game.denver1769.fun/Jtv/UEEKf3/Jtv.mpd?id=1155|User-Agent=Denver1769
+https://game.denver1769.fun/Jtv/tEZqpo/Jtv.mpd?id=1155|User-Agent=Denver1769
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.denver1769.fun/Jtv/Jtv.php?id=1152&keys
 #EXTINF:-1 tvg-id="1152" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Romance.png" group-title="Dish TV",Star Gold Romance
 #EXTVLCOPT:http-user-agent=Denver1769
-https://game.denver1769.fun/Jtv/UEEKf3/Jtv.mpd?id=1152|User-Agent=Denver1769
+https://game.denver1769.fun/Jtv/tEZqpo/Jtv.mpd?id=1152|User-Agent=Denver1769
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.denver1769.fun/Jtv/Jtv.php?id=1136&keys
 #EXTINF:-1 tvg-id="1136" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav_Movies.png" group-title="Dish TV",Star Utsav Movies
 #EXTVLCOPT:http-user-agent=Denver1769
-https://game.denver1769.fun/Jtv/UEEKf3/Jtv.mpd?id=1136|User-Agent=Denver1769
+https://game.denver1769.fun/Jtv/tEZqpo/Jtv.mpd?id=1136|User-Agent=Denver1769
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.denver1769.fun/Jtv/Jtv.php?id=1113&keys
 #EXTINF:-1 tvg-id="1113" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="Dish TV",Star Gold Select HD
 #EXTVLCOPT:http-user-agent=Denver1769
-https://game.denver1769.fun/Jtv/UEEKf3/Jtv.mpd?id=1113|User-Agent=Denver1769
+https://game.denver1769.fun/Jtv/tEZqpo/Jtv.mpd?id=1113|User-Agent=Denver1769
