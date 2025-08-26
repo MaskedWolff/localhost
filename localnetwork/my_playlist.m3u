@@ -123,12 +123,13 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://spoo.me/Nat-geowild" group-title="Dish TV",Nat Geo Wild HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/jplus/key.php?id=1332&token=Kzmixtq7LoWc
-https://m3u.ygxworld.in/jplus/index.mpd?id=1332&token=Kzmixtq7LoWc|User-Agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.7
+#EXTHTTP:{"user-agent": "plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.7"
+https://m3u.ygxworld.in/jplus/index.mpd?id=1332&token=Kzmixtq7LoWcUser-Agent="plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.7"
 
 #EXTINF:-1 tvg-logo="https://spoo.me/Nat-Geo" group-title="Dish TV",Nat Geo HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/jplus/key.php?id=1335&token=Kzmixtq7LoWc
-https://m3u.ygxworld.in/jplus/index.mpd?id=1335&token=Kzmixtq7LoWc|User-Agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.7
+https://m3u.ygxworld.in/jplus/index.mpd?id=1335&token=Kzmixtq7LoWc|User-Agent="plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.7"
 
 #EXTINF:-1 tvg-id="1260000040" tvg-logo="https://i.ibb.co/WKprrN6/IMG-20220810-100722-749.jpg" group-title="Dish TV" ,Star Gold
 #KODIPROP:inputstream.adaptive.license_type=clearkey
