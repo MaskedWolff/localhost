@@ -14,9 +14,7 @@ https://in-mc-fdlive.fancode.com/mumbai/136717_english_hls_60b34f674c13059ta-di_
 
 
 # --- External Playlist: Willow Livestream ---
-#EXTM3U
-
-
+error code: 502
 # --- Your Playlist: MaskedWolff/localnetwork ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
