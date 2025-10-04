@@ -15,14 +15,14 @@ https://in-mc-fdlive.fancode.com/mumbai/136816_english_hls_b8dd7889cd93273ta-di_
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/136815_CASACARDS_APP.png" group-title="Fancode-Cricket", Namibia vs Zimbabwe (ICC Men's T20 WC Africa Regional Final, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/136815_english_hls_6f2b974eef71317ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136945_5489_HUL_SHF_fc-web.jpg" group-title="Fancode-Football", Hull City vs Sheffield United F.C. (EFL Championship 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/136945_english_hls_7b4ff00beb24898ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Alfred-Dunhill-Links-Championship_match-card.jpg" group-title="Fancode-Golf", Day 3 vs Old Course St Andrews (Alfred Dunhill Links Championship)
 https://in-mc-fdlive.fancode.com/mumbai/136857_english_hls_2a8674b6dd22827ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg" group-title="Fancode-Motorsports", Race 1 vs Germany (DTM Hockenheimring)
-https://in-mc-fdlive.fancode.com/mumbai/136636_english_hls_1bf8808bb764376ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/E1-Lagos-GP--old-match-card.png" group-title="Fancode-Motorsports", Session 1 - Qualifying Time Trials vs Nigeria (E1 Lagos GP)
+https://in-mc-fdlive.fancode.com/mumbai/137199_english_hls_d87ad3756b61011ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136945_5489_HUL_SHF_fc-web.jpg" group-title="Fancode-Football", Hull City vs Sheffield United F.C. (EFL Championship 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/136945_english_hls_7b4ff00beb24898ta-di_h264/index.m3u8
 
 
 # --- External Playlist: Willow Livestream ---
@@ -35,14 +35,6 @@ https://in-mc-fdlive.fancode.com/mumbai/136636_english_hls_1bf8808bb764376ta-di_
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5a76c50445a965838ca903865f049ff:63bebf395311bc53b57b63c2f8d85bd5
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/clfvrt0up2/out/v1/1e7aca32764f44d0a1f9f1de8613e118/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b2da1a7c-6df1-4070-8468-c8e4eaea64d0/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Australia vs. Sri Lanka
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ff392b05ec3db127da9f6b39dafd450d:b69e419a3ec8ce380a52a00a406e8bbb
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6bovrrljgh/out/v1/3718171b94e34eafa6694c21d08bfd78/cenc.mpd
 
 
 # --- Your Playlist: MaskedWolff/localnetwork ---
