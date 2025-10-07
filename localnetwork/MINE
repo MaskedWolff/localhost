@@ -54,20 +54,16 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_Urdu_NW18_MOB/output01/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
 https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2WwGBzd/images-1.jpg" group-title="Dish TV" ,Peace TV Urdu
-http://192.168.1.3:8000/TP/play.php?id=692
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/2WwGBzd/images-1.jpg" group-title="Dish TV" ,Peace TV Urdu
-https://freelivtvopplex.vercel.app/play.m3u8?id=11
-#https://cors-proxy.cooks.fyi/https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2WwGBzd/images-1.jpg" group-title="ISLAMIC" ,Peace TV Urdu
+https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 
 #EXTINF:-1 tvg-id="zee-bollywood" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png" group-title="Dish TV", Zee Bollywood
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/5vWmCQZ/images.jpg" group-title="Dish TV" ,Peace TV English
-https://cors-proxy.cooks.fyi/https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5vWmCQZ/images.jpg" group-title="Dish TV" ,Peace TV English
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X5VT04d/Untitled-design-20250126-182551-0000.png" group-title="Dish TV", Zee Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -343,8 +339,8 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/3d81fade" group-title="ISLAMIC" ,Islam Channel Urdu
 https://live-islamtv-urdu.simplestreamcdn.com/live13/islamtv_urdu/bitrate1.isml/live.m3u8
 
-#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png",Makkah TV
-https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png",AL SUNNAH 
+https://ap02.iqplay.tv:8082/iqb8002/med9n1mhtvtv/playlist.m3u8
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/20240803-172433-removebg-preview.png",Iqra Quran
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist/4.m3u8
