@@ -350,7 +350,7 @@ https://game.denver1769.fun/Jtv/tEZqpo/Jtv.mpd?id=1136|User-Agent=Denver1769
 #EXTVLCOPT:http-user-agent=Denver1769
 https://game.denver1769.fun/Jtv/tEZqpo/Jtv.mpd?id=1113|User-Agent=Denver1769
 
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" group-title="Dish TV",Makkah Live
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" group-title="Dish TV",Makkah LIVE
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="IS: Islam Channel Urdu" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/3d81fade" group-title="Dish TV" ,IS: Islam Channel Urdu
