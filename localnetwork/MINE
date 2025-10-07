@@ -1,4 +1,3 @@
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
@@ -338,14 +337,17 @@ https://game.denver1769.fun/Jtv/tEZqpo/Jtv.mpd?id=1136|User-Agent=Denver1769
 #EXTVLCOPT:http-user-agent=Denver1769
 https://game.denver1769.fun/Jtv/tEZqpo/Jtv.mpd?id=1113|User-Agent=Denver1769
 
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" group-title="Dish TV",Makkah LIVE
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" group-title="ISLAMIC",Makkah LIVE
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 
-#EXTINF:-1 tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/3d81fade" group-title="Dish TV" ,Islam Channel Urdu
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/3d81fade" group-title="ISLAMIC" ,Islam Channel Urdu
 https://live-islamtv-urdu.simplestreamcdn.com/live13/islamtv_urdu/bitrate1.isml/live.m3u8
 
-#EXTINF:-1 group-title="Dish TV" tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png",Makkah TV
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png",Makkah TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
-#EXTINF:-1 group-title="Dish TV" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/20240803-172433-removebg-preview.png",Iqra Quran
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/20240803-172433-removebg-preview.png",Iqra Quran
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist/4.m3u8
+
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_s1QIH4x4Ru0DufX_CNlWhPvPU3o91ZcA9w&s",Madani Channel Urdu
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
