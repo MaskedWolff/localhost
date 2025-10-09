@@ -1,11 +1,11 @@
-name: Merge Playlists
+name: Ultimate Playlist Merge
 
 on:
   push:
     paths:
       - 'localnetwork/my_playlist.m3u'
   schedule:
-    - cron: '*/10 * * * *'  # every 10 minutes
+    - cron: '*/10 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -18,54 +18,52 @@ jobs:
 
       - name: Download External Playlists
         run: |
-          curl -L "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jstar.m3u" -o external_jstar.m3u
-          curl -L "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u" -o external_fancode.m3u
-          curl -L "https://raw.githubusercontent.com/abid58b/WillowLivePlaylist/refs/heads/main/willowlive.m3u" -o external_willow.m3u
-          curl -L "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u" -o external_z5.m3u
+          set -e
+          curl -fsSL "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jstar.m3u" -o external_jstar.m3u || echo "JStar playlist failed"
+          curl -fsSL "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u" -o external_fancode.m3u || echo "Fancode playlist failed"
+          curl -fsSL "https://raw.githubusercontent.com/abid58b/WillowLivePlaylist/refs/heads/main/willowlive.m3u" -o external_willow.m3u || echo "Willow playlist failed"
+          curl -fsSL "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u" -o external_z5.m3u || echo "Z5 playlist failed"
 
       - name: Filter and Prefix jstar.m3u Groups
         run: |
-          awk '
-            BEGIN {IGNORECASE=1}
-            /^#EXTINF/ {
-              match($0, /group-title="[^"]+"/)
-              if (RSTART) {
-                group = substr($0, RSTART, RLENGTH)
-                sub(/group-title="/, "group-title=\"jstar ", group)
-                sub(/"$/, "\"", group)
-                $0 = substr($0, 1, RSTART-1) group substr($0, RSTART+RLENGTH)
+          if [ -f external_jstar.m3u ]; then
+            awk '
+              BEGIN {IGNORECASE=1}
+              /^#EXTINF/ {
+                match($0, /group-title="[^"]+"/)
+                if (RSTART) {
+                  group = substr($0, RSTART, RLENGTH)
+                  sub(/group-title="/, "group-title=\"jstar ", group)
+                  sub(/"$/, "\"", group)
+                  $0 = substr($0, 1, RSTART-1) group substr($0, RSTART+RLENGTH)
+                }
               }
-            }
-            {print}
-          ' external_jstar.m3u > filtered_jstar.m3u
+              {print}
+            ' external_jstar.m3u > filtered_jstar.m3u
+          fi
 
-      - name: Merge Playlists with Headers
+      - name: Merge Playlists
         run: |
-          echo "# --- External Playlist: alex8875/jstar.m3u (Filtered) ---" > merged_playlist.m3u
-          cat filtered_jstar.m3u >> merged_playlist.m3u
-          echo "" >> merged_playlist.m3u
-          echo "# --- External Playlist: drmlive/fancode.m3u ---" >> merged_playlist.m3u
-          cat external_fancode.m3u >> merged_playlist.m3u
-          echo "" >> merged_playlist.m3u
-          echo "# --- External Playlist: Willow Livestream ---" >> merged_playlist.m3u
-          cat external_willow.m3u >> merged_playlist.m3u
-          echo "" >> merged_playlist.m3u
-          echo "# --- External Playlist: Z5 ---" >> merged_playlist.m3u
-          cat external_z5.m3u >> merged_playlist.m3u
-          echo "" >> merged_playlist.m3u
-          echo "# --- Your Playlist: MaskedWolff/localnetwork ---" >> merged_playlist.m3u
+          echo "# --- JStar Playlist ---" > merged_playlist.m3u
+          [ -f filtered_jstar.m3u ] && cat filtered_jstar.m3u >> merged_playlist.m3u
+          echo "# --- Fancode Playlist ---" >> merged_playlist.m3u
+          [ -f external_fancode.m3u ] && cat external_fancode.m3u >> merged_playlist.m3u
+          echo "# --- Willow Playlist ---" >> merged_playlist.m3u
+          [ -f external_willow.m3u ] && cat external_willow.m3u >> merged_playlist.m3u
+          echo "# --- Z5 Playlist ---" >> merged_playlist.m3u
+          [ -f external_z5.m3u ] && cat external_z5.m3u >> merged_playlist.m3u
+          echo "# --- Local Playlist ---" >> merged_playlist.m3u
           cat localnetwork/my_playlist.m3u >> merged_playlist.m3u
 
-      - name: Commit and Push Changes
+      - name: Commit if Updated
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add merged_playlist.m3u
-          if git diff --cached --quiet
-          then
-            echo "No changes to commit"
-          else
-            git commit -m "Update merged playlist with new Willow, JStar, and Z5"
+          if ! git diff --cached --quiet; then
+            git commit -m "Ultimate update merged playlist with Willow, JStar, and Z5"
             git pull origin main --rebase
             git push origin main
+          else
+            echo "No changes detected in merged_playlist.m3u"
           fi
