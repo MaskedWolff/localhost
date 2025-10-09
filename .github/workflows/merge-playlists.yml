@@ -29,8 +29,8 @@ jobs:
 
       - name: Merge Playlists with Headers
         run: |
-          echo "# --- External Playlist: alex4528/jtv.m3u (Filtered) ---" > merged_playlist.m3u
-          cat filtered_jtv.m3u >> merged_playlist.m3u
+          echo "# --- External Playlist: alex8875/jstar.m3u (Filtered) ---" > merged_playlist.m3u
+          cat filtered_jstar.m3u >> merged_playlist.m3u
           echo "" >> merged_playlist.m3u
 
           echo "# --- External Playlist: drmlive/fancode.m3u ---" >> merged_playlist.m3u
