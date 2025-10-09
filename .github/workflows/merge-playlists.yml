@@ -24,8 +24,19 @@ jobs:
 
       - name: Filter and Prefix jstar.m3u Groups
         run: |
-          grep -v -iE 'group-title="(devotional|business news|shopping|kids|sports|lifestyle|music|educational)"' external_jstar.m3u \
-          | sed -E 's/group-title="([^"]+)"/group-title="jstar \1"/' > filtered_jstar.m3u
+          awk '
+            BEGIN {IGNORECASE=1}
+            /^#EXTINF/ {
+              match($0, /group-title="[^"]+"/)
+              if (RSTART) {
+                group = substr($0, RSTART, RLENGTH)
+                sub(/group-title="/, "group-title=\"jstar ", group)
+                sub(/"$/, "\"", group)
+                $0 = substr($0, 1, RSTART-1) group substr($0, RSTART+RLENGTH)
+              }
+            }
+            {print}
+          ' external_jstar.m3u > filtered_jstar.m3u
 
       - name: Merge Playlists with Headers
         run: |
@@ -50,7 +61,7 @@ jobs:
           then
             echo "No changes to commit"
           else
-            git commit -m "Update merged playlist"
+            git commit -m "Update merged playlist with new Willow & JStar"
             git pull origin main --rebase
             git push origin main
           fi
