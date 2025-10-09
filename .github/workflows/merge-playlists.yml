@@ -20,26 +20,24 @@ jobs:
         run: |
           curl -L "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jstar.m3u" -o external_jstar.m3u
           curl -L "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u" -o external_fancode.m3u
-          curl -L "https://raw.githubusercontent.com/drmlive/willow-live-events/main/willow.m3u" -o external_willow.m3u
+          curl -L "https://raw.githubusercontent.com/abid58b/WillowLivePlaylist/refs/heads/main/willowlive.m3u" -o external_willow.m3u
 
       - name: Filter and Prefix jstar.m3u Groups
         run: |
-          grep -v -iE 'group-title="(devotional|business news|shopping|kids|sports|lifestyle|music|educational)"' external_jtv.m3u \
+          grep -v -iE 'group-title="(devotional|business news|shopping|kids|sports|lifestyle|music|educational)"' external_jstar.m3u \
           | sed -E 's/group-title="([^"]+)"/group-title="jstar \1"/' > filtered_jstar.m3u
+
       - name: Merge Playlists with Headers
         run: |
           echo "# --- External Playlist: alex8875/jstar.m3u (Filtered) ---" > merged_playlist.m3u
           cat filtered_jstar.m3u >> merged_playlist.m3u
           echo "" >> merged_playlist.m3u
-
           echo "# --- External Playlist: drmlive/fancode.m3u ---" >> merged_playlist.m3u
           cat external_fancode.m3u >> merged_playlist.m3u
           echo "" >> merged_playlist.m3u
-
           echo "# --- External Playlist: Willow Livestream ---" >> merged_playlist.m3u
           cat external_willow.m3u >> merged_playlist.m3u
           echo "" >> merged_playlist.m3u
-
           echo "# --- Your Playlist: MaskedWolff/localnetwork ---" >> merged_playlist.m3u
           cat localnetwork/my_playlist.m3u >> merged_playlist.m3u
 
@@ -47,9 +45,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
           git add merged_playlist.m3u
-
           if git diff --cached --quiet
           then
             echo "No changes to commit"
