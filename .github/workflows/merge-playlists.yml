@@ -22,11 +22,10 @@ jobs:
           curl -L "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u" -o external_fancode.m3u
           curl -L "https://raw.githubusercontent.com/drmlive/willow-live-events/main/willow.m3u" -o external_willow.m3u
 
-      - name: Filter and Prefix jtv.m3u Groups
+      - name: Filter and Prefix jstar.m3u Groups
         run: |
           grep -v -iE 'group-title="(devotional|business news|shopping|kids|sports|lifestyle|music|educational)"' external_jtv.m3u \
-          | sed -E 's/group-title="([^"]+)"/group-title="JioTV \1"/' > filtered_jtv.m3u
-
+          | sed -E 's/group-title="([^"]+)"/group-title="jstar \1"/' > filtered_jstar.m3u
       - name: Merge Playlists with Headers
         run: |
           echo "# --- External Playlist: alex8875/jstar.m3u (Filtered) ---" > merged_playlist.m3u
