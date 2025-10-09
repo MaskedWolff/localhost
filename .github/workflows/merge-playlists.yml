@@ -18,7 +18,7 @@ jobs:
 
       - name: Download External Playlists
         run: |
-          curl -L "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jstar.m3u" -o external_jtv.m3u
+          curl -L "https://github.com/alex8875/m3u/blob/main/jstar.m3u" -o external_jtv.m3u
           curl -L "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u" -o external_fancode.m3u
           curl -L "https://raw.githubusercontent.com/drmlive/willow-live-events/main/willow.m3u" -o external_willow.m3u
 
