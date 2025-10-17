@@ -5239,14 +5239,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1760699261~exp=1760785661~acl=/*~hmac=0f90d2bf1b745a338cd626556ff993558ff9e1fb6c059e929e256e43b252c688&xxx=%7Ccookie=__hdnea__=st=1760699261~exp=1760785661~acl=/*~hmac=0f90d2bf1b745a338cd626556ff993558ff9e1fb6c059e929e256e43b252c688
 
 # --- Fancode Playlist ---
-#EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137497_5722_AJM_ABD_fc-web.jpg" group-title="Fancode-Cricket", Ajman vs Abu Dhabi (Emirates D20 Tournament, 2025)
-https://in-mc-fdlive.fancode.com/mumbai/137497_english_hls_aed9f623e965367ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137708_5728_WEW_SK_fc-web.jpg" group-title="Fancode-Cricket", Wellington Wolves vs Stellenbosch Kings (Boland T10, 2025)
-https://in-mc-fdlive.fancode.com/mumbai/137708_english_hls_886696e70b32548ta-di_h264/index.m3u8
-
-# --- Willow Playlist ---
+No match data found.# --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
 #EXTM3U
