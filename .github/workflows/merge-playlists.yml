@@ -25,6 +25,15 @@ jobs:
           curl -fsSL "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u" -o external_z5.m3u || echo "Z5 playlist failed"
           curl -fsSL "https://raw.githubusercontent.com/himanshu-temp/m3u/refs/heads/main/sony.m3u" -o external_sony.m3u || echo "Sony playlist failed"
 
+      - name: Verify Sony Playlist Download
+        run: |
+          if [ -f external_sony.m3u ]; then
+            echo "Sony playlist downloaded successfully. Preview below:"
+            head -n 10 external_sony.m3u
+          else
+            echo "Sony playlist not found!"
+          fi
+
       - name: Filter and Prefix jstar.m3u Groups
         run: |
           if [ -f external_jstar.m3u ]; then
@@ -43,6 +52,24 @@ jobs:
             ' external_jstar.m3u > filtered_jstar.m3u
           fi
 
+      - name: Filter and Prefix sony.m3u Groups
+        run: |
+          if [ -f external_sony.m3u ]; then
+            awk '
+              BEGIN {IGNORECASE=1}
+              /^#EXTINF/ {
+                match($0, /group-title="[^"]+"/)
+                if (RSTART) {
+                  group = substr($0, RSTART, RLENGTH)
+                  sub(/group-title="/, "group-title=\"sony ", group)
+                  sub(/"$/, "\"", group)
+                  $0 = substr($0, 1, RSTART-1) group substr($0, RSTART+RLENGTH)
+                }
+              }
+              {print}
+            ' external_sony.m3u > filtered_sony.m3u
+          fi
+
       - name: Merge Playlists
         run: |
           echo "# --- JStar Playlist ---" > merged_playlist.m3u
@@ -54,7 +81,7 @@ jobs:
           echo "# --- Z5 Playlist ---" >> merged_playlist.m3u
           [ -f external_z5.m3u ] && cat external_z5.m3u >> merged_playlist.m3u
           echo "# --- Sony Playlist ---" >> merged_playlist.m3u
-          [ -f external_sony.m3u ] && cat external_sony.m3u >> merged_playlist.m3u
+          [ -f filtered_sony.m3u ] && cat filtered_sony.m3u >> merged_playlist.m3u
           echo "# --- Local Playlist ---" >> merged_playlist.m3u
           cat localnetwork/my_playlist.m3u >> merged_playlist.m3u
 
