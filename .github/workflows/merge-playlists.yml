@@ -51,18 +51,17 @@ jobs:
 
       - name: Commit if Updated
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
           if [ -f merged_playlist.m3u ]; then
             git add merged_playlist.m3u
 
             if ! git diff --cached --quiet; then
               echo "📝 Changes detected. Committing updated playlist..."
-              git fetch origin main
-              git rebase origin/main
               git commit -m "Fast auto-merge playlists (every 2 min)"
-              git push origin main
+              # Push using GitHub token
+              git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
             else
               echo "ℹ️ No changes detected in merged_playlist.m3u"
             fi
