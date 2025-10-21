@@ -1,11 +1,11 @@
-name: Ultimate Playlist Merge
+name: Ultimate Playlist Merge (Fast)
 
 on:
   push:
     paths:
       - 'localnetwork/my_playlist.m3u'
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '*/2 * * * *'   # ⏱ Runs every 2 minutes
   workflow_dispatch:
 
 jobs:
@@ -19,61 +19,18 @@ jobs:
       - name: Download External Playlists
         run: |
           set -e
-          curl -fsSL "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jstar.m3u" -o external_jstar.m3u || echo "JStar playlist failed"
-          curl -fsSL "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u" -o external_fancode.m3u || echo "Fancode playlist failed"
-          curl -fsSL "https://raw.githubusercontent.com/abid58b/WillowLivePlaylist/refs/heads/main/willowlive.m3u" -o external_willow.m3u || echo "Willow playlist failed"
-          curl -fsSL "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u" -o external_z5.m3u || echo "Z5 playlist failed"
-          curl -fsSL "https://raw.githubusercontent.com/himanshu-temp/m3u/refs/heads/main/sony.m3u" -o external_sony.m3u || echo "Sony playlist failed"
-
-      - name: Verify Sony Playlist Download
-        run: |
-          if [ -f external_sony.m3u ]; then
-            echo "Sony playlist downloaded successfully. Preview below:"
-            head -n 10 external_sony.m3u
-          else
-            echo "Sony playlist not found!"
-          fi
-
-      - name: Filter and Prefix jstar.m3u Groups
-        run: |
-          if [ -f external_jstar.m3u ]; then
-            awk '
-              BEGIN {IGNORECASE=1}
-              /^#EXTINF/ {
-                match($0, /group-title="[^"]+"/)
-                if (RSTART) {
-                  group = substr($0, RSTART, RLENGTH)
-                  sub(/group-title="/, "group-title=\"jstar ", group)
-                  sub(/"$/, "\"", group)
-                  $0 = substr($0, 1, RSTART-1) group substr($0, RSTART+RLENGTH)
-                }
-              }
-              {print}
-            ' external_jstar.m3u > filtered_jstar.m3u
-          fi
-
-      - name: Filter and Prefix sony.m3u Groups
-        run: |
-          if [ -f external_sony.m3u ]; then
-            awk '
-              BEGIN {IGNORECASE=1}
-              /^#EXTINF/ {
-                match($0, /group-title="[^"]+"/)
-                if (RSTART) {
-                  group = substr($0, RSTART, RLENGTH)
-                  sub(/group-title="/, "group-title=\"sony ", group)
-                  sub(/"$/, "\"", group)
-                  $0 = substr($0, 1, RSTART-1) group substr($0, RSTART+RLENGTH)
-                }
-              }
-              {print}
-            ' external_sony.m3u > filtered_sony.m3u
-          fi
+          echo "⬇️ Downloading external playlists..."
+          curl -fsSL "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jstar.m3u" -o external_jstar.m3u || echo "⚠️ JStar playlist failed"
+          curl -fsSL "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u" -o external_fancode.m3u || echo "⚠️ Fancode playlist failed"
+          curl -fsSL "https://raw.githubusercontent.com/abid58b/WillowLivePlaylist/refs/heads/main/willowlive.m3u" -o external_willow.m3u || echo "⚠️ Willow playlist failed"
+          curl -fsSL "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u" -o external_z5.m3u || echo "⚠️ Z5 playlist failed"
+          curl -fsSL "https://raw.githubusercontent.com/himanshu-temp/m3u/refs/heads/main/sony.m3u" -o external_sony.m3u || echo "⚠️ Sony playlist failed"
 
       - name: Merge Playlists
         run: |
-          echo "# --- JStar Playlist ---" > merged_playlist.m3u
-          [ -f filtered_jstar.m3u ] && cat filtered_jstar.m3u >> merged_playlist.m3u
+          echo "#EXTM3U" > merged_playlist.m3u
+          echo "# --- JStar Playlist ---" >> merged_playlist.m3u
+          [ -f external_jstar.m3u ] && cat external_jstar.m3u >> merged_playlist.m3u
           echo "# --- Fancode Playlist ---" >> merged_playlist.m3u
           [ -f external_fancode.m3u ] && cat external_fancode.m3u >> merged_playlist.m3u
           echo "# --- Willow Playlist ---" >> merged_playlist.m3u
@@ -81,9 +38,10 @@ jobs:
           echo "# --- Z5 Playlist ---" >> merged_playlist.m3u
           [ -f external_z5.m3u ] && cat external_z5.m3u >> merged_playlist.m3u
           echo "# --- Sony Playlist ---" >> merged_playlist.m3u
-          [ -f filtered_sony.m3u ] && cat filtered_sony.m3u >> merged_playlist.m3u
+          [ -f external_sony.m3u ] && cat external_sony.m3u >> merged_playlist.m3u
           echo "# --- Local Playlist ---" >> merged_playlist.m3u
           cat localnetwork/my_playlist.m3u >> merged_playlist.m3u
+          echo "✅ Merge complete."
 
       - name: Commit if Updated
         run: |
@@ -91,9 +49,10 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add merged_playlist.m3u
           if ! git diff --cached --quiet; then
-            git commit -m "Ultimate update merged playlist with Willow, JStar, Z5, and Sony"
+            echo "📝 Changes detected. Committing updated playlist..."
+            git commit -m "Fast auto-merge playlists (every 2 min)"
             git pull origin main --rebase
             git push origin main
           else
-            echo "No changes detected in merged_playlist.m3u"
+            echo "ℹ️ No changes detected in merged_playlist.m3u"
           fi
