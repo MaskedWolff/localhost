@@ -25,6 +25,7 @@ jobs:
           curl -fsSL "https://raw.githubusercontent.com/abid58b/WillowLivePlaylist/refs/heads/main/willowlive.m3u" -o external_willow.m3u || echo "⚠️ Willow playlist failed"
           curl -fsSL "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u" -o external_z5.m3u || echo "⚠️ Z5 playlist failed"
           curl -fsSL "https://raw.githubusercontent.com/himanshu-temp/m3u/refs/heads/main/sony.m3u" -o external_sony.m3u || echo "⚠️ Sony playlist failed"
+          curl -fsSL "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u" -o external_sonyliv.m3u || echo "⚠️ Sonyliv playlist failed"
 
       - name: Merge Playlists
         run: |
@@ -39,6 +40,8 @@ jobs:
           [ -f external_z5.m3u ] && cat external_z5.m3u >> merged_playlist.m3u
           echo "# --- Sony Playlist ---" >> merged_playlist.m3u
           [ -f external_sony.m3u ] && cat external_sony.m3u >> merged_playlist.m3u
+          echo "# --- Sonyliv Events Playlist ---" >> merged_playlist.m3u
+          [ -f external_sonyliv.m3u ] && cat external_sonyliv.m3u >> merged_playlist.m3u
           echo "# --- Local Playlist ---" >> merged_playlist.m3u
           cat localnetwork/my_playlist.m3u >> merged_playlist.m3u
           echo "✅ Merge complete."
