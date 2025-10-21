@@ -331,3 +331,6 @@ https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" group-title="Dish TV",Zee Cine Classic
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-11_05_26-AM-200x300.png" group-title="Dish TV" ,NH BollyRaga
+https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
