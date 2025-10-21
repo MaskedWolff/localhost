@@ -5519,6 +5519,14 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="Entertainment",Sony Aath
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1761107190~acl=/*~id=29293554638651394160316908542751~hmac=065faf86bd43231a6f4287c51990dc9fb68827e4bc312ae7c7ce2f22f6bbaf63
+# --- Sonyliv Events Playlist ---
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009879/1759563082183335_UCL_25_26_MD3_Barcelona_vs_Olympiacos_landscape_thumb.jpg" group-title="sonyliv-Football", Barcelona vs Olympiacos - MD 3 - 21 Oct 2025 [ENG] - UEFA Champions League 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761109648~acl=/*~id=32813865077514319291623677465772~hmac=974fa41bfbc4f0ebbb95ee87bd41efbaddb69a9f1f69eec71133753a9bb833e7
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009879/1759563395413335_UCL_25_26_MD3_Kairat-Almaty-vs-Pafos_landscape_thumb.jpg" group-title="sonyliv-Football", Kairat Almaty vs Pafos - MD 3 - 21 Oct 2025 [ENG] - UEFA Champions League 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761109648~acl=/*~id=32813865077514319291623677465772~hmac=974fa41bfbc4f0ebbb95ee87bd41efbaddb69a9f1f69eec71133753a9bb833e7
+
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
