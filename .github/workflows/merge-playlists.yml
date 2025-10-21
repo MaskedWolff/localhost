@@ -20,40 +20,32 @@ jobs:
         run: |
           set -e
           echo "⬇️ Downloading external playlists..."
-          curl -fsSL "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u" -o external_sonyliv.m3u || echo "⚠️ SonyLIV playlist failed"
-          curl -fsSL "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jstar.m3u" -o external_jstar.m3u || echo "⚠️ JStar playlist failed"
-          curl -fsSL "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u" -o external_fancode.m3u || echo "⚠️ Fancode playlist failed"
-          curl -fsSL "https://raw.githubusercontent.com/abid58b/WillowLivePlaylist/refs/heads/main/willowlive.m3u" -o external_willow.m3u || echo "⚠️ Willow playlist failed"
-          curl -fsSL "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u" -o external_z5.m3u || echo "⚠️ Z5 playlist failed"
-          curl -fsSL "https://raw.githubusercontent.com/himanshu-temp/m3u/refs/heads/main/sony.m3u" -o external_sony.m3u || echo "⚠️ Sony playlist failed"
+
+          # SonyLIV events first
+          curl -fsSL "https://raw.githubusercontent.com/drmlive/sliv-live-events/main/sonyliv.m3u" -o external_sonyliv.m3u
+
+          curl -fsSL "https://raw.githubusercontent.com/alex8875/m3u/main/jstar.m3u" -o external_jstar.m3u
+          curl -fsSL "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u" -o external_fancode.m3u
+          curl -fsSL "https://raw.githubusercontent.com/abid58b/WillowLivePlaylist/main/willowlive.m3u" -o external_willow.m3u
+          curl -fsSL "https://raw.githubusercontent.com/alex8875/m3u/main/z5.m3u" -o external_z5.m3u
+          curl -fsSL "https://raw.githubusercontent.com/himanshu-temp/m3u/main/sony.m3u" -o external_sony.m3u
 
       - name: Merge Playlists
         run: |
           echo "#EXTM3U" > merged_playlist.m3u
 
-          # SonyLIV first
-          echo "# --- SonyLIV Playlist ---" >> merged_playlist.m3u
-          [ -f external_sonyliv.m3u ] && cat external_sonyliv.m3u >> merged_playlist.m3u
+          # SonyLIV events at the top
+          [ -f external_sonyliv.m3u ] && echo "# --- SonyLIV Playlist ---" >> merged_playlist.m3u && cat external_sonyliv.m3u >> merged_playlist.m3u
 
           # Other external playlists
-          echo "# --- JStar Playlist ---" >> merged_playlist.m3u
-          [ -f external_jstar.m3u ] && cat external_jstar.m3u >> merged_playlist.m3u
-
-          echo "# --- Fancode Playlist ---" >> merged_playlist.m3u
-          [ -f external_fancode.m3u ] && cat external_fancode.m3u >> merged_playlist.m3u
-
-          echo "# --- Willow Playlist ---" >> merged_playlist.m3u
-          [ -f external_willow.m3u ] && cat external_willow.m3u >> merged_playlist.m3u
-
-          echo "# --- Z5 Playlist ---" >> merged_playlist.m3u
-          [ -f external_z5.m3u ] && cat external_z5.m3u >> merged_playlist.m3u
-
-          echo "# --- Sony Playlist ---" >> merged_playlist.m3u
-          [ -f external_sony.m3u ] && cat external_sony.m3u >> merged_playlist.m3u
+          [ -f external_jstar.m3u ] && echo "# --- JStar Playlist ---" >> merged_playlist.m3u && cat external_jstar.m3u >> merged_playlist.m3u
+          [ -f external_fancode.m3u ] && echo "# --- Fancode Playlist ---" >> merged_playlist.m3u && cat external_fancode.m3u >> merged_playlist.m3u
+          [ -f external_willow.m3u ] && echo "# --- Willow Playlist ---" >> merged_playlist.m3u && cat external_willow.m3u >> merged_playlist.m3u
+          [ -f external_z5.m3u ] && echo "# --- Z5 Playlist ---" >> merged_playlist.m3u && cat external_z5.m3u >> merged_playlist.m3u
+          [ -f external_sony.m3u ] && echo "# --- Sony Playlist ---" >> merged_playlist.m3u && cat external_sony.m3u >> merged_playlist.m3u
 
           # Local playlist at the end
-          echo "# --- Local Playlist ---" >> merged_playlist.m3u
-          cat localnetwork/my_playlist.m3u >> merged_playlist.m3u
+          [ -f localnetwork/my_playlist.m3u ] && echo "# --- Local Playlist ---" >> merged_playlist.m3u && cat localnetwork/my_playlist.m3u >> merged_playlist.m3u
 
           echo "✅ Merge complete."
 
@@ -61,11 +53,19 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add merged_playlist.m3u
-          if ! git diff --cached --quiet; then
-            echo "📝 Changes detected. Committing updated playlist..."
-            git commit -m "Fast auto-merge playlists (every 2 min)"
-            git pull origin main --rebase
-            git push origin main
+
+          if [ -f merged_playlist.m3u ]; then
+            git add merged_playlist.m3u
+
+            if ! git diff --cached --quiet; then
+              echo "📝 Changes detected. Committing updated playlist..."
+              git fetch origin main
+              git rebase origin/main
+              git commit -m "Fast auto-merge playlists (every 2 min)"
+              git push origin main
+            else
+              echo "ℹ️ No changes detected in merged_playlist.m3u"
+            fi
           else
-            echo "ℹ️ No changes detected in merged_playlist.m3u"
+            echo "⚠️ merged_playlist.m3u does not exist!"
+            exit 1
