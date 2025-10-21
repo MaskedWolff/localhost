@@ -1,70 +1,27 @@
-name: Ultimate Playlist Merge (Fast)
+echo "#EXTM3U" > merged_playlist.m3u
 
-on:
-  push:
-    paths:
-      - 'localnetwork/my_playlist.m3u'
-  schedule:
-    - cron: '*/2 * * * *'   # ⏱ Runs every 2 minutes
-  workflow_dispatch:
+# Existing external playlists
+echo "# --- JStar Playlist ---" >> merged_playlist.m3u
+[ -f external_jstar.m3u ] && cat external_jstar.m3u >> merged_playlist.m3u
 
-jobs:
-  merge:
-    runs-on: ubuntu-latest
+echo "# --- Fancode Playlist ---" >> merged_playlist.m3u
+[ -f external_fancode.m3u ] && cat external_fancode.m3u >> merged_playlist.m3u
 
-    steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v3
+echo "# --- Willow Playlist ---" >> merged_playlist.m3u
+[ -f external_willow.m3u ] && cat external_willow.m3u >> merged_playlist.m3u
 
-      - name: Download External Playlists
-        run: |
-          set -e
-          echo "⬇️ Downloading external playlists..."
+echo "# --- Z5 Playlist ---" >> merged_playlist.m3u
+[ -f external_z5.m3u ] && cat external_z5.m3u >> merged_playlist.m3u
 
-          # SonyLIV events first
-          curl -fsSL "https://raw.githubusercontent.com/drmlive/sliv-live-events/main/sonyliv.m3u" -o external_sonyliv.m3u
+echo "# --- Sony Playlist ---" >> merged_playlist.m3u
+[ -f external_sony.m3u ] && cat external_sony.m3u >> merged_playlist.m3u
 
-          curl -fsSL "https://raw.githubusercontent.com/alex8875/m3u/main/jstar.m3u" -o external_jstar.m3u
-          curl -fsSL "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u" -o external_fancode.m3u
-          curl -fsSL "https://raw.githubusercontent.com/abid58b/WillowLivePlaylist/main/willowlive.m3u" -o external_willow.m3u
-          curl -fsSL "https://raw.githubusercontent.com/alex8875/m3u/main/z5.m3u" -o external_z5.m3u
-          curl -fsSL "https://raw.githubusercontent.com/himanshu-temp/m3u/main/sony.m3u" -o external_sony.m3u
+# New SonyLIV playlist
+echo "# --- SonyLIV Playlist ---" >> merged_playlist.m3u
+[ -f external_sonyliv.m3u ] && cat external_sonyliv.m3u >> merged_playlist.m3u
 
-      - name: Merge Playlists
-        run: |
-          echo "#EXTM3U" > merged_playlist.m3u
+# Local playlist
+echo "# --- Local Playlist ---" >> merged_playlist.m3u
+cat localnetwork/my_playlist.m3u >> merged_playlist.m3u
 
-          # SonyLIV events at the top
-          [ -f external_sonyliv.m3u ] && echo "# --- SonyLIV Playlist ---" >> merged_playlist.m3u && cat external_sonyliv.m3u >> merged_playlist.m3u
-
-          # Other external playlists
-          [ -f external_jstar.m3u ] && echo "# --- JStar Playlist ---" >> merged_playlist.m3u && cat external_jstar.m3u >> merged_playlist.m3u
-          [ -f external_fancode.m3u ] && echo "# --- Fancode Playlist ---" >> merged_playlist.m3u && cat external_fancode.m3u >> merged_playlist.m3u
-          [ -f external_willow.m3u ] && echo "# --- Willow Playlist ---" >> merged_playlist.m3u && cat external_willow.m3u >> merged_playlist.m3u
-          [ -f external_z5.m3u ] && echo "# --- Z5 Playlist ---" >> merged_playlist.m3u && cat external_z5.m3u >> merged_playlist.m3u
-          [ -f external_sony.m3u ] && echo "# --- Sony Playlist ---" >> merged_playlist.m3u && cat external_sony.m3u >> merged_playlist.m3u
-
-          # Local playlist at the end
-          [ -f localnetwork/my_playlist.m3u ] && echo "# --- Local Playlist ---" >> merged_playlist.m3u && cat localnetwork/my_playlist.m3u >> merged_playlist.m3u
-
-          echo "✅ Merge complete."
-
-      - name: Commit if Updated
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          if [ -f merged_playlist.m3u ]; then
-            git add merged_playlist.m3u
-
-            if ! git diff --cached --quiet; then
-              echo "📝 Changes detected. Committing updated playlist..."
-              git commit -m "Fast auto-merge playlists (every 2 min)"
-              # Push using GitHub token
-              git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
-            else
-              echo "ℹ️ No changes detected in merged_playlist.m3u"
-            fi
-          else
-            echo "⚠️ merged_playlist.m3u does not exist!"
-            exit 1
+echo "✅ Merge complete."
