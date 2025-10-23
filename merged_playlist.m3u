@@ -5527,6 +5527,12 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1761287271~acl=/*~id=17388101799534768382678951841613~hmac=ae4dc67c9fd825d8684e70ce2bbe8907d107b9e50c4dd5eec54cfaa5557d6bd6
 # --- Sonyliv Events Playlist ---
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010037/1760008046385836_UEL2526_MD3_Nottm_Forest_vs_Porto_9oct_landscape_thumb.jpg" group-title="sonyliv-Football", Nott'm Forest vs Porto - MD 3 - 24 Oct 2025 [ENG] - UEFA Europa League 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761289709~acl=/*~id=08298285870440696373255431069215~hmac=aced0062e52b7798eb2b6e9a85d18c8d3be9b4f2bcd38b4051a98702d9178dce
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010022/1759992598173918_UEL2526_MD3_Roma_vs_viktoria_Plzen_9oct_landscape_thumb.jpg" group-title="sonyliv-Football", Roma vs Viktoria Plzen - MD 3 - 24 Oct 2025 [ENG] - UEFA Europa League 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761289709~acl=/*~id=08298285870440696373255431069215~hmac=aced0062e52b7798eb2b6e9a85d18c8d3be9b4f2bcd38b4051a98702d9178dce
+
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
