@@ -5241,18 +5241,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137490_5722_EMB_AJM_fc-web.jpg" group-title="Fancode-Cricket", Emirates Blues vs Ajman (Emirates D20 Tournament, 2025)
-https://in-mc-fdlive.fancode.com/mumbai/137510_english_hls_714a46043a15482ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/135962_CASACARDS_APP.png" group-title="Fancode-Football", Exeter City vs Plymouth Argyle (League One 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/135962_english_hls_2a74cbc7af71544ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bank-of-Utah-Championship_old.jpg" group-title="Fancode-Golf", Day 1 - Featured Groups vs Black Desert Resort (Bank of Utah Championship)
-https://in-mc-fdlive.fancode.com/mumbai/137315_english_hls_d88bf815f681988ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136608_5655_ALN_AAS_fc-web.jpg" group-title="Fancode-Football", Al-Najmah SC vs Al-Ahli Saudi FC (Roshn Saudi League 2025-2026)
-https://in-mc-fdlive.fancode.com/mumbai/136608_english_hls_13e8366c3970864ta-di_h264/index.m3u8
-
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5527,12 +5515,6 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1761293975~acl=/*~id=51544710966152460129283582411624~hmac=f30790f32dbe1749736ba8c94d5e548e2392ca01012cc27093ae800425fb01f1
 # --- Sonyliv Events Playlist ---
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010037/1760008046385836_UEL2526_MD3_Nottm_Forest_vs_Porto_9oct_landscape_thumb.jpg" group-title="sonyliv-Football", Nott'm Forest vs Porto - MD 3 - 24 Oct 2025 [ENG] - UEFA Europa League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761293975~acl=/*~id=51544710966152460129283582411624~hmac=f30790f32dbe1749736ba8c94d5e548e2392ca01012cc27093ae800425fb01f1
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010022/1759992598173918_UEL2526_MD3_Roma_vs_viktoria_Plzen_9oct_landscape_thumb.jpg" group-title="sonyliv-Football", Roma vs Viktoria Plzen - MD 3 - 24 Oct 2025 [ENG] - UEFA Europa League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761293975~acl=/*~id=51544710966152460129283582411624~hmac=f30790f32dbe1749736ba8c94d5e548e2392ca01012cc27093ae800425fb01f1
-
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
