@@ -5247,6 +5247,9 @@ https://in-mc-fdlive.fancode.com/mumbai/137511_english_hls_0e172242f751680ta-di_
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137722_5728_NTR_SK_fc-web.jpg" group-title="Fancode-Cricket", Stellenbosch Kings vs Northern Raiders (Boland T10, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/137722_english_hls_bdacef495574281ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136609_5655_ITT_AHS_fc-web.jpg" group-title="Fancode-Football", Al-Ittihad vs Al Hilal SFC (Roshn Saudi League 2025-2026)
+https://in-mc-fdlive.fancode.com/mumbai/136609_english_hls_ab1456905c17101ta-di_h264/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bank-of-Utah-Championship_old.jpg" group-title="Fancode-Golf", Day 2 - Featured Groups vs Black Desert Resort (Bank of Utah Championship)
 https://in-mc-fdlive.fancode.com/mumbai/137318_english_hls_1778e4abcc97607ta-di_h264/index.m3u8
 
@@ -5524,6 +5527,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1761360446~acl=/*~id=48611700218136594584287587870639~hmac=527bf9b99caf5090ab14f87f94f22f31f43ef98e4f163e0efc444343165968aa
 # --- Sonyliv Events Playlist ---
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009886/1759591041448218_bliga2526_MD8_Werder_Bremen_vs_Union_Berlin_3oct_landscape_thumb.jpg" group-title="sonyliv-Football", Werder Bremen vs Union Berlin - MD 8 - 24 Oct 2025 [ENG] - Bundesliga 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761371415~acl=/*~id=64754583814672068567146229231082~hmac=576fdf62ab6f3ec8f704569b0e04f7f00756f9b77ede129d4f20f5971909f213
+
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
