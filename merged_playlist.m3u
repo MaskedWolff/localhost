@@ -5524,6 +5524,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1761309001~acl=/*~id=80840930797520714819433344771147~hmac=901828220d744a11448ca207c13816fe356f93c3282aadfd645b0c582d3717ff
 # --- Sonyliv Events Playlist ---
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009914/1759722875213903_AsianTour25_International_Series_Philippines_Day2_5oct_landscape_thumb.jpg" group-title="sonyliv-Golf", International Series Philippines - Day 2 - 24 Oct 2025 [ENG] - Asian Tour 2025
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761323820~acl=/*~id=50552035738625527649527756444147~hmac=027887cb0ad56e5626381fb08d8ea82c94c8054a58d8455054b60477ab4ae355
+
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
