@@ -5515,6 +5515,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1761339091~acl=/*~id=76250077795117244974085063736835~hmac=af53ae9f63c5879d5d6f50573842800f31982f629d8f580ba798224f77ed2df8
 # --- Sonyliv Events Playlist ---
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009910/1759715983570161_UECL2526_MD2_Rijeka_vs_Sparta_Prague_5oct_landscape_thumb.jpg" group-title="sonyliv-Football", Rijeka vs Sparta Prague - MD 2 - 24 Oct 2025 [ENG] - UEFA Conference League 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761356178~acl=/*~id=74110441481851292342934462981692~hmac=df926b655d6ee649d8eab8d6e0261b6f8aaea503aed2a36b08b9c1c560c7f71e
+
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
