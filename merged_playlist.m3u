@@ -5241,14 +5241,14 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-New-Zealand-2025_Old_match-card-(1).jpg" group-title="Fancode-Cricket", England vs New Zealand (England tour of New Zealand, 2025)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-EVSN/master.m3u8?hdnea=exp=1761483003~acl=/*~id=28264035651505171905319149685918~hmac=fadfd3e5aaaa2f4d2a99a741dfa73cd1aecf0c38f6aff26c8eda8f0ad29c7443
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malaysia_Moto-GP_old_Match-card_1761019721479.jpg" group-title="Fancode-MotoGP", Race Day vs Petronas Sepang International Circuit (PETRONAS GRAND PRIX OF MALAYSIA)
 https://in-mc-fdlive.fancode.com/mumbai/119265_english_hls_c4590052be10569ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/01_Nepal-vs-USA_1761462417407.jpg" group-title="Fancode-Cricket", USA vs Nepal (ICC CWC League 2, 2023-27)
 https://in-mc-fdlive.fancode.com/mumbai/137251_english_hls_2163dd33b687941ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-New-Zealand-2025_Old_match-card-(1).jpg" group-title="Fancode-Cricket", England vs New Zealand (England tour of New Zealand, 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-EVSN/master.m3u8?hdnea=exp=1761483003~acl=/*~id=28264035651505171905319149685918~hmac=fadfd3e5aaaa2f4d2a99a741dfa73cd1aecf0c38f6aff26c8eda8f0ad29c7443
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137859_5740_JAL_GUR_FC-Web.jpg" group-title="Fancode-Cricket", Jammu Lions vs Gulmarg Royal (Indian Heaven Premier League, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/137859_english_hls_611472c7025478ta-di_h264/index.m3u8
@@ -5531,10 +5531,10 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010526/1761362551346543_NZvsENG25_1ODI_24oct_Landscape_thumb_Live.jpg" group-title="sonyliv-Cricket", 1st ODI - 26 Oct 2025 [ENG] - England Tour of New Zealand 2025
-https://liveakmt-p.slivcdn.com/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761507731~acl=/*~id=31365344293251450900336753595835~hmac=c5f0a3a678db89d26d784eaea3cb9cab4b93fb8a5fc1d9e8d07dee0ab50c27f6
+https://liveakmt-p.slivcdn.com/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761508346~acl=/*~id=69265101438440389530984953070015~hmac=5926d6742725c50ec728f1247e3a39a563bebbae03efef11490a08c9ffa3443b
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009914/1759722860468903_AsianTour25_International_Series_Philippines_Day4_5oct_landscape_thumb.jpg" group-title="sonyliv-Golf", International Series Philippines - Day 4 - 26 Oct 2025 [ENG] - Asian Tour 2025
-https://liveakmt-p.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761507731~acl=/*~id=31365344293251450900336753595835~hmac=c5f0a3a678db89d26d784eaea3cb9cab4b93fb8a5fc1d9e8d07dee0ab50c27f6
+https://liveakmt-p.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761508346~acl=/*~id=69265101438440389530984953070015~hmac=5926d6742725c50ec728f1247e3a39a563bebbae03efef11490a08c9ffa3443b
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
