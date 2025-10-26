@@ -5241,14 +5241,14 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-GRAN-PREMIO-DE-LA-CIUDAD-DE-MEXICO-2025_Sporty_Match_card_1760706258308.png" group-title="Fancode-Formula 1", Race vs Mexico (F1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2025)
+https://d2nwrp55u0b6t5.cloudfront.net/out/v1/96ad667151f74336b8188cc435cfb2d4/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130926_5427_OSN_CEV_fc-Web.jpg" group-title="Fancode-Football", CA Osasuna vs RC Celta (LALIGA 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/130926_english_hls_a5c3b5759476625adfreeta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/137613_CASACARDS_APP.png" group-title="Fancode-Football", Sporting de Gijón vs Real Zaragoza (LALIGA Hypermotion 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/137613_english_hls_373c41c4e593199ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130925_5427_RM_BAR_fc-Web_1760681342618.jpg" group-title="Fancode-Football", Real Madrid vs FC Barcelona (LALIGA 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/130925_english_hls_7a3c7317e146521adfreeta-di_h264/index.m3u8
 
 # --- Willow Playlist ---
 #EXTM3U
@@ -5525,7 +5525,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009886/1759598563948218_bliga2526_MD8_Stuttgart_Vs_Mainz_3oct_landscape_thumb.jpg" group-title="sonyliv-Football", VfB Stuttgart vs Mainz - 26 Oct 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761543764~acl=/*~id=49644487817968464696033034982818~hmac=52353c869ee654d9385f930b059b943f978a05198ee4c92b18c4f2a8baaa2604
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761544982~acl=/*~id=75589826862105475728341844352327~hmac=d73721bcfead7c8e4309bcd85ffbe5ac503516832f790d8362a23118043ea7e4
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
