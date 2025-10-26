@@ -5253,11 +5253,14 @@ https://in-mc-fdlive.fancode.com/mumbai/134008_english_hls_326cd760e113841ta-di_
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134007_5608_ST-W_AS-W_FC-Web.jpg" group-title="Fancode-Cricket", Adelaide Strikers Women vs Sydney Thunder Women (T20 Spring Challenge, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/134007_english_hls_c3ed7dfd402420ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Genesis-Championsip_Old_match-card.jpg" group-title="Fancode-Golf", Day 4 vs Jack Nicklaus Golf Club (Genesis Championship)
-https://in-mc-fdlive.fancode.com/mumbai/136870_english_hls_9ebef1a41458483ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137859_5740_JAL_GUR_FC-Web.jpg" group-title="Fancode-Cricket", Jammu Lions vs Gulmarg Royal (Indian Heaven Premier League, 2025)
+https://in-mc-fdlive.fancode.com/mumbai/137859_english_hls_611472c7025478ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/137013_CASACARDS_APP.png" group-title="Fancode-Football", Albirex Niigata vs Vissel Kobe (J League 2025)
 https://in-mc-fdlive.fancode.com/mumbai/137013_english_hls_df1ab27f0e38110ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Genesis-Championsip_Old_match-card.jpg" group-title="Fancode-Golf", Day 4 vs Jack Nicklaus Golf Club (Genesis Championship)
+https://in-mc-fdlive.fancode.com/mumbai/136870_english_hls_9ebef1a41458483ta-di_h264/index.m3u8
 
 # --- Willow Playlist ---
 #EXTM3U
@@ -5534,10 +5537,10 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010526/1761362551346543_NZvsENG25_1ODI_24oct_Landscape_thumb_Live.jpg" group-title="sonyliv-Cricket", 1st ODI - 26 Oct 2025 [ENG] - England Tour of New Zealand 2025
-https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761497239~acl=/*~id=42381104029791369460598521697751~hmac=beabcb8ff30877bd7bc7bb95764b6a04d3d93518008d75cfc1a227d931e8b63b
+https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761498459~acl=/*~id=73343204563135211582138495066551~hmac=4313123cea67064276f4a484b8e990c999f1f3ab132ccfc2024aca9fae71275d
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009914/1759722860468903_AsianTour25_International_Series_Philippines_Day4_5oct_landscape_thumb.jpg" group-title="sonyliv-Golf", International Series Philippines - Day 4 - 26 Oct 2025 [ENG] - Asian Tour 2025
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761497239~acl=/*~id=42381104029791369460598521697751~hmac=beabcb8ff30877bd7bc7bb95764b6a04d3d93518008d75cfc1a227d931e8b63b
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761498459~acl=/*~id=73343204563135211582138495066551~hmac=4313123cea67064276f4a484b8e990c999f1f3ab132ccfc2024aca9fae71275d
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
