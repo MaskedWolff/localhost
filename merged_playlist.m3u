@@ -5522,7 +5522,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010566/1761551529735169_ATP_Rolex_Paris25_round1_27oct_landscape_thumb.jpg" group-title="sonyliv-Tennis", Round 1 - 27 Oct 2025 [ENG] - ATP Masters 1000 - 2025 Rolex Paris Open
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761618170~acl=/*~id=32216476660986248568391933720157~hmac=066bf180248ce52556e0de391f7c0f0a7077ed83b8be8605e069b1efdc2dd410
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761619396~acl=/*~id=82471744613191017499140836874213~hmac=43bb6d276bab85252a15aba7f1124141302c8c56ef6f8bd69e5d89e83685b41a
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
