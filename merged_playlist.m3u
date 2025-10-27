@@ -5244,9 +5244,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-West-Indies-T20I_old-(1).jpg" group-title="Fancode-Cricket", West Indies vs Bangladesh (West Indies tour of Bangladesh, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/137703_english_hls_522cde4f9877496ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137862_5740_TPT_PTW_FC-Web.jpg" group-title="Fancode-Cricket", The Pulwama Titans vs Patnitop Warriors (Indian Heaven Premier League, 2025)
-https://in-mc-fdlive.fancode.com/mumbai/137862_english_hls_181a838eb387125ta-di_h264/index.m3u8
-
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5522,7 +5519,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010566/1761551529735169_ATP_Rolex_Paris25_round1_27oct_landscape_thumb.jpg" group-title="sonyliv-Tennis", Round 1 - 27 Oct 2025 [ENG] - ATP Masters 1000 - 2025 Rolex Paris Open
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761619396~acl=/*~id=82471744613191017499140836874213~hmac=43bb6d276bab85252a15aba7f1124141302c8c56ef6f8bd69e5d89e83685b41a
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761620619~acl=/*~id=43874837275535982708803235164785~hmac=06637b961be4c7edfeed19a1c91500260f8dc7fdda6b1ad664169d0a8e6280b5
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
