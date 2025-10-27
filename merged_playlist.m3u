@@ -5241,6 +5241,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/137732_CASACARDS_APP.png" group-title="Fancode-Cricket", Stellenbosch Kings vs Paarl Rapids (Boland T10, 2025)
+https://in-mc-fdlive.fancode.com/mumbai/137732_english_hls_06cf3b376d53355ta-di_h264/index.m3u8
+
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5516,7 +5519,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010566/1761551529735169_ATP_Rolex_Paris25_round1_27oct_landscape_thumb.jpg" group-title="sonyliv-Tennis", Round 1 - 27 Oct 2025 [ENG] - ATP Masters 1000 - 2025 Rolex Paris Open
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761629793~acl=/*~id=66077489893783838495805972489959~hmac=900305adeb9227b9bea1745768c088b44859751051b9760e794a03cee2c0a2d6
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761630402~acl=/*~id=02320597650239434631922559091247~hmac=d39f505bb16172d991ab0a71fad96f1b1d0476654b55f33a419aa52a889c8116
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
