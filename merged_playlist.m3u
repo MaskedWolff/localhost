@@ -5241,9 +5241,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137864_5740_LHH_TPT_FC-Web.jpg" group-title="Fancode-Cricket", Ladakh Heros vs The Pulwama Titans (Indian Heaven Premier League, 2025)
-https://in-mc-fdlive.fancode.com/mumbai/137864_english_hls_43300bcdf841827ta-di_h264/index.m3u8
-
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5519,7 +5516,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010566/1761551536332169_ATP_Rolex_Paris25_round2_27oct_landscape_thumb.jpg" group-title="sonyliv-Tennis", Round 2 - 28 Oct 2025 [ENG] - ATP Masters 1000 - 2025 Rolex Paris Open
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761704271~acl=/*~id=65230664054650363388608260328831~hmac=102f20346222c53ad600f0d5f3162e95ee0b8376f1d6cbb8c3482c19db4e97fd
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761705495~acl=/*~id=81771961857568457923775105093381~hmac=85a0f79bb823b95cb45eb73f794b930db39cf41e7f77ac4acadc09fc5e026680
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
