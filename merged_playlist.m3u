@@ -5241,6 +5241,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Nassr-vs-Al-Ittihad_old_1761382261639.jpg" group-title="Fancode-Football", Al-Nassr FC vs Al-Ittihad (Saudi Kings Cup 2025-2026)
+https://in-mc-fdlive.fancode.com/mumbai/137857_english_hls_18ecf2b39616859_1ta-di_h264/index.m3u8
+
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5516,7 +5519,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010566/1761551536332169_ATP_Rolex_Paris25_round2_27oct_landscape_thumb.jpg" group-title="sonyliv-Tennis", Round 2 - 28 Oct 2025 [ENG] - ATP Masters 1000 - 2025 Rolex Paris Open
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761716499~acl=/*~id=79672512280024162992842421872447~hmac=325a2b86e7a7d90ec02b76beba7a08a3a3bf60944cec5e0675dc11053470cb32
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761717113~acl=/*~id=95973749226441244886535860649452~hmac=771f307a9b93eebc372b2b5904572eb85583ff06620164bf9ff8a329e3ffc6da
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
