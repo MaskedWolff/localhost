@@ -5241,9 +5241,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137357_5488_NEW_TOT_fc-Web.jpg" group-title="Fancode-Football", Newcastle United vs Tottenham Hotspur (Carabao Cup 2025-2026)
-https://in-mc-fdlive.fancode.com/mumbai/137357_english_hls_226a8fc2d631364_1ta-di_h264/index.m3u8
-
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5518,9 +5515,6 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1761818375~acl=/*~id=71767393478932029564579963782748~hmac=fb108b671866a7666ba18231794373df5fc686bb50ac1da3d0ad992d078a5fd3
 # --- Sonyliv Events Playlist ---
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010566/1761551536332169_ATP_Rolex_Paris25_round2_27oct_landscape_thumb.jpg" group-title="sonyliv-Tennis", Round 2 - 29 Oct 2025 [ENG] - ATP Masters 1000 - 2025 Rolex Paris Open
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761818988~acl=/*~id=57354923227315497204474335804999~hmac=ece8d090dd3ee989f9d0d1487a45179dc8ffaa35cde1d4ad530acbe7975d66a7
-
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
