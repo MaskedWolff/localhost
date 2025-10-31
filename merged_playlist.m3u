@@ -5515,8 +5515,8 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1761972793~acl=/*~id=66475857893503138511167204606143~hmac=78737f8d06fb11173f912e4737ec873b53492326aef1686cbbaf2fbf36d6ef22
 # --- Sonyliv Events Playlist ---
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010687/1761906542456440_ATP_rolex25_QF_Bublik_vs_De_Minaur_31oct_landscape_thumb.jpg" group-title="sonyliv-Tennis", Bublik vs De Minaur - QF - 31 Oct 2025 [ENG] - ATP Rolex Paris Masters 2025
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761974011~acl=/*~id=09363523636543074995825107332475~hmac=2554a2aeacd823a093c00e32237f81d027e56aa8880af07e6a3e0f1b000bd36e
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010687/1761907169501440_ATP_rolex25_QF_shelton_vs_sinner_31oct_landscape_thumb.jpg" group-title="sonyliv-Tennis", Shelton vs Sinner - QF - 31 Oct 2025 [ENG] - ATP Rolex Paris Masters 2025
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761975230~acl=/*~id=28119783194606414870713168822004~hmac=cdf0081758a96d90a5c5799b6ac7cf9eb001517a553e8187554f0a06c2ba7d20
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
