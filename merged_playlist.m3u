@@ -5247,9 +5247,6 @@ https://in-mc-fdlive.fancode.com/mumbai/130935_english_hls_e3d252ecd073700_1adfr
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Nassr-FC-vs-Al-Fayha-FC_old.jpg" group-title="Fancode-Football", Al-Nassr FC vs Al-Fayha FC (Roshn Saudi League 2025-2026)
 https://in-mc-fdlive.fancode.com/mumbai/137891_english_hls_4f39f08a7161436_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130930_5427_ATL_SEV_Web_1761549505031.jpg" group-title="Fancode-Football", Atletico de Madrid vs Sevilla FC (LALIGA 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/130930_english_hls_a351f5131964010_1adfreeta-di_h264/index.m3u8
-
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5525,10 +5522,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010660/1761821530697395_bliga2526_MD9_Bayern-Munich-vs-Bayer-Leverkusen_30oct_landscape_thumb.jpg" group-title="sonyliv-Football", Bayern Munich vs Bayer Leverkusen - MD 9 - 1 Nov 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762061156~acl=/*~id=05287615958384860150881167067848~hmac=f84251727e1565189b43febc62d70fe51428bde53f80e3df97b018f501037c40
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010736/1761986431712451_ATP_rolex25_SF_zverev_vs_sinner_1nov_landscape_thumb.jpg" group-title="sonyliv-Tennis", Zverev vs Sinner - Semi-Final - 1 Nov 2025 [ENG] - ATP Rolex Paris Masters 2025
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762061156~acl=/*~id=05287615958384860150881167067848~hmac=f84251727e1565189b43febc62d70fe51428bde53f80e3df97b018f501037c40
+https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762061764~acl=/*~id=57013300485814686762190005773729~hmac=caf3f11f42b6db7caf1dc69f9d70540845040cd706143fc7ec993eaca4969588
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
