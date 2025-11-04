@@ -5241,9 +5241,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136959_5489_CVC_SHF_fc-web.jpg" group-title="Fancode-Football", Coventry City Football Club vs Sheffield United F.C. (EFL Championship 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/136959_english_hls_1842a0557f30494_1ta-di_h264/index.m3u8
-
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5518,18 +5515,6 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1762336337~acl=/*~id=65463644316916681121719204600971~hmac=1fcf2708af11f177d890a8132e81d61f2ec8f59a2e95cedad1a2831ac08ec920
 # --- Sonyliv Events Playlist ---
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761895868220275_UCL25_MD4_Liverpool_vs_Real_Madrid_31oct_landscape_thumb.jpg" group-title="sonyliv-Football", Liverpool vs Real Madrid - MD 4 - 5 Nov 2025 [ENG] - UEFA Champions League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762338167~acl=/*~id=86853650797012074117874125677113~hmac=2bb0870a23ced7511eb60e79dc5ca2d61f4cfe3fd63c6e1e960ae8df3c44f3bd
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761895868220275_UCL25_MD4_Liverpool_vs_Real_Madrid_31oct_landscape_thumb.jpg" group-title="sonyliv-Football", Liverpool vs Real Madrid - MD 4 - 5 Nov 2025 [HIN] - UEFA Champions League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762338167~acl=/*~id=86853650797012074117874125677113~hmac=2bb0870a23ced7511eb60e79dc5ca2d61f4cfe3fd63c6e1e960ae8df3c44f3bd
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761895868220275_UCL25_MD4_Liverpool_vs_Real_Madrid_31oct_landscape_thumb.jpg" group-title="sonyliv-Football", Liverpool vs Real Madrid - MD 4 - 5 Nov 2025 [TAM] - UEFA Champions League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762338167~acl=/*~id=86853650797012074117874125677113~hmac=2bb0870a23ced7511eb60e79dc5ca2d61f4cfe3fd63c6e1e960ae8df3c44f3bd
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761895868220275_UCL25_MD4_Liverpool_vs_Real_Madrid_31oct_landscape_thumb.jpg" group-title="sonyliv-Football", Liverpool vs Real Madrid - MD 4 - 5 Nov 2025 [TEL] - UEFA Champions League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762338167~acl=/*~id=86853650797012074117874125677113~hmac=2bb0870a23ced7511eb60e79dc5ca2d61f4cfe3fd63c6e1e960ae8df3c44f3bd
-
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
