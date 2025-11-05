@@ -5247,6 +5247,12 @@ https://in-mc-fdlive.fancode.com/mumbai/136109_english_hls_f1654cac848832_1ta-di
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136097_5648_AWL_ALM_fc-Web_1758118383379.jpg" group-title="Fancode-Football", Al Wasl vs Al Muharraq (AFC Champions League Two 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/136097_english_hls_b409d9844659492_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136133_5648_ALZ_ISK_fc-Web_1758118383957.jpg" group-title="Fancode-Football", AL Zawraa SC vs FK Istiklol (AFC Champions League Two 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/136133_english_hls_b8663011fb72743_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136110_5648_KHA_ABD_fc-Web_1758118382795.jpg" group-title="Fancode-Football", Khaldiya vs Andijan (AFC Champions League Two 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/136110_english_hls_02d411884338422_1ta-di_h264/index.m3u8
+
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5522,7 +5528,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010856/176229113741485_UYL25_MD4_Newcastle_vs_Athleti-Club_landscape_thumb_re1.jpg" group-title="sonyliv-Football", Newcastle vs Athletic Club - MD 4 - 5 Nov 2025 [ENG] - UEFA Youth League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762400761~acl=/*~id=33098112731650451546191912943529~hmac=8db0fc5d4d172f1ab75801a6ead8169d06f167f29a721bfe060ccc0d5de21b70
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762401370~acl=/*~id=24741573887040131379295435986948~hmac=5684982453c461d1df57a120b7fe75a497a0252df9c870280ac76193bd749a50
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
