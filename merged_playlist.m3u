@@ -5256,9 +5256,6 @@ https://in-mc-fdlive.fancode.com/mumbai/136109_english_hls_f1654cac848832_1ta-di
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136097_5648_AWL_ALM_fc-Web_1758118383379.jpg" group-title="Fancode-Football", Al Wasl vs Al Muharraq (AFC Champions League Two 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/136097_english_hls_b409d9844659492_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/03_UAE-vs-Nepal.jpg" group-title="Fancode-Cricket", Nepal vs United Arab Emirates (ICC CWC League 2, 2023-27)
-https://in-mc-fdlive.fancode.com/mumbai/137256_english_hls_f2ec14d7055321_1ta-di_h264/index.m3u8
-
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5534,7 +5531,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010673/1761882111470917_UYL25_MD4_Ajax_vs_Galatasaray_landscape_thumb.jpg" group-title="sonyliv-Football", Ajax vs Galatasaray - MD 4 - 5 Nov 2025 [ENG] - UEFA Youth League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762393456~acl=/*~id=06662307893248802697490260822394~hmac=01f77acd6521865e4b4e9dad92c981f4f13df46492d0e836ad76c7606b95e9bb
+https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762394674~acl=/*~id=89900694910500200553978755907842~hmac=90490c2dc177ca52963d48161a4f58e476f4558de1886035345f4000e68deac3
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
