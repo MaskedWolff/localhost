@@ -5247,6 +5247,9 @@ https://in-mc-fdlive.fancode.com/mumbai/137256_english_hls_f2ec14d7055321_1ta-di
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg" group-title="Fancode-Cricket", West Indies vs New Zealand (West Indies tour of New Zealand, 2025)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1762365628~acl=/*~id=10075103491291143433139793258547~hmac=55e0ff4f163c84f74dc713f468d2084564cf4373ea6f77a63ecf284a4f011c75
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136017_5647_VIS_ULS_fc-Web.jpg" group-title="Fancode-Football", Vissel Kobe vs Ulsan HD (AFC Champions League Elite 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/136017_english_hls_662760551318034_1ta-di_h264/index.m3u8
+
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5522,7 +5525,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010812/1762231007524425_NZvsWI25_1t20i_4nov_landscape_thumb.jpg" group-title="sonyliv-Cricket", 1st T20I - 5 Nov 2025 [ENG] - West Indies Tour of New Zealand 2025
-https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762378869~acl=/*~id=76427256835378590465077611539481~hmac=a140eb8c516d9497a618c339d64aad475e881b4d55349f811b79b32560f1a19b
+https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762379476~acl=/*~id=10746718503075106997161191507775~hmac=604c95d6532b7441e7171084cd73405eaf35a2f662b3c54be150ce2041174d55
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
