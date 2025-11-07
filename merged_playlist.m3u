@@ -5241,14 +5241,14 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Brazil_GP_F1_Old_match-card.jpg" group-title="Fancode-Formula 1", Sprint Qualifying vs Brazil (F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025)
+https://dkslnbbux04ky.cloudfront.net/out/v1/5a817f337b234ff09487dbd20711bcd2/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Najmah-SC-vs-Al-Hilal-SFC_old.jpg" group-title="Fancode-Football", Al-Najmah SC vs Al Hilal SFC (Roshn Saudi League 2025-2026)
 https://in-mc-fdlive.fancode.com/mumbai/137892_english_hls_a7d45bf7b043742_1ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/E1-E1-Miami-GP--old-match-card_1761731303279.png" group-title="Fancode-Motorsports", Session 1 - Qualifying Time Trials vs Miami (E1 Miami GP)
 https://in-mc-fdlive.fancode.com/mumbai/137968_english_hls_6535ee454728585_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Brazil_GP_F1_Old_match-card.jpg" group-title="Fancode-Formula 1", Sprint Qualifying vs Brazil (F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025)
-https://dkslnbbux04ky.cloudfront.net/out/v1/5a817f337b234ff09487dbd20711bcd2/index.m3u8
 
 # --- Willow Playlist ---
 #EXTM3U
@@ -5524,6 +5524,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1762561804~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=20bcc571339bdc5551870bbfa6924ef5c37acc41290d2e9f5f1e69bb9e07adc7
 # --- Sonyliv Events Playlist ---
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010708/1761910205520297_bliga2526_MD10_Werder-Bremen-vs-VfL-Wolfsburg-_31oct__landscape_thumb.jpg" group-title="sonyliv-Football", Werder Bremen vs VfL Wolfsburg - MD 10 - 8 Nov 2025 [ENG] - Bundesliga 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762585159~acl=/*~id=76967174769718869688534414172451~hmac=f01d0db0d16319f57b794a607e2a21ac03df4c06ca9e42e1623911e13f0d38b5
+
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
