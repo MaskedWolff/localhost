@@ -5527,9 +5527,6 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1762591871~acl=/*~id=13398949852780773577831775084046~hmac=3ccb527d0249c28f57ecc1a50bec30c51cebfd71205274ee05332774ff34c513
 # --- Sonyliv Events Playlist ---
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010708/1761910205520297_bliga2526_MD10_Werder-Bremen-vs-VfL-Wolfsburg-_31oct__landscape_thumb.jpg" group-title="sonyliv-Football", Werder Bremen vs VfL Wolfsburg - MD 10 - 8 Nov 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762594306~acl=/*~id=58775947890503644308020094417743~hmac=83f52ec87bef8d6f8485dd37f800568bfb6751ae4ce12ef313b3ff8dab09b7f4
-
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
