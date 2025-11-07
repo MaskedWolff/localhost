@@ -5244,11 +5244,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Portugal_MOTOGP_2025_Old_match-card.jpg" group-title="Fancode-MotoGP", Day 1 vs Autódromo Internacional do Algarve (QATAR AIRWAYS GRAND PRIX OF PORTUGAL)
 https://in-mc-fdlive.fancode.com/mumbai/119277_english_hls_4f07ec7dfa62887_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137834_5738_ENG_AUS_fc-web.png" group-title="Fancode-Cricket", England vs Australia (Hong Kong Sixes, 2025)
-https://in-mc-fdlive.fancode.com/mumbai/137834_english_hls_e9c8080ec223319_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png" group-title="Fancode-Golf", Day 2 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)
 https://in-mc-fdlive.fancode.com/mumbai/137164_english_hls_21dabe9c8f77195_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137834_5738_ENG_AUS_fc-web.png" group-title="Fancode-Cricket", Australia vs England (Hong Kong Sixes, 2025)
+https://in-mc-fdlive.fancode.com/mumbai/137834_english_hls_e9c8080ec223319_1ta-di_h264/index.m3u8
 
 # --- Willow Playlist ---
 #EXTM3U
@@ -5525,7 +5525,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010656/1761824509721210_Asian_tour_Moutai_Singapore_Open_day2_30oct_landscape_thumb.jpg" group-title="sonyliv-Golf", Moutai Singapore Open - Day 2 - 7 Nov 2025 [ENG] - Asian Tour 2025
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762549889~acl=/*~id=28307584709521347846250835309115~hmac=0447a3989ade4401148ce8968a57ec7f373bf21cb25bbd2863f848056f0ea0a1
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762551108~acl=/*~id=92477918681537235712920682928008~hmac=f7bc4ad2c44cfaf7e157f22e373458f3e8f62a70d0c55b2ec0cd70cc93dc72bf
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
