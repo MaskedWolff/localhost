@@ -5244,8 +5244,14 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130943_5427_ESL_VIL_fc-Web.jpg" group-title="Fancode-Football", RCD Espanyol vs Villarreal CF (LALIGA 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/130943_english_hls_d755111e1633040_1adfreeta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg" group-title="Fancode-Football", Málaga vs Córdoba (LALIGA Hypermotion 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/137823_english_hls_a4b4c8f55285258_1ta-di_h264/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Brazil_GP_F1_Old_match-card.jpg" group-title="Fancode-Formula 1", Qualifying vs Brazil (F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025)
 https://d1z1thvu79ue7u.cloudfront.net/out/v1/f097762816b0405aba702614f5f85127/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png" group-title="Fancode-Golf", Day 3 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)
+https://in-mc-fdlive.fancode.com/mumbai/137975_english_hls_04dea496a85951_1ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130941_5427_ATL_LE_fc-Web.jpg" group-title="Fancode-Football", Atletico de Madrid vs Levante (LALIGA 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/130941_english_hls_84a1ac288558824_1adfreeta-di_h264/index.m3u8
@@ -5524,9 +5530,6 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1762673343~acl=/*~id=56584333526977778630819605278501~hmac=4dce468f3421c8bc6d22da1df92679232a9206477371d0f12978edc50f6ca935
 # --- Sonyliv Events Playlist ---
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010731/1761981223980751_bliga2526_MD10_Borussia-Mgladbach-vs-FC-Koln_1nov_landscape_thumb.jpg" group-title="sonyliv-Football", Borussia M'gladbach vs FC Koln - MD 10 - 8 Nov 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762673952~acl=/*~id=69843769422113661737897012355954~hmac=6cc1a4bed2c342a85a186f1efbe786b277db80b2ab6dd9c2e66b2b8b2e106ec5
-
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
