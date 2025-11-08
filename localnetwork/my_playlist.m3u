@@ -195,7 +195,8 @@ http://192.168.1.3:5350/live/656.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.1.3:5350/jtvimage/ETV_Urdu.png" group-title="NEWS HINDI", News18 JKLH
 http://192.168.1.3:5350/live/694.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.1.3:5350/jtvimage/DD_Kashir.png" group-title="ENTERAINMENT", DD Kashir
-http://192.168.1.3:5350/live/716.m3u8
+https://cdn-6.pishow.tv/live/16/master.m3u8
+#http://192.168.1.3:5350/live/716.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.1.3:5350/jtvimage/Zee_Salaam.png" group-title="NEWS HINDI", Zee Salaam
 http://192.168.1.3:5350/live/728.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.1.3:5350/jtvimage/Gulistan_News.png" group-title="NEWS HINDI", Gulistan News
