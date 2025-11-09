@@ -5241,10 +5241,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/05_Australia-vs-Pakistan-(1).png" group-title="Fancode-Cricket", Pakistan vs Australia (Hong Kong Sixes, 2025)
-https://in-mc-fdlive.fancode.com/mumbai/137849_english_hls_b5c91f78e798348_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/06_England-vs-Kuwait-(1).png" group-title="Fancode-Cricket", England vs Kuwait (Hong Kong Sixes, 2025)
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/06_England-vs-Kuwait-(1).png" group-title="Fancode-Cricket", Kuwait vs England (Hong Kong Sixes, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/137850_english_hls_1a0db4cd6579918_1ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138016_5753_TLS_MYN_FC-Web.jpg" group-title="Fancode-Cricket", Timor-Leste vs Myanmar (Rising East Asia Tri-Series, 2025)
@@ -5528,7 +5525,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010656/1761824493004210_Asian_tour_Moutai_Singapore_Open_day4_30oct_landscape_thumb.jpg" group-title="sonyliv-Golf", Moutai Singapore Open - Day 4 - 9 Nov 2025 [ENG] - Asian Tour 2025
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762706813~acl=/*~id=38179353941285087936572718539277~hmac=12e3fad9d7817abaae437f52581d70c0470221f199cb8cb6bdb31143a8c13bcf
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762708029~acl=/*~id=69237183810229994709795216577181~hmac=e4798eddfa62e699571fc71ee118da16afa11e69e04f3e6e77b5d178ee392f08
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
