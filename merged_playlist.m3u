@@ -5244,6 +5244,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-Sixes-old-match-card_V2.jpg" group-title="Fancode-Cricket", Sri Lanka vs United Arab Emirates (Hong Kong Sixes, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/137851_english_hls_c0533a6d5c81966_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-Hong-Kong-China_Old.png" group-title="Fancode-Cricket", Bangladesh vs Hong Kong, China (Hong Kong Sixes, 2025)
+https://in-mc-fdlive.fancode.com/mumbai/137852_english_hls_1467bb374653945_1ta-di_h264/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138016_5753_TLS_MYN_FC-Web.jpg" group-title="Fancode-Cricket", Timor-Leste vs Myanmar (Rising East Asia Tri-Series, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138016_english_hls_662895dd1731538_1ta-di_h264/index.m3u8
 
@@ -5252,6 +5255,9 @@ https://in-mc-fdlive.fancode.com/mumbai/137942_english_hls_6591f7195481228_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137943_4795_OSK_VIS_fc-web.jpg" group-title="Fancode-Football", Gamba Osaka vs Vissel Kobe (J League 2025)
 https://in-mc-fdlive.fancode.com/mumbai/137943_english_hls_fc46bf8fd03460_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png" group-title="Fancode-Golf", Day 4 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)
+https://in-mc-fdlive.fancode.com/mumbai/137166_english_hls_5b54d9bbc484916_1ta-di_h264/index.m3u8
 
 # --- Willow Playlist ---
 #EXTM3U
@@ -5528,7 +5534,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010656/1761824493004210_Asian_tour_Moutai_Singapore_Open_day4_30oct_landscape_thumb.jpg" group-title="sonyliv-Golf", Moutai Singapore Open - Day 4 - 9 Nov 2025 [ENG] - Asian Tour 2025
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762711683~acl=/*~id=50649435573672057711009267693104~hmac=5f9ed639830dae5643559670957cf847b4920e3816037618e2edc7458ab9f84a
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762713514~acl=/*~id=13203318912494109022631464035526~hmac=cd54c11203428154e5ccd8402bed43d3df2f615668f09f886722555a7b0c34b6
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
