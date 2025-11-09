@@ -5241,8 +5241,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png" group-title="Fancode-Golf", Day 4 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)
-https://in-mc-fdlive.fancode.com/mumbai/137976_english_hls_6f10899ffa17364_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134024_5609_TAS_SAU_fc-Web.jpg" group-title="Fancode-Cricket", Tasmania vs South Australia (Sheffield Shield, 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/134024_english_hls_c2ef5f6f2f57795_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134023_5609_NSW_VCT_fc-Web.jpg" group-title="Fancode-Cricket", Victoria vs New South Wales (Sheffield Shield, 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/134023_english_hls_999dad716762735_1ta-di_h264/index.m3u8
 
 # --- Willow Playlist ---
 #EXTM3U
@@ -5519,7 +5522,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010812/1762231061531425_NZvsWI25_4t20i_4nov_landscape_thumb.jpg" group-title="sonyliv-Cricket", 4th T20I - 10 Nov 2025 [ENG] - West Indies Tour of New Zealand 2025
-https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762774448~acl=/*~id=95039725293291331645909803765904~hmac=54caeda887fcf71187993e4b67a78a10c3c699244f3ca3f6d37da9b9cdc5f19a
+https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762775057~acl=/*~id=12167261704690460880483578556159~hmac=705926bf995bd5f04599b4f26584632c9d6e2ca1cc463f2a3c36f3a7d4c38a91
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
