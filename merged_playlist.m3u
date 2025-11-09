@@ -5247,6 +5247,15 @@ https://d17nkm4w57wydr.cloudfront.net/out/v1/5dfe286d42764611abb3687c4f7c544e/in
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130944_5427_RVL_RM_fc-Web.jpg" group-title="Fancode-Football", Rayo Vallecano vs Real Madrid (LALIGA 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/130944_english_hls_63ee91f7cb12045_1adfreeta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130948_5427_MRC_GEF_fc-Web.jpg" group-title="Fancode-Football", RCD Mallorca vs Getafe CF (LALIGA 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/130948_english_hls_921c05f0ed75734_1adfreeta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130947_5427_VAL_RB_fc-Web.jpg" group-title="Fancode-Football", Valencia CF vs Real Betis (LALIGA 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/130947_english_hls_20eb1d8aec21552_1adfreeta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kids_Brazil_GP_F1_Old_match-card.jpg" group-title="Fancode-Motorsports", F1 Kids vs Brazil (F1 Kids)
+https://in-mc-fdlive.fancode.com/mumbai/138023_english_hls_46f2d598f881760_1ta-di_h264/index.m3u8
+
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5522,10 +5531,10 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011021/1762614626137248_nitto_atp_finals_group-stage_landscape_thumb-3.jpg" group-title="sonyliv-Tennis", Cash/Glasspool vs Bolelli/Vavassori - Group Stage - 9 Nov 2025 [ENG] - Nitto ATP Finals 2025
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762750042~acl=/*~id=44275621158212330356528908537358~hmac=1af2fd151aad6985174bac6a9e39b0a009d5c3c50b5e6ade2dce42caec759f42
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762750652~acl=/*~id=43323424061718600329542610421923~hmac=8275488d89fe8bf9cd201104a908f01a7e5f494a1d49d9f0e05b68cbd30abdff
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010786/1762148938170745_bliga2526_MD10_VfB-Stuttgart-vs-FC-Augsburg_3nov__landscape_thumb.jpg" group-title="sonyliv-Football", VfB Stuttgart vs FC Augsburg - MD 10 - 9 Nov 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762750042~acl=/*~id=44275621158212330356528908537358~hmac=1af2fd151aad6985174bac6a9e39b0a009d5c3c50b5e6ade2dce42caec759f42
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762750652~acl=/*~id=43323424061718600329542610421923~hmac=8275488d89fe8bf9cd201104a908f01a7e5f494a1d49d9f0e05b68cbd30abdff
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
