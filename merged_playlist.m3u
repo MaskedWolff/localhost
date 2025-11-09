@@ -5241,9 +5241,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-Sixes-old-match-card_V2.jpg" group-title="Fancode-Cricket", Sri Lanka vs United Arab Emirates (Hong Kong Sixes, 2025)
-https://in-mc-fdlive.fancode.com/mumbai/137851_english_hls_c0533a6d5c81966_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-Hong-Kong-China_Old.png" group-title="Fancode-Cricket", Bangladesh vs Hong Kong, China (Hong Kong Sixes, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/137852_english_hls_1467bb374653945_1ta-di_h264/index.m3u8
 
@@ -5534,7 +5531,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010656/1761824493004210_Asian_tour_Moutai_Singapore_Open_day4_30oct_landscape_thumb.jpg" group-title="sonyliv-Golf", Moutai Singapore Open - Day 4 - 9 Nov 2025 [ENG] - Asian Tour 2025
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762714123~acl=/*~id=31006949258061052074216692934354~hmac=358e4c8f94a3be8c5778e81c0ecbd1e089fa8cecc8eef649fc0a44a12a0ecc20
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762714732~acl=/*~id=48468267283545599108896736077971~hmac=83e1bf39c284b23e616a50558e503d63e314d47ae85891a1fedc4f2d124f815a
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
