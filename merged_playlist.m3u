@@ -5515,6 +5515,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1762829844~acl=/*~id=84851354719020149707312180970319~hmac=35601724678b3540d340eaf42d9d3cec736f3598884dedc92224932bc0955688
 # --- Sonyliv Events Playlist ---
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011089/1762779609232352_nitto_atp_finals_group-stage_landscape_thumb-3.jpg" group-title="sonyliv-Tennis", Heliovaara/Patten vs Harrison/King - Group Stage - 10 Nov 2025 [ENG] - Nitto ATP Finals 2025
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762836536~acl=/*~id=99763424438809023310216046781427~hmac=6e765ba5a025603151bd46c17247688017daa425e50e71032918dfb51979a64c
+
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
