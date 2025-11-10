@@ -5515,8 +5515,8 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1762842630~acl=/*~id=74575835056479759782683111482180~hmac=36be64b27967b2fb36e4da431140ed873b0a2bc757807d0d6264fba884b17ede
 # --- Sonyliv Events Playlist ---
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011089/1762779609232352_nitto_atp_finals_group-stage_landscape_thumb-3.jpg" group-title="sonyliv-Tennis", Heliovaara/Patten vs Harrison/King - Group Stage - 10 Nov 2025 [ENG] - Nitto ATP Finals 2025
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762843847~acl=/*~id=97719729890161820837852274613901~hmac=d4cbccee0f1e482af33e3150971e6533d51c32fed4a55d93a53be47663d70428
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011090/1762773783114255_ATP_FINALS_Sinner-vs-Auger-Aliassime_landscape_thumb.jpg" group-title="sonyliv-Tennis", Sinner vs Auger-Aliassime - Group Stage - 10 Nov 2025 [ENG] - Nitto ATP Finals 2025
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762845066~acl=/*~id=63194452621373521465273830982244~hmac=a68dc3967aa13d5fc890b09183ef3f02d3bc36100027b8731357a408aefeaea7
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
