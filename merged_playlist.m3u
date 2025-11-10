@@ -5244,6 +5244,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/137821_CASACARDS_APP.png" group-title="Fancode-Football", Burgos vs Castellón (LALIGA Hypermotion 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/137821_english_hls_d20d94d3276476_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg" group-title="Fancode-Football", Cheltenham Town vs Notts County (League Two 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/137000_english_hls_f689c5773679063_1ta-di_h264/index.m3u8
+
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5519,7 +5522,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011090/1762773783114255_ATP_FINALS_Sinner-vs-Auger-Aliassime_landscape_thumb.jpg" group-title="sonyliv-Tennis", Sinner vs Auger-Aliassime - Group Stage - 10 Nov 2025 [ENG] - Nitto ATP Finals 2025
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762846895~acl=/*~id=39974951274654927965912225597535~hmac=b73dbe8c3b6aa2c8f125ddc57228daf31adb616d00a3c4f6304ca27c27899ac2
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762847502~acl=/*~id=86843652532207827227421607811373~hmac=f768c2e4a7dd6dc8d1873fe106f4ec669e6e37790a3873ccacaf037d9f2ee513
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
