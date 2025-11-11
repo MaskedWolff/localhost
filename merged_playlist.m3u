@@ -5515,6 +5515,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1762919915~acl=/*~id=92734051931418752898776508841521~hmac=904ccd33da02e8d0791f330db4e6486a5ef6c201818e308d88faf3eae0dfb484
 # --- Sonyliv Events Playlist ---
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011089/1762779609232352_nitto_atp_finals_group-stage_landscape_thumb-3.jpg" group-title="sonyliv-Tennis", Cash/Glasspool vs Putz/Krawietz - Group Stage - 11 Nov 2025 [ENG] - Nitto ATP Finals 2025
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762922963~acl=/*~id=98603789163065435078227167570179~hmac=f5877098f709a85313753eb6ad2c7b790b699641a4b96cd8ac37b0ec411a39b8
+
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
