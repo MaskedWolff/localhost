@@ -5244,9 +5244,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png" group-title="Fancode-Cricket", Ireland vs Bangladesh (Ireland tour of Bangladesh, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138237_english_hls_3626c1011429635_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134025_5609_WAU_QUN_fc-Web.jpg" group-title="Fancode-Cricket", Queensland vs Western Australia (Sheffield Shield, 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/134025_english_hls_f309bf13373429_1ta-di_h264/index.m3u8
-
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5522,7 +5519,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011089/1762779609232352_nitto_atp_finals_group-stage_landscape_thumb-3.jpg" group-title="sonyliv-Tennis", Group Stage - 11 Nov 2025 [ENG] - Nitto ATP Finals 2025
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762899208~acl=/*~id=16969229319029276431280605191351~hmac=c3a01277787e814f087cc06972198d82cdee39635c099c18ab58952c4d8b9814
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762900427~acl=/*~id=40752828552207513731826397450866~hmac=626c5a4e03e495f0fb164d52489327fa4a0d2fd5e33758ec865ede88acfe3d56
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
