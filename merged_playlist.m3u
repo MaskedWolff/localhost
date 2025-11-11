@@ -5240,17 +5240,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1762859311~exp=1762945711~acl=/*~hmac=5da448503250af33134c46862b4e12653c412bf6d2c1c5caf122660dff01c858&xxx=%7Ccookie=__hdnea__=st=1762859311~exp=1762945711~acl=/*~hmac=5da448503250af33134c46862b4e12653c412bf6d2c1c5caf122660dff01c858
 
 # --- Fancode Playlist ---
-#EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137563_5720_POL-W_CHE-W_fc-web.jpg" group-title="Fancode-Football", SKN St. Polten Women vs Chelsea F.C. Women (UEFA Women's Champions League 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/137563_english_hls_15b6e0f32745480_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137562_5720_RM-W_PFC-W_fc-web.jpg" group-title="Fancode-Football", Real Madrid Women vs Paris FC Women (UEFA Women's Champions League 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/137562_english_hls_350367daab54526_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137561_5720_OLY-W_WOL-W_fc-web.jpg" group-title="Fancode-Football", Olympique Lyonnais Women vs VfL Wolfsburg Women (UEFA Women's Champions League 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/137561_english_hls_81f0ecd22298932_1ta-di_h264/index.m3u8
-
-# --- Willow Playlist ---
+No match data found.# --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
 #EXTM3U
@@ -5525,7 +5515,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011090/1762769185302255_ATP_FINALS_Musetti-vs-De-Minaur_landscape_thumb.jpg" group-title="sonyliv-Tennis", Lorenzo Musetti vs Alex De Minaur - Group Stage - 12 Nov 2025 [ENG] - Nitto ATP Finals 2025
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762936967~acl=/*~id=15977245157408232353002811486245~hmac=55b2fa8c7eb081123cdc54188167b6f68f2c382b9d57849e84f1411ffe479085
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762938184~acl=/*~id=49480647425947506080525506959469~hmac=47f842a21be20c0e2764a6d486d7afddbca538d2086653e811699785435b8ee5
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
