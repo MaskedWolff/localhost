@@ -5241,9 +5241,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png" group-title="Fancode-Cricket", Ireland vs Bangladesh (Ireland tour of Bangladesh, 2025)
-https://in-mc-fdlive.fancode.com/mumbai/138237_english_hls_3626c1011421704_1ta-di_h264/index.m3u8
-
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5519,7 +5516,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011089/1762779609232352_nitto_atp_finals_group-stage_landscape_thumb-3.jpg" group-title="sonyliv-Tennis", Heliovaara/Patten vs Skupski/Salisbury  - 12 Nov 2025 [ENG] - Nitto ATP Finals 2025
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762987434~acl=/*~id=33538602332741278136210441715046~hmac=68f813a45085a87efb7088cee939a9beb40724a5f8339689564084aac97618ee
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762988044~acl=/*~id=76972481447479529685818806011242~hmac=300ec89c3a822902ba427ae54adef920ae98300e1d2ab593403e7a9c4d8f84fc
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
