@@ -5244,9 +5244,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nigeria_vs_Gabon_FC-Web.jpg" group-title="Fancode-Football", Nigeria vs Gabon (CAF World Cup Qualifiers)
 https://in-mc-fdlive.fancode.com/mumbai/138150_english_hls_8cebbcf49114628_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/UAE-vs-Iraq_Old-match-card.jpg" group-title="Fancode-Football", United Arab Emirates vs Iraq (FIFA World Cup Asian Qualifiers)
-https://in-mc-fdlive.fancode.com/mumbai/138101_english_hls_69ca569da920348_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Butterfield-Bermuda-Championship_2025_match-card_OLd_match-card.jpg" group-title="Fancode-Golf", Day 1 vs Port Royal Golf Course - Southampton, Bermuda (Butterfield Bermuda Championship)
 https://in-mc-fdlive.fancode.com/mumbai/137977_english_hls_954705607383558_1ta-di_h264/index.m3u8
 
@@ -5525,25 +5522,25 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011089/1762779609232352_nitto_atp_finals_group-stage_landscape_thumb-3.jpg" group-title="sonyliv-Tennis", Cash/Glasspool vs Granollers/Zeballos - Group Stage - 13 Nov 2025 [ENG] - Nitto ATP Finals 2025
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763098289~acl=/*~id=68561478618558372440078557790001~hmac=f321c6ce794b09799987ff735ffb60cf3e9ca6b125d9f2c25785814c62e5191f
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763102570~acl=/*~id=85239321683228935405595870183238~hmac=2183b8475805535f335c54aeff448b185bb8e1f863364c078024fb234347ced7
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010903/1762349599051901_EQFs_MD9_Norway_vs_Estonia_3nov_landscape_thumb.jpg" group-title="sonyliv-Football", Norway vs Estonia - MD 9 - 13 Nov 2025 [ENG] - European Qualifiers For 2026 FIFA World Cup
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763098289~acl=/*~id=68561478618558372440078557790001~hmac=f321c6ce794b09799987ff735ffb60cf3e9ca6b125d9f2c25785814c62e5191f
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763102570~acl=/*~id=85239321683228935405595870183238~hmac=2183b8475805535f335c54aeff448b185bb8e1f863364c078024fb234347ced7
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762157541498408_EQFs_MD9_Armenia_vs_Hungary_3nov_landscape_thumb.jpg" group-title="sonyliv-Football", Armenia vs Hungary - MD 9 - 13 Nov 2025 [ENG] - European Qualifiers For 2026 FIFA World Cup
-https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763098289~acl=/*~id=68561478618558372440078557790001~hmac=f321c6ce794b09799987ff735ffb60cf3e9ca6b125d9f2c25785814c62e5191f
+https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763102570~acl=/*~id=85239321683228935405595870183238~hmac=2183b8475805535f335c54aeff448b185bb8e1f863364c078024fb234347ced7
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762349386944408_EQFs_MD9_Azerbaijan_vs_Iceland_3nov_landscape_thumb.jpg" group-title="sonyliv-Football", Azerbaijan vs Iceland - MD 9 - 13 Nov 2025 [ENG] - European Qualifiers For 2026 FIFA World Cup
-https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763098289~acl=/*~id=68561478618558372440078557790001~hmac=f321c6ce794b09799987ff735ffb60cf3e9ca6b125d9f2c25785814c62e5191f
+https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763102570~acl=/*~id=85239321683228935405595870183238~hmac=2183b8475805535f335c54aeff448b185bb8e1f863364c078024fb234347ced7
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010778/1762147682338734_UEFA_INT_Friendlies_Czechia_vs_San_Marino_3nov_landscape_thumb.jpg" group-title="sonyliv-Football", Czechia vs San Marino - 13 Nov 2025 [ENG] - UEFA International Friendlies
-https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763098289~acl=/*~id=68561478618558372440078557790001~hmac=f321c6ce794b09799987ff735ffb60cf3e9ca6b125d9f2c25785814c62e5191f
+https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763102570~acl=/*~id=85239321683228935405595870183238~hmac=2183b8475805535f335c54aeff448b185bb8e1f863364c078024fb234347ced7
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010778/1762148055391734_UEFA_INT_Friendlies_North_Macedonia_vs_Lativa_3nov_landscape_thumb.jpg" group-title="sonyliv-Football", North Macedonia vs Lativa - 13 Nov 2025 [ENG] - UEFA International Friendlies
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763098289~acl=/*~id=68561478618558372440078557790001~hmac=f321c6ce794b09799987ff735ffb60cf3e9ca6b125d9f2c25785814c62e5191f
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763102570~acl=/*~id=85239321683228935405595870183238~hmac=2183b8475805535f335c54aeff448b185bb8e1f863364c078024fb234347ced7
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010778/1762147904582734_UEFA_INT_Friendlies_Lithuania_vs_Israel_3nov_landscape_thumb.jpg" group-title="sonyliv-Football", Lithunia vs Israel - 13 Nov 2025 [ENG] - UEFA International Friendlies
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763098289~acl=/*~id=68561478618558372440078557790001~hmac=f321c6ce794b09799987ff735ffb60cf3e9ca6b125d9f2c25785814c62e5191f
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763102570~acl=/*~id=85239321683228935405595870183238~hmac=2183b8475805535f335c54aeff448b185bb8e1f863364c078024fb234347ced7
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
