@@ -5244,12 +5244,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png" group-title="Fancode-Cricket", Ireland vs Bangladesh (Ireland tour of Bangladesh, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138237_english_hls_3626c1011457026_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134025_5609_WAU_QUN_fc-Web.jpg" group-title="Fancode-Cricket", Queensland vs Western Australia (Sheffield Shield, 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/134025_english_hls_f309bf133764617_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137946_5744_MLC-W_LIO_fc-web.jpg" group-title="Fancode-Football", Melbourne City Women vs Lion City Sailors (AFC Women's Champions League 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/137946_english_hls_ec120e4ade32156_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DP-WORLD_Old_match-card_2.jpg" group-title="Fancode-Golf", Day 1 vs Jumeirah Golf Estates, Earth Course (DP World Tour Championship, Dubai)
 https://in-mc-fdlive.fancode.com/mumbai/137167_english_hls_11108ed49784558_1ta-di_h264/index.m3u8
 
@@ -5527,6 +5521,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1763048336~acl=/*~id=45097082166408182183872094631150~hmac=3dccd0b69c2abc07606829dad61c4d1cd9680cd12f75ff09a9796aa430fc049e
 # --- Sonyliv Events Playlist ---
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011089/1762779609232352_nitto_atp_finals_group-stage_landscape_thumb-3.jpg" group-title="sonyliv-Tennis", Puetz/Krawietz vs Vavassori/Bolelli - Group Stage - 13 Nov 2025 [ENG] - Nitto ATP Finals 2025
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763072675~acl=/*~id=90299021187491540202339590318254~hmac=44165937891eb257c42c0d969aad4bb60faef06486ae89621b3d68a814fc53da
+
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
