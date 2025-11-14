@@ -5515,6 +5515,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1763176871~acl=/*~id=88292484528384942266598455222366~hmac=38cca56f40ca2efc3240365523eae829754abade82882f31b9aafbe4c680d903
 # --- Sonyliv Events Playlist ---
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762354789267408_EQFs_MD9_Finland_vs_Malta_3nov_landscape_thumb.jpg" group-title="sonyliv-Football", Finland vs Malta - MD 9 - 14 Nov 2025 [ENG] - European Qualifiers For 2026 FIFA World Cup
+https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763180520~acl=/*~id=39492910396143528015168049066966~hmac=c59b37f3e911ddd2848c7184998cfecea450e615313de59904ddec72861349a6
+
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
