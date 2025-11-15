@@ -5244,8 +5244,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138244_5765_BN-A_HK_fc-web_1763068128414.jpg" group-title="Fancode-Cricket", Hong Kong, China vs Bangladesh A (ACC Asia Cup Rising Stars 2025)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763231115~acl=/*~id=45871726592580759643017348842107~hmac=e4e2fdbb60526e0cfe5bb3651fb3f92597dc06786ea6b584860ddb2356b4165d
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133941_5606_TAS_SAU_fc-web.jpg" group-title="Fancode-Cricket", South Australia vs Tasmania (One Day Cup, 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/133941_english_hls_23fa5a5f2895880_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DP-WORLD_Old_match-card_2.jpg" group-title="Fancode-Golf", Day 3 vs Jumeirah Golf Estates, Earth Course (DP World Tour Championship, Dubai)
+https://in-mc-fdlive.fancode.com/mumbai/137169_english_hls_6de9a985b168484_1ta-di_h264/index.m3u8
 
 # --- Willow Playlist ---
 #EXTM3U
@@ -5522,7 +5522,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011268/1763132195071370_ACC25_BAN_A_vs_HongKong_Live_Landscape_thumb.jpg" group-title="sonyliv-Cricket", Bangladesh A vs Hong Kong, China - 15 Nov 2025  [ENG] - DP World Asia Cup Rising Stars Men's 2025
-https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763232319~acl=/*~id=28045474959371075935546607297379~hmac=4bf558677fda4b371f4eb30f4af9483ddaf84a670015007935873f5329c68022
+https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763232928~acl=/*~id=05056319919376436532190400499957~hmac=148d3d2a9390bf74b0e6ae32279f7632f2ea91b46cba2e137aff43411389d17c
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
