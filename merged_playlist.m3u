@@ -5524,6 +5524,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1763242078~acl=/*~id=19976513051778774321419057308429~hmac=a5c5d5829c3370ab6a62a6bf848c1bf3e59dd81d1de41b86829e2cabb4fff3b4
 # --- Sonyliv Events Playlist ---
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011314/1763186314655382_1762779590126352_nitto_atp_finals_Semi-Final_landscape_thumb-3.jpg" group-title="sonyliv-Tennis", Semi-Final - 15 Nov 2025 [ENG] - Nitto ATP Finals 2025
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763246338~acl=/*~id=50824881958766009048947375277727~hmac=dd9f50693d343786215e83b0ea7398d2e7c569e350a19ac86b1f49d57f89c12d
+
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
