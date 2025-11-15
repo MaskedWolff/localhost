@@ -5244,9 +5244,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138245_5765_SL-A_AF-A_fc-web_1763068128437.jpg" group-title="Fancode-Cricket", Sri Lanka A vs Afghanistan A (ACC Asia Cup Rising Stars 2025)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763248840~acl=/*~id=52350084453702976945207356326394~hmac=ddd46cc4a490638c3301a8c48a6c8085379bd1ffcd92198631c3d2fe62761173
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Motul-Grand-Prix-of-the-Valencian-Community-old-match-card-.png" group-title="Fancode-MotoGP", Day 2 vs Circuit Ricardo Tormo (MOTUL GRAND PRIX OF THE VALENCIAN COMMUNITY)
-https://in-mc-fdlive.fancode.com/mumbai/119296_english_hls_e5b4dbdb6796898_1ta-di_h264/index.m3u8
-
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5522,13 +5519,13 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011275/1763135371446626_ACC25_SLA_vs_AFGA_Live_lLandscape_thumb.jpg" group-title="sonyliv-Cricket", Sri Lanka A vs Afghanistan A - 15 Nov 2025  [ENG] - DP World Asia Cup Rising Stars Men's 2025
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763260990~acl=/*~id=10518428652290045077188595742271~hmac=d62fa6f2ce43472f9e7959d46d0f62d9aa7f7869d1bd9cf8d953673a33972570
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763261600~acl=/*~id=42407620726573719301995023695175~hmac=5d0f98c8f256e7ca14e94afd24539f185d267789f4c06441eee0cc4d39b5ed40
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762356230196408_EQFs_MD9_Kazakhstan_vs_Belgium_3nov_landscape_thumb.jpg" group-title="sonyliv-Football", Kazakhstan vs Belgium - MD 9 - 15 Nov 2025 [ENG] - European Qualifiers For 2026 FIFA World Cup
-https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763260990~acl=/*~id=10518428652290045077188595742271~hmac=d62fa6f2ce43472f9e7959d46d0f62d9aa7f7869d1bd9cf8d953673a33972570
+https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763261600~acl=/*~id=42407620726573719301995023695175~hmac=5d0f98c8f256e7ca14e94afd24539f185d267789f4c06441eee0cc4d39b5ed40
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011311/1763185053846327_ATP_NITTO_SF_Sinner_vs_DeMinaur_live_landscape_thumb.jpg" group-title="sonyliv-Tennis", Sinner vs De Minaur - Semi-Finals - 15 Nov 2025 [ENG] - Nitto ATP Finals 2025
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763260990~acl=/*~id=10518428652290045077188595742271~hmac=d62fa6f2ce43472f9e7959d46d0f62d9aa7f7869d1bd9cf8d953673a33972570
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763261600~acl=/*~id=42407620726573719301995023695175~hmac=5d0f98c8f256e7ca14e94afd24539f185d267789f4c06441eee0cc4d39b5ed40
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
