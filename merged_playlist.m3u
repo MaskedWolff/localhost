@@ -5241,9 +5241,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138244_5765_BN-A_HK_fc-web_1763068128414.jpg" group-title="Fancode-Cricket", Hong Kong, China vs Bangladesh A (ACC Asia Cup Rising Stars 2025)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763231115~acl=/*~id=45871726592580759643017348842107~hmac=e4e2fdbb60526e0cfe5bb3651fb3f92597dc06786ea6b584860ddb2356b4165d
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Motul-Grand-Prix-of-the-Valencian-Community-old-match-card-.png" group-title="Fancode-MotoGP", Day 2 vs Circuit Ricardo Tormo (MOTUL GRAND PRIX OF THE VALENCIAN COMMUNITY)
 https://in-mc-fdlive.fancode.com/mumbai/119296_english_hls_e5b4dbdb6796898_1ta-di_h264/index.m3u8
 
@@ -5528,7 +5525,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011268/1763132195071370_ACC25_BAN_A_vs_HongKong_Live_Landscape_thumb.jpg" group-title="sonyliv-Cricket", Bangladesh A vs Hong Kong, China - 15 Nov 2025  [ENG] - DP World Asia Cup Rising Stars Men's 2025
-https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763241468~acl=/*~id=71687635864826425515591956947640~hmac=1be5e9080abe33928d4e731f00730f2a3bf4e5c77474523aec43053029624bcd
+https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763242078~acl=/*~id=19976513051778774321419057308429~hmac=a5c5d5829c3370ab6a62a6bf848c1bf3e59dd81d1de41b86829e2cabb4fff3b4
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
