@@ -5247,6 +5247,9 @@ https://in-mc-fdlive.fancode.com/mumbai/138037_english_hls_55a209b1dd3460_1ta-di
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/138152_CASACARDS_APP.png" group-title="Fancode-Football", Nigeria vs DR Congo (CAF World Cup Qualifiers)
 https://in-mc-fdlive.fancode.com/mumbai/138152_english_hls_9d1f489bc949759_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/138063_CASACARDS_APP.png" group-title="Fancode-Football", Real Zaragoza vs Huesca (LALIGA Hypermotion 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/138063_english_hls_38f195a62968715_1ta-di_h264/index.m3u8
+
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5522,13 +5525,13 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011367/1763249324657329_NittoATPFinals2025_final_alcaraz_vs_sinner_16nov_landscape_thumb.jpg" group-title="sonyliv-Tennis", Alcaraz vs Sinner - Final - 16 Nov 2025 [ENG] - Nitto ATP Finals 2025
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763365808~acl=/*~id=01523218627272252236320858955037~hmac=f690e6949a5dfee6fced659db2ebf3085a4524a30bbcbc0e08fd8724669d2d89
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763367027~acl=/*~id=98216608159072644013795094255983~hmac=751700f07a480877c93caf8d10b34d6203072c9de497f94a5ae2f289432b44bd
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010926/1762169466218493_EQ2526_MD10_Italy-vs-Norway_3nov_landscape_thumb.jpg" group-title="sonyliv-Football", Italy vs Norway - MD 10 - 17 Nov 2025 [ENG] - European Qualifiers For 2026 FIFA World Cup
-https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763365808~acl=/*~id=01523218627272252236320858955037~hmac=f690e6949a5dfee6fced659db2ebf3085a4524a30bbcbc0e08fd8724669d2d89
+https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763367027~acl=/*~id=98216608159072644013795094255983~hmac=751700f07a480877c93caf8d10b34d6203072c9de497f94a5ae2f289432b44bd
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010926/1762169319559493_EQ2526_MD10_Israel-vs-Moldova_3nov_landscape_thumb.jpg" group-title="sonyliv-Football", Israel vs Moldova - MD 10 - 17 Nov 2025 [ENG] - European Qualifiers For 2026 FIFA World Cup
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763365808~acl=/*~id=01523218627272252236320858955037~hmac=f690e6949a5dfee6fced659db2ebf3085a4524a30bbcbc0e08fd8724669d2d89
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763367027~acl=/*~id=98216608159072644013795094255983~hmac=751700f07a480877c93caf8d10b34d6203072c9de497f94a5ae2f289432b44bd
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
