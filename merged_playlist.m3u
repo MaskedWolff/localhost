@@ -5241,14 +5241,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Motul-Grand-Prix-of-the-Valencian-Community-old-match-card-.png" group-title="Fancode-MotoGP", Race Day vs Circuit Ricardo Tormo (MOTUL GRAND PRIX OF THE VALENCIAN COMMUNITY)
-https://in-mc-fdlive.fancode.com/mumbai/119297_english_hls_e0153a808d44379_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IND-vs-PAK_old.jpg" group-title="Fancode-Cricket", India A vs Pakistan Shaheens (ACC Asia Cup Rising Stars 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763345888~acl=/*~id=36948444863743181868704647829941~hmac=ef00ba7bf435c8cb0a35f6cdb007e44c89e075e76234d148aa8c049345e138c8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg" group-title="Fancode-Cricket", England Under-19 vs West Indies Under-19 (England Under-19 tour of West Indies, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138037_english_hls_55a209b1dd3460_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137953_5744_LIO_HCMC_fc-web_1763103330920.jpg" group-title="Fancode-Football", Lion City Sailors vs Ho Chi Minh City Women’s FC (AFC Women's Champions League 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/137953_english_hls_320b315ba392987_1ta-di_h264/index.m3u8
 
 # --- Willow Playlist ---
 #EXTM3U
@@ -5525,16 +5522,16 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011345/1763214650539370_ACC25_INDA_vs_PAKA_live_Landscape_thumb.jpg" group-title="sonyliv-Cricket", India A vs Pakistan A - 16 Nov 2025  [ENG] - DP World Asia Cup Rising Stars Men's 2025
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763346306~acl=/*~id=41829267074266099044451316235772~hmac=c507629e29bf93a2c232b390fca06d73cb68511d4ba8f0dfcb0494caf6746028
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763346916~acl=/*~id=28066885663275499458938520019704~hmac=d9a510deb12ea19a91b0007f17191fdcef9b5f6533cecae231c5faca0762e809
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010926/1762154226375493_EQ2526_MD10_Portugal-vs-Armenia_3nov_landscape_thumb.jpg" group-title="sonyliv-Football", Portugal vs Armenia - MD 10 - 16 Nov 2025 [ENG] - European Qualifiers For 2026 FIFA World Cup
-https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763346306~acl=/*~id=41829267074266099044451316235772~hmac=c507629e29bf93a2c232b390fca06d73cb68511d4ba8f0dfcb0494caf6746028
+https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763346916~acl=/*~id=28066885663275499458938520019704~hmac=d9a510deb12ea19a91b0007f17191fdcef9b5f6533cecae231c5faca0762e809
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011370/1763252394738513_nitto_atp_finals25_doubles_Final_16nov_landscape_thumb.jpg" group-title="sonyliv-Tennis", Heliovaara/Patten vs Salisbury/Skupski - Final - 16 Nov 2025 [ENG] - Nitto ATP Finals 2025
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763346306~acl=/*~id=41829267074266099044451316235772~hmac=c507629e29bf93a2c232b390fca06d73cb68511d4ba8f0dfcb0494caf6746028
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763346916~acl=/*~id=28066885663275499458938520019704~hmac=d9a510deb12ea19a91b0007f17191fdcef9b5f6533cecae231c5faca0762e809
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010926/1762153956866493_EQ2526_MD10_-Hungary-vs-Republic-of-Ireland_3nov_landscape_thumb.jpg" group-title="sonyliv-Football", Hungary vs Republic of Ireland - MD 10 - 16 Nov 2025 [ENG] - European Qualifiers For 2026 FIFA World Cup
-https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763346306~acl=/*~id=41829267074266099044451316235772~hmac=c507629e29bf93a2c232b390fca06d73cb68511d4ba8f0dfcb0494caf6746028
+https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763346916~acl=/*~id=28066885663275499458938520019704~hmac=d9a510deb12ea19a91b0007f17191fdcef9b5f6533cecae231c5faca0762e809
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
