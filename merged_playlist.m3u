@@ -5241,6 +5241,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138249_5765_BN-A_AF-A_fc-web_1763068128416.jpg" group-title="Fancode-Cricket", Afghanistan A vs Bangladesh A (ACC Asia Cup Rising Stars 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763432560~acl=/*~id=99196069153347333114252092149908~hmac=b61b7c9c9e5968bbf990a7c30de62a10461bdf5c88b34b4288363dd7119c986d
+
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5516,7 +5519,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011396/1763309182728459_ACRS25_BAN_A_vs_AFG_A_16nov_Landscape_thumb.jpg" group-title="sonyliv-Cricket", Bangladesh A vs Afghanistan A - 17 Nov 2025  [ENG] - DP World Asia Cup Rising Stars Men's 2025
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763432018~acl=/*~id=32739441051349152538154945623150~hmac=b3983a250326c5007dcb2a32d14869db8f19c6632da7e872fb58459ac6a860b0
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763433233~acl=/*~id=73731281629775545681964333441172~hmac=f417a7316c156b57fb72b7423e6aaa357edeba82d060e2470b3244fbc4f23728
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
