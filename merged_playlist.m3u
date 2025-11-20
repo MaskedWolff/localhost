@@ -5241,11 +5241,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL_Lumbini-Lions_vs_Chitwan-Rhinos_Old_match-card_02.jpg" group-title="Fancode-Cricket", Chitwan Rhinos vs Lumbini Lions (Nepal Premier League, 2025)
-https://in-mc-fdlive.fancode.com/mumbai/138297_english_hls_d43d2c886c67988_1adfreeta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138208_5763_ROC_DG_fc-web.png" group-title="Fancode-Cricket", Royal Champs vs Deccan Gladiators (Abu Dhabi T10, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138208_english_hls_930f3be5cd44322_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL_Lumbini-Lions_vs_Chitwan-Rhinos_Old_match-card_02.jpg" group-title="Fancode-Cricket", Chitwan Rhinos vs Lumbini Lions (Nepal Premier League, 2025)
+https://in-mc-fdlive.fancode.com/mumbai/138297_english_hls_d43d2c886c67988_1adfreeta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137955_5744_NAS-W_BKFC_fc-web_1763103330257.jpg" group-title="Fancode-Football", PFC Nasaf vs Bam Khatoon FC (AFC Women's Champions League 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/137955_english_hls_4e0f9fbcee57279_1ta-di_h264/index.m3u8
@@ -5525,7 +5525,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011490/1763443173762963_asiantour2024_PIF_Saudi_International_day2_18nov_Landscape_thumb.jpg" group-title="sonyliv-Golf", PIF Saudi International - Day 2 - 20 Nov 2025 [ENG] - Asian Tour 2025
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763679973~acl=/*~id=60651805849450874336683784235786~hmac=6bae9c443c84c69ecd01b4abaf14b491e224380b8ad20591178e31df198e8a3f
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763681189~acl=/*~id=23173268901324823994023384764233~hmac=dbe789667291964449a5fb0f71aa17aed538cea46a668a623d521d8548a267f8
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
