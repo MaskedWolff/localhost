@@ -5244,6 +5244,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138214_5763_AST_VTR_fc-web_1763728589853.png" group-title="Fancode-Cricket", Vista Riders vs Aspin Stallions (Abu Dhabi T10, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138214_english_hls_6b74076ecf42011_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138215_5763_NW_DG_fc-web_1763728590016.png" group-title="Fancode-Cricket", Deccan Gladiators vs Northern Warriors (Abu Dhabi T10, 2025)
+https://in-mc-fdlive.fancode.com/mumbai/138215_english_hls_9ea785ca1e68761_1ta-di_h264/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136965_5489_CVC_WBA_fc-web.jpg" group-title="Fancode-Football", Coventry City Football Club vs West Bromwich Albion F.C. (EFL Championship 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/136965_english_hls_45f234277265374_1ta-di_h264/index.m3u8
 
@@ -5527,9 +5530,6 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1763859273~acl=/*~id=06555188298051064046470167355822~hmac=1adc4da608229b297a0b29ec00c49dedcf0eeeb11ae2d14195ea6ac7fa06c126
 # --- Sonyliv Events Playlist ---
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011490/1763443230979963_asiantour2024_PIF_Saudi_International_day4_18nov_Landscape_thumb.jpg" group-title="sonyliv-Golf", PIF Saudi International - Day 4 - 22 Nov 2025 [ENG] - Asian Tour 2025
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763861099~acl=/*~id=91932260746194205360002086335850~hmac=e80ba07225bde0e53b731c590de5a23b893afe5535222dc955a72d38ff54e2f2
-
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
