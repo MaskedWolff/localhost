@@ -5241,14 +5241,17 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130953_5427_OSN_RS_fc-Web.jpg" group-title="Fancode-Football", CA Osasuna vs Real Sociedad (LALIGA 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/130953_english_hls_b95bc93bde73684_1adfreeta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130958_5427_VIL_MRC_fc-Web.jpg" group-title="Fancode-Football", Villarreal CF vs RCD Mallorca (LALIGA 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/130958_english_hls_725c0bef3b63390_1adfreeta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Eibar_vs_Real-Zaragoza_Old.jpg" group-title="Fancode-Football", Eibar vs Real Zaragoza (LALIGA Hypermotion 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/138065_english_hls_d9c869bd1e70688_1ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png" group-title="Fancode-Golf", World Feed - Day 3 vs Sea Island Golf Club (The RSM Classic)
 https://in-mc-fdlive.fancode.com/mumbai/138274_english_hls_4bd40f09823651_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130953_5427_OSN_RS_fc-Web.jpg" group-title="Fancode-Football", CA Osasuna vs Real Sociedad (LALIGA 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/130953_english_hls_b95bc93bde73684_1adfreeta-di_h264/index.m3u8
 
 # --- Willow Playlist ---
 #EXTM3U
@@ -5525,19 +5528,19 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011502/1763456591797245_UFC_fight_night_Tsarukyan-vs-Hooker_landscape_thumb.jpg" group-title="sonyliv-Fight Sports", UFC Fight Night - Tsarukyan vs Hooker - 22 Nov 2025 [ENG] - UFC Fight Night - Tsarukyan vs Hooker
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763881836~acl=/*~id=77503185344574837542798813323303~hmac=4584dd5cf8846b84fca2d18d86889729fbb20c14a5e49710b2c28a633abc7e88
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763883053~acl=/*~id=27145288669256254112922973543041~hmac=f92bc726940eae283cba03ce09595affb15489d38df1e576367440455ac05dc8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011502/1763456591797245_UFC_fight_night_Tsarukyan-vs-Hooker_landscape_thumb.jpg" group-title="sonyliv-Fight Sports", UFC Fight Night - Tsarukyan vs Hooker - 22 Nov 2025 [HIN] - UFC Fight Night - Tsarukyan vs Hooker
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763881836~acl=/*~id=77503185344574837542798813323303~hmac=4584dd5cf8846b84fca2d18d86889729fbb20c14a5e49710b2c28a633abc7e88
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763883053~acl=/*~id=27145288669256254112922973543041~hmac=f92bc726940eae283cba03ce09595affb15489d38df1e576367440455ac05dc8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011502/1763456591797245_UFC_fight_night_Tsarukyan-vs-Hooker_landscape_thumb.jpg" group-title="sonyliv-Fight Sports", UFC Fight Night - Tsarukyan vs Hooker - 22 Nov 2025 [TAM] - UFC Fight Night - Tsarukyan vs Hooker
-https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763881836~acl=/*~id=77503185344574837542798813323303~hmac=4584dd5cf8846b84fca2d18d86889729fbb20c14a5e49710b2c28a633abc7e88
+https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763883053~acl=/*~id=27145288669256254112922973543041~hmac=f92bc726940eae283cba03ce09595affb15489d38df1e576367440455ac05dc8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011502/1763456591797245_UFC_fight_night_Tsarukyan-vs-Hooker_landscape_thumb.jpg" group-title="sonyliv-Fight Sports", UFC Fight Night - Tsarukyan vs Hooker - 22 Nov 2025 [TEL] - UFC Fight Night - Tsarukyan vs Hooker
-https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763881836~acl=/*~id=77503185344574837542798813323303~hmac=4584dd5cf8846b84fca2d18d86889729fbb20c14a5e49710b2c28a633abc7e88
+https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763883053~acl=/*~id=27145288669256254112922973543041~hmac=f92bc726940eae283cba03ce09595affb15489d38df1e576367440455ac05dc8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011002/176256310684896_Bundesliga_MD11_FCKoln_vs_EintrachtFrankfur_landscape_thumb.jpg" group-title="sonyliv-Football", FC Koln vs Eintracht Frankfurt - MD 11 - 22 Nov 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763881836~acl=/*~id=77503185344574837542798813323303~hmac=4584dd5cf8846b84fca2d18d86889729fbb20c14a5e49710b2c28a633abc7e88
+https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763883053~acl=/*~id=27145288669256254112922973543041~hmac=f92bc726940eae283cba03ce09595affb15489d38df1e576367440455ac05dc8
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
