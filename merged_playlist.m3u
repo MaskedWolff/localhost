@@ -5259,9 +5259,6 @@ https://in-mc-fdlive.fancode.com/mumbai/138051_english_hls_0c2f219f1776879_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg" group-title="Fancode-Cricket", Windward Islands Volcanoes vs Barbados Pride (CG United Super50 Cup, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138050_english_hls_7faa5a746270788_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130954_5427_RO_RVL_fc-Web.jpg" group-title="Fancode-Football", Real Oviedo vs Rayo Vallecano (LALIGA 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/130954_english_hls_d214906bb360656_1adfreeta-di_h264/index.m3u8
-
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5537,10 +5534,10 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011678/1763753291589761_ACRS25_final_BAN_A_vs_SHA_22nov_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Bangladesh A vs Pakistan Shaheens - Final - 23 Nov 2025  [ENG] - DP World Asia Cup Rising Stars Men's 2025
-https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763954748~acl=/*~id=41030019839574864429611396780214~hmac=490970d3c23097e82e5a1d3e91d580a421e62d7237288b45b3c07ec36dc4dd26
+https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763955356~acl=/*~id=06146789855757893440251561134731~hmac=46d91701bf9d2c9dcb37b7bf6011c88a3597f1e3d7ac4455136e5359d8bcf958
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011002/176256349965596_Bundesliga_MD11_RBLeipzig_vs_WerderBremen_landscape_thumb.jpg" group-title="sonyliv-Football", RB Leipzig vs Werder Bremen - MD 11 - 23 Nov 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763954748~acl=/*~id=41030019839574864429611396780214~hmac=490970d3c23097e82e5a1d3e91d580a421e62d7237288b45b3c07ec36dc4dd26
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763955356~acl=/*~id=06146789855757893440251561134731~hmac=46d91701bf9d2c9dcb37b7bf6011c88a3597f1e3d7ac4455136e5359d8bcf958
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
