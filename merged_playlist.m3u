@@ -5241,8 +5241,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138217_5763_AJT_ROC_fc-web_1763728590035.png" group-title="Fancode-Cricket", Royal Champs vs Ajman Titans (Abu Dhabi T10, 2025)
-https://in-mc-fdlive.fancode.com/mumbai/138217_english_hls_301882dc2f99804_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138218_5763_QQY_AST_fc-web.png" group-title="Fancode-Cricket", Quetta Qavalry vs Aspin Stallions (Abu Dhabi T10, 2025)
+https://in-mc-fdlive.fancode.com/mumbai/138218_english_hls_de7f73c3dd50667_1ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136967_5489_SHFF_SHF_fc-web.jpg" group-title="Fancode-Football", Sheffield Wednesday F.C. vs Sheffield United F.C. (EFL Championship 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/136967_english_hls_7a2da38f837216_1ta-di_h264/index.m3u8
@@ -5256,7 +5256,7 @@ https://in-mc-fdlive.fancode.com/mumbai/138413_english_hls_901fb9ddc451971_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg" group-title="Fancode-Cricket", Leeward Islands Hurricanes vs Jamaica Scorpions (CG United Super50 Cup, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138051_english_hls_0c2f219f1776879_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg" group-title="Fancode-Cricket", Barbados Pride vs Windward Islands Volcanoes (CG United Super50 Cup, 2025)
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg" group-title="Fancode-Cricket", Windward Islands Volcanoes vs Barbados Pride (CG United Super50 Cup, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138050_english_hls_7faa5a746270788_1ta-di_h264/index.m3u8
 
 # --- Willow Playlist ---
@@ -5533,6 +5533,12 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1763901002~acl=/*~id=c07efd1382334f7f293c05c0c7fe8729-1763857800111~hmac=2b47af2d34a3f0fcc6b62086f2ca3459cf1ab1061b3fd89f651121e32b9d5098
 # --- Sonyliv Events Playlist ---
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011678/1763753291589761_ACRS25_final_BAN_A_vs_SHA_22nov_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Bangladesh A vs Pakistan Shaheens - Final - 23 Nov 2025  [ENG] - DP World Asia Cup Rising Stars Men's 2025
+https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763949259~acl=/*~id=30065874726357088207814137618749~hmac=9cfce725b19382b4827db7a6051db82c1f41863739ea2441d75ab05e5e625dba
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011002/176256349965596_Bundesliga_MD11_RBLeipzig_vs_WerderBremen_landscape_thumb.jpg" group-title="sonyliv-Football", RB Leipzig vs Werder Bremen - MD 11 - 23 Nov 2025 [ENG] - Bundesliga 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763949259~acl=/*~id=30065874726357088207814137618749~hmac=9cfce725b19382b4827db7a6051db82c1f41863739ea2441d75ab05e5e625dba
+
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
