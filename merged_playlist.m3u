@@ -5244,9 +5244,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Nassr-FC-VS-Al-Khaleej_old-(1).jpg" group-title="Fancode-Football", Al-Nassr FC vs Al-Khaleej (Roshn Saudi League 2025-2026)
 https://in-mc-fdlive.fancode.com/mumbai/138431_english_hls_4a5fdcc78869499_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg" group-title="Fancode-Cricket", Windward Islands Volcanoes vs Barbados Pride (CG United Super50 Cup, 2025)
-https://in-mc-fdlive.fancode.com/mumbai/138050_english_hls_7faa5a746270788_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg" group-title="Fancode-Cricket", Trinidad & Tobago Red Force vs Guyana Harpy Eagles (CG United Super50 Cup, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138052_english_hls_b89cc9c69828531_1ta-di_h264/index.m3u8
 
@@ -5531,7 +5528,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011678/1763753291589761_ACRS25_final_BAN_A_vs_SHA_22nov_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Bangladesh A vs Pakistan Shaheens - Final - 23 Nov 2025  [ENG] - DP World Asia Cup Rising Stars Men's 2025
-https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763966928~acl=/*~id=83172118594036714512101820638798~hmac=b0e0a88b083514897dc5f7e8afa9dca4d0d16acd24939960279cf21d301677da
+https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763968146~acl=/*~id=20713142924889907328125317795054~hmac=3a8f05e2194cbd8402900d1a1f8fc4a6bd0dd17563ff4bac21f652abf46d94e7
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
