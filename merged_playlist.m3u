@@ -5242,9 +5242,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136969_5489_WBA_BIR_fc-web.jpg" group-title="Fancode-Football", West Bromwich Albion F.C. vs Birmingham City F.C. (EFL Championship 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/136969_english_hls_17592547fa84528_1ta-di_h264/index.m3u8
-
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5521,10 +5518,10 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011524/1763481588677274_UCL2526_MD5_Arsenal_vs_Bayern_14nov_landscape_thumb.jpg" group-title="sonyliv-Football", Arsenal vs Bayern Munich - MD 5 - 27 Nov 2025 [ENG] - UEFA Champions League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764238417~acl=/*~id=03011574266780340477687770809046~hmac=40efa57a464c4d7d56d55c4558e5b6edae60a19aac19a50751f9d7664b887121
+https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764239633~acl=/*~id=05042799130949538923538616624974~hmac=133a78cc7b3f2e61baa3cbc310e5a65fa355a11e840a90955b59053fd97bb209
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011524/1763481588677274_UCL2526_MD5_Arsenal_vs_Bayern_14nov_landscape_thumb.jpg" group-title="sonyliv-Football", Arsenal vs Bayern Munich - MD 5 - 27 Nov 2025 [HIN] - UEFA Champions League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764238417~acl=/*~id=03011574266780340477687770809046~hmac=40efa57a464c4d7d56d55c4558e5b6edae60a19aac19a50751f9d7664b887121
+https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764239633~acl=/*~id=05042799130949538923538616624974~hmac=133a78cc7b3f2e61baa3cbc310e5a65fa355a11e840a90955b59053fd97bb209
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
