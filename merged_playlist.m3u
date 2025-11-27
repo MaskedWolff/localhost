@@ -5248,6 +5248,9 @@ https://fancode-dlt-adns.airteledge.in/mum-airtel-origin/138057_english_hls_e169
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg" group-title="Fancode-Cricket", Jamaica Scorpions vs Windward Islands Volcanoes (CG United Super50 Cup, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138058_english_hls_0eedb4e3735942_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg" group-title="Fancode-Football", Grimsby Town vs Tranmere Rovers (League Two 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/137002_english_hls_cd8198166989697_1ta-di_h264/index.m3u8
+
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5523,6 +5526,12 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1764314445~acl=/*~id=73707256612756953576422861769165~hmac=10e0a1eb1f061c99f1f46e572081c7d7f93c05df22a9ef32dd43e64aa454b573
 # --- Sonyliv Events Playlist ---
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011067/1762707079997622_UEL25_md5_NottmForest_vs_Malmo_Landscape_thumb.jpg" group-title="sonyliv-Football", Nott'm Forest vs Malmo - MD 5 - 28 Nov 2025 [ENG] - UEFA Europa League 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764318098~acl=/*~id=43943278793651745566993400563125~hmac=fccc44f0bdb2579c846f08234512139e3c959cdffb2cf3e0bc5571953d4c3329
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011534/1763499370570830_UECL2526_MD4_Strasbourg_vs_Crystal_Palace_18nov_landscape_thumb.jpg" group-title="sonyliv-Football", Strasbourg vs Crystal Palace - MD 4 - 28 Nov 2025 [ENG] - UEFA Conference League 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764318098~acl=/*~id=43943278793651745566993400563125~hmac=fccc44f0bdb2579c846f08234512139e3c959cdffb2cf3e0bc5571953d4c3329
+
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
