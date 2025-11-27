@@ -5523,6 +5523,12 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1764311402~acl=/*~id=b42319daaf7748c3b58f06cc3ab694d8-1764268200183~hmac=5444775cf94683f98cdc301e040ee69754eca3993eefdc8fae5a364fc52eeb1b
 # --- Sonyliv Events Playlist ---
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011067/1762617067219622_UEL25_md5_AstonVilla_vs_YoungBoys_landscape_thumb.jpg" group-title="sonyliv-Football", Aston Villa vs Young Boys - MD 5 - 27 Nov 2025 [ENG] - UEFA Europa League 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764313837~acl=/*~id=74314549633958978369188273572426~hmac=9b317d88d7de5771e5b07544990dba3ac61852978e1db37d05d9f8a9b7ccfb9d
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011067/1762616396094622_UEL25_md5_Roma_vs_Midtjylland_landscape_thumb.jpg" group-title="sonyliv-Football", Roma vs Midtjylland - MD 5 - 27 Nov 2025 [ENG] - UEFA Europa League 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764313837~acl=/*~id=74314549633958978369188273572426~hmac=9b317d88d7de5771e5b07544990dba3ac61852978e1db37d05d9f8a9b7ccfb9d
+
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
