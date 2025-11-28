@@ -5523,6 +5523,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1764376319~acl=/*~id=02080751687238625348550728287002~hmac=eccfbc31d5412accab096391167341b046bc364cd58bcf2c6deaf02b19a550c9
 # --- Sonyliv Events Playlist ---
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011434/17629317785053_Bliga2526_MD12_Borussia-Mgladbach-vs-RB-Leipzig_12nov__landscape_thumb.jpg" group-title="sonyliv-Football", Borussia M'gladbach vs RB Leipzig - MD 12 - 29 Nov 2025 [ENG] - Bundesliga 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764399013~acl=/*~id=91119035937319888458241606939066~hmac=d1028347ce3e6ce9ccfe67c2538874a30dcd2af988f8ebcbcd0a7bfc101a6e9b
+
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
