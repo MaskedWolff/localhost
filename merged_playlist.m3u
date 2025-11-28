@@ -5245,9 +5245,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Ahli-Saudi-FC-VS-Al-Qadsiah-FC_old_1764346250168.jpg" group-title="Fancode-Football", Al-Ahli Saudi FC vs Al-Qadsiah FC (Saudi Kings Cup 2025-2026)
 https://in-mc-fdlive.fancode.com/mumbai/138026_english_hls_07e5414ac061051_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR-AIRWAYS-QATAR-GRAND-PRIX-2025-old-match-card.png" group-title="Fancode-Formula 1", Sprint Qualifying vs Qatar (F1 QATAR AIRWAYS QATAR GRAND PRIX 2025)
-https://d3ebng79z9qao.cloudfront.net/out/v1/48d9b4db06304a1fad54a86327684df7/index.m3u8
-
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5524,7 +5521,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011434/17629317785053_Bliga2526_MD12_Borussia-Mgladbach-vs-RB-Leipzig_12nov__landscape_thumb.jpg" group-title="sonyliv-Football", Borussia M'gladbach vs RB Leipzig - MD 12 - 29 Nov 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764399013~acl=/*~id=91119035937319888458241606939066~hmac=d1028347ce3e6ce9ccfe67c2538874a30dcd2af988f8ebcbcd0a7bfc101a6e9b
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764400232~acl=/*~id=95275763430376822498515495844829~hmac=1bc154b5eeb24136a6448c1916f859426538aec72106bbe33dae9ac5b4e8dcfa
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
