@@ -5242,14 +5242,14 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138307_5771_CWR_KMG_FC-Web.jpg" group-title="Fancode-Cricket", Kathmandu Gorkhas vs Chitwan Rhinos (Nepal Premier League, 2025)
-https://in-mc-fdlive.fancode.com/mumbai/138307_english_hls_07dbba305293280_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138083_5758_SC-W_ND-W_FC-Web.jpg" group-title="Fancode-Cricket", Netherlands Women vs Scotland Women (ICC Women's Emerging Nations Trophy, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138083_english_hls_1f11a2227274676_1ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138082_5758_NAM-W_PN-W_FC-Web.jpg" group-title="Fancode-Cricket", Papua New Guinea Women vs Namibia Women (ICC Women's Emerging Nations Trophy, 2025)
 https://india-mpv2.fancode.com/out/v1/ap-south-1/138082_english_138082/adfree-h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138307_5771_CWR_KMG_FC-Web.jpg" group-title="Fancode-Cricket", Kathmandu Gorkhas vs Chitwan Rhinos (Nepal Premier League, 2025)
+https://in-mc-fdlive.fancode.com/mumbai/138307_english_hls_07dbba305293280_1ta-di_h264/index.m3u8
 
 # --- Willow Playlist ---
 #EXTM3U
@@ -5527,7 +5527,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011860/1764262634730621_AO2026_ASIA_PACIFIC_WILDCARD_PLAYOFF_27nov_finals_landscape_thumb.jpg" group-title="sonyliv-Tennis", Finals - Asia-Pacific Wildcard Playoff - 28 Nov 2025 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764363129~acl=/*~id=66234717093288749854974331565280~hmac=4aa73fe70c56fbab99392338954b92d8ba737038c95066a60e6496d8b4cfba3d
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764365564~acl=/*~id=64540774632829751500195269417623~hmac=e7ec2d7cca977c56027d47d7db7415b98d59ab53fd509dde39252d866196eee9
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
