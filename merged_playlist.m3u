@@ -5248,6 +5248,9 @@ https://in-mc-fdlive.fancode.com/mumbai/138026_english_hls_07e5414ac061051_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130967_5427_GEF_ELC_fc-Web.jpg" group-title="Fancode-Football", Getafe CF vs Elche CF (LALIGA 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/130967_english_hls_8856b4cfde53986_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136972_5489_OU_IPT_fc-web.jpg" group-title="Fancode-Football", Oxford United vs Ipswich Town F.C. (EFL Championship 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/136972_english_hls_f3f5b57b8458088_1ta-di_h264/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sporting-de-Gijon_vs_Anodrra_Old.jpg" group-title="Fancode-Football", Sporting de Gijón vs FC Andorra (LALIGA Hypermotion 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/138069_english_hls_143f28d1c397945_1ta-di_h264/index.m3u8
 
@@ -5527,7 +5530,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011434/17629317785053_Bliga2526_MD12_Borussia-Mgladbach-vs-RB-Leipzig_12nov__landscape_thumb.jpg" group-title="sonyliv-Football", Borussia M'gladbach vs RB Leipzig - MD 12 - 29 Nov 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764400232~acl=/*~id=95275763430376822498515495844829~hmac=1bc154b5eeb24136a6448c1916f859426538aec72106bbe33dae9ac5b4e8dcfa
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764402662~acl=/*~id=27067397726395693369472185412072~hmac=a3b5a0c975a9d00fbec88a5e1ed3d30f7350df9b92eb4d15af5b25e99bf21f84
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
