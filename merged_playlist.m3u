@@ -5245,6 +5245,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138308_5771_KNY_BK_FC-Web.jpg" group-title="Fancode-Cricket", Karnali Yaks vs Biratnagar Kings (Nepal Premier League, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138308_english_hls_f8f73adbfb87986_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg" group-title="Fancode-Motorsports", Free Practice vs Lusail (F2 QATAR 2025)
+https://in-mc-fdlive.fancode.com/mumbai/119073_english_hls_2b3cab088f3113_1ta-di_h264/index.m3u8
+
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5521,7 +5524,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011860/1764262634730621_AO2026_ASIA_PACIFIC_WILDCARD_PLAYOFF_27nov_finals_landscape_thumb.jpg" group-title="sonyliv-Tennis", Finals - Asia-Pacific Wildcard Playoff - 28 Nov 2025 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764369825~acl=/*~id=26162177313365939766734160631020~hmac=cec2b17d6648a2347bba04948f5ebd1db7a93142dc6b327dc5670838e0cd583a
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764371043~acl=/*~id=43134457759190822937949135979746~hmac=d9b16ef4e94848e8f5a88bd892068428888863d3d0c54ad07be702cd898b4ec3
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
