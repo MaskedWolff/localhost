@@ -5260,9 +5260,6 @@ https://in-mc-fdlive.fancode.com/mumbai/138070_english_hls_18127e6ae235352_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg" group-title="Fancode-Cricket", Trinidad & Tobago Red Force vs Barbados Pride (CG United Super50 Cup, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138059_english_hls_38216a413471243_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138228_5763_AJT_DB_fc-web_1763728590149.png" group-title="Fancode-Cricket", UAE Bulls vs Ajman Titans (Abu Dhabi T10, 2025)
-https://in-mc-fdlive.fancode.com/mumbai/138232_english_hls_e7b17301d282908_1ta-di_h264/index.m3u8
-
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5539,7 +5536,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011513/176336828523435_Bliga2526_MD12_Bayer-Leverkusen-vs-Borussia-Dortmund_12nov__landscape_thumb.jpg" group-title="sonyliv-Football", Bayer Leverkusen vs Borussia Dortmund - MD 12 - 29 Nov 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764484835~acl=/*~id=53991876039044104015297574314792~hmac=b52bc4a6ef14626431e38230114fbafb370100fae99292ad0ee7c07e1fec7956
+https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764485445~acl=/*~id=43499764790984317765560102983873~hmac=5364bddd15fcbf7f7a6330a5ef55fce4a5d1980be81c1f00e21a80c9762a8451
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
