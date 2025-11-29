@@ -5257,11 +5257,14 @@ https://in-mc-fdlive.fancode.com/mumbai/138231_english_hls_e1931d577b79253_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg" group-title="Fancode-Cricket", England Under-19 vs West Indies Under-19 (England Under-19 tour of West Indies, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138041_english_hls_247df7f00026607_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136971_5489_LEI_SHF_fc-web.jpg" group-title="Fancode-Football", Leicester City F.C. vs Sheffield United F.C. (EFL Championship 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/136971_english_hls_ed96f4039917084_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-VS-Al-Fateh-SC_old.jpg" group-title="Fancode-Football", Al Hilal SFC vs Al-Fateh SC (Saudi Kings Cup 2025-2026)
+https://in-mc-fdlive.fancode.com/mumbai/138027_english_hls_b2646aeb0368363_1ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Anda-Lucia_Old_match-card_2.jpg" group-title="Fancode-Golf", Day 3 vs Andalucia, Spain (Andalucia Costa Del Sol Open De Espana 2025)
 https://in-mc-fdlive.fancode.com/mumbai/137197_english_hls_b87cef92fc45166_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136971_5489_LEI_SHF_fc-web.jpg" group-title="Fancode-Football", Leicester City F.C. vs Sheffield United F.C. (EFL Championship 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/136971_english_hls_ed96f4039917084_1ta-di_h264/index.m3u8
 
 # --- Willow Playlist ---
 #EXTM3U
@@ -5539,19 +5542,19 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011434/17629395785273_Bliga2526_MD12_Bayern-Munich-vs-St-Pauli_12nov_landscape_thumb.jpg" group-title="sonyliv-Football", Bayern Munich vs St Pauli - MD 12 - 29 Nov 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764468373~acl=/*~id=51601134979063540258365621531338~hmac=617cff86c486d3288418447628ec7654ccb5a942470dbea021af92669952a9d4
+https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764469596~acl=/*~id=35727824839516537831511117739274~hmac=03e1409067cecb01dc4d40ee416ac59122be8463b614dd7790cb80bcd0d93a4d
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg" group-title="sonyliv-Football", Goal Arena - MD 11 - 29 Nov 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764468373~acl=/*~id=51601134979063540258365621531338~hmac=617cff86c486d3288418447628ec7654ccb5a942470dbea021af92669952a9d4
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764469596~acl=/*~id=35727824839516537831511117739274~hmac=03e1409067cecb01dc4d40ee416ac59122be8463b614dd7790cb80bcd0d93a4d
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011434/17629321629623_Bliga2526_MD12_Union-Berlin-vs-Heidenheim_12nov_landscape_thumb.jpg" group-title="sonyliv-Football", Union Berlin vs Heidenheim - MD 12 - 29 Nov 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764468373~acl=/*~id=51601134979063540258365621531338~hmac=617cff86c486d3288418447628ec7654ccb5a942470dbea021af92669952a9d4
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764469596~acl=/*~id=35727824839516537831511117739274~hmac=03e1409067cecb01dc4d40ee416ac59122be8463b614dd7790cb80bcd0d93a4d
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011434/17629397831443_Bliga2526_MD12_Hoffenheim-vs-FC-Augsburg_12nov_landscape_thumb.jpg" group-title="sonyliv-Football", Hoffenheim vs FC Augsburg - MD 12 - 29 Nov 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764468373~acl=/*~id=51601134979063540258365621531338~hmac=617cff86c486d3288418447628ec7654ccb5a942470dbea021af92669952a9d4
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764469596~acl=/*~id=35727824839516537831511117739274~hmac=03e1409067cecb01dc4d40ee416ac59122be8463b614dd7790cb80bcd0d93a4d
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011434/17629399963793_Bliga2526_MD12_Werder-Bremen-vs-FC-Koln_12nov_landscape_thumb.jpg" group-title="sonyliv-Football", Werder Bremen vs FC Koln - MD 12 - 29 Nov 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764468373~acl=/*~id=51601134979063540258365621531338~hmac=617cff86c486d3288418447628ec7654ccb5a942470dbea021af92669952a9d4
+https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764469596~acl=/*~id=35727824839516537831511117739274~hmac=03e1409067cecb01dc4d40ee416ac59122be8463b614dd7790cb80bcd0d93a4d
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
