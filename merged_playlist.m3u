@@ -5251,6 +5251,9 @@ https://in-mc-fdlive.fancode.com/mumbai/138309_english_hls_6453289b5951143_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138423_5777_CAN_IND_fc-Web.jpg" group-title="Fancode-Hockey", Canada vs India (Sultan Azlan Shah Cup)
 https://in-mc-fdlive.fancode.com/mumbai/138423_english_hls_33282affa888891_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138424_5777_NZ_BEL_fc-Web.jpg" group-title="Fancode-Hockey", New Zealand vs Belgium (Sultan Azlan Shah Cup)
+https://in-mc-fdlive.fancode.com/mumbai/138424_english_hls_75ec0c50ed91554_1ta-di_h264/index.m3u8
+
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5527,7 +5530,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011860/1764262634730621_AO2026_ASIA_PACIFIC_WILDCARD_PLAYOFF_27nov_finals_landscape_thumb.jpg" group-title="sonyliv-Tennis", Finals - Asia-Pacific Wildcard Playoff - 29 Nov 2025 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764445253~acl=/*~id=72253950052292379985311068200473~hmac=d31ee84e26cf6c805eacf26236f90bdd443459a64b6dfe5ba2423e965627b606
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764445860~acl=/*~id=42429408642462615673728247995147~hmac=e9f24c58a6b81670564cc8c55485aba83fbd3ea3497c91d6cb5c200c38478562
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
