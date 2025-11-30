@@ -5245,11 +5245,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR-AIRWAYS-QATAR-GRAND-PRIX-2025-old-match-card.png" group-title="Fancode-Formula 1", Race vs Qatar (F1 QATAR AIRWAYS QATAR GRAND PRIX 2025)
 https://db5zt1c7xktt3.cloudfront.net/out/v1/a621359be29f4747b8c0635e4f6c41f4/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130966_5427_SEV_RB_fc-Web.jpg" group-title="Fancode-Football", Sevilla FC vs Real Betis (LALIGA 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/130966_english_hls_94e0764f5d50366_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130969_5427_CEV_ESL_fc-Web.jpg" group-title="Fancode-Football", RC Celta vs RCD Espanyol (LALIGA 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/130969_english_hls_945695c3be75736_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130966_5427_SEV_RB_fc-Web.jpg" group-title="Fancode-Football", Sevilla FC vs Real Betis (LALIGA 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/130966_english_hls_94e0764f5d50366_1ta-di_h264/index.m3u8
 
 # --- Willow Playlist ---
 #EXTM3U
@@ -5527,7 +5527,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011513/176337310163335_Bliga2526_MD12_Eintracht-Frankfurt-vs-VfL-Wolfsburg_12nov_landscape_thumb.jpg" group-title="sonyliv-Football", Eintracht Frankfurt vs VfL Wolfsburg - MD 12 - 30 Nov 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764566352~acl=/*~id=73512788246304442482170547307635~hmac=350047ce3efea68d8b3ed0e105a09b9d9627e84c92924628c9d90db75733827e
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764566961~acl=/*~id=57348059794555040372419563655181~hmac=9dd8669513783656a2ad7d8af3cdec1aca5f613f013322ec625d3bf354718dcf
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
