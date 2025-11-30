@@ -5251,12 +5251,6 @@ https://in-mc-fdlive.fancode.com/mumbai/138234_english_hls_ea6d09dcc85340_1ta-di
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130966_5427_SEV_RB_fc-Web.jpg" group-title="Fancode-Football", Sevilla FC vs Real Betis (LALIGA 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/130966_english_hls_94e0764f5d50366_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Anda-Lucia_Old_match-card_2.jpg" group-title="Fancode-Golf", Day 4 vs Andalucia, Spain (Andalucia Costa Del Sol Open De Espana 2025)
-https://in-mc-fdlive.fancode.com/mumbai/137198_english_hls_48cd739f0748161_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130963_5427_RS_VIL_fc-Web.jpg" group-title="Fancode-Football", Real Sociedad vs Villarreal CF (LALIGA 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/130963_english_hls_a9ceb8708f85727_1ta-di_h264/index.m3u8
-
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5533,7 +5527,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011513/176337201980035_Bliga2526_MD12_Hamburg-SV-vs-VfB-Stuttgart_12nov_landscape_thumb.jpg" group-title="sonyliv-Football", Hamburger SV vs VfB Stuttgart - MD 12 - 30 Nov 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764559636~acl=/*~id=40313462564367221991882994246512~hmac=25eba8c98276f8e26aaf4c76bfd4f6795284b480f7e3df7f51c7813ce9c6b1f6
+https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764560257~acl=/*~id=31172221895171978200512777071949~hmac=f6e326c7c2e8c1ea5fff2bca9753ca0c6595d9e1d7480fcb90e981ad06344841
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
