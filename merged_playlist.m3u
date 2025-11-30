@@ -5257,6 +5257,9 @@ https://in-mc-fdlive.fancode.com/mumbai/138072_english_hls_7fa992dab119799_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Anda-Lucia_Old_match-card_2.jpg" group-title="Fancode-Golf", Day 4 vs Andalucia, Spain (Andalucia Costa Del Sol Open De Espana 2025)
 https://in-mc-fdlive.fancode.com/mumbai/137198_english_hls_48cd739f0748161_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR-AIRWAYS-QATAR-GRAND-PRIX-2025-old-match-card.png" group-title="Fancode-Formula 1", Race vs Qatar (F1 QATAR AIRWAYS QATAR GRAND PRIX 2025)
+https://db5zt1c7xktt3.cloudfront.net/out/v1/a621359be29f4747b8c0635e4f6c41f4/index.m3u8
+
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5532,6 +5535,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1764505802~acl=/*~id=b08a8cabc4e079bb35a1271e702d2221-1764462600111~hmac=64bd6052cff74860afca051eb046ba9c96b2287ff507c9db624c7182f9a01d24
 # --- Sonyliv Events Playlist ---
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011513/176337201980035_Bliga2526_MD12_Hamburg-SV-vs-VfB-Stuttgart_12nov_landscape_thumb.jpg" group-title="sonyliv-Football", Hamburger SV vs VfB Stuttgart - MD 12 - 30 Nov 2025 [ENG] - Bundesliga 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764554761~acl=/*~id=82180424211580235766975928466395~hmac=d7b459f8203409d05e4d6013ebd7148e094d1320cd7bb712c5fe8b21cd3ee826
+
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
