@@ -5245,11 +5245,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR-AIRWAYS-QATAR-GRAND-PRIX-2025-old-match-card.png" group-title="Fancode-Formula 1", Race vs Qatar (F1 QATAR AIRWAYS QATAR GRAND PRIX 2025)
 https://db5zt1c7xktt3.cloudfront.net/out/v1/a621359be29f4747b8c0635e4f6c41f4/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138226_5763_DB_AST_fc-web_1763729430464.png" group-title="Fancode-Cricket", UAE Bulls vs Aspin Stallions (Abu Dhabi T10, 2025)
-https://in-mc-fdlive.fancode.com/mumbai/138234_english_hls_ea6d09dcc85340_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130966_5427_SEV_RB_fc-Web.jpg" group-title="Fancode-Football", Sevilla FC vs Real Betis (LALIGA 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/130966_english_hls_94e0764f5d50366_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138226_5763_DB_AST_fc-web_1763729430464.png" group-title="Fancode-Cricket", UAE Bulls vs Aspin Stallions (Abu Dhabi T10, 2025)
+https://in-mc-fdlive.fancode.com/mumbai/138234_english_hls_ea6d09dcc85340_1ta-di_h264/index.m3u8
 
 # --- Willow Playlist ---
 #EXTM3U
@@ -5526,8 +5526,11 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1764559636~acl=/*~id=40313462564367221991882994246512~hmac=25eba8c98276f8e26aaf4c76bfd4f6795284b480f7e3df7f51c7813ce9c6b1f6
 # --- Sonyliv Events Playlist ---
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011513/176337310163335_Bliga2526_MD12_Eintracht-Frankfurt-vs-VfL-Wolfsburg_12nov_landscape_thumb.jpg" group-title="sonyliv-Football", Eintracht Frankfurt vs VfL Wolfsburg - MD 12 - 30 Nov 2025 [ENG] - Bundesliga 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764562086~acl=/*~id=22300021341889006896360098482169~hmac=8c3cf933181013551dc371b6ed81af876b7814a81511fff8c07eccbeb838cd54
+
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011513/176337201980035_Bliga2526_MD12_Hamburg-SV-vs-VfB-Stuttgart_12nov_landscape_thumb.jpg" group-title="sonyliv-Football", Hamburger SV vs VfB Stuttgart - MD 12 - 30 Nov 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764560868~acl=/*~id=88325032576909352564328410208471~hmac=7c12443681e9bdb41dba558e30d4a65674d81b172eb120fc471a2fa5767e10ce
+https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764562086~acl=/*~id=22300021341889006896360098482169~hmac=8c3cf933181013551dc371b6ed81af876b7814a81511fff8c07eccbeb838cd54
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
