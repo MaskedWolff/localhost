@@ -1,8 +1,12 @@
 #EXTM3U
 # --- JStar Playlist ---
+<br />
+<b>Warning</b>:  file_get_contents(): php_network_getaddresses: getaddrinfo for play.yuvraj.news failed: Temporary failure in name resolution in <b>/www/wwwroot/play.yuvraj.news/apix824/jstar/playlist.php</b> on line <b>6</b><br />
+<br />
+<b>Warning</b>:  file_get_contents(https://play.yuvraj.news/jio/cookie.php): Failed to open stream: php_network_getaddresses: getaddrinfo for play.yuvraj.news failed: Temporary failure in name resolution in <b>/www/wwwroot/play.yuvraj.news/apix824/jstar/playlist.php</b> on line <b>6</b><br />
 #EXTM3U
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-#Generated on 1764587368
+#Generated on 1764626888
 
 #EXTINF:-1 tvg-id="1373" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png",Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5248,9 +5252,6 @@ https://in-mc-fdlive.fancode.com/mumbai/130962_english_hls_10f4b6cb7720040_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg" group-title="Fancode-Cricket", New Zealand vs West Indies (West Indies tour of New Zealand, 2025)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1764667454~acl=/*~id=01917088425951532260787223407461~hmac=97659f4db48ee7ee783a94e3310c553b670b8a6ad4581fd29855c9fe0c4fffd8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Birmingham-City-F.C.-VS-Watford-F.C._old.jpg" group-title="Fancode-Football", Birmingham City F.C. vs Watford F.C. (EFL Championship 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/136970_english_hls_2d1d5ed77d19960_1ta-di_h264/index.m3u8
-
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5527,7 +5528,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011927/1764507798698522_NZvsWI25_1st_test_day1_30nov_landscape_thumb.jpg" group-title="sonyliv-Cricket", 1st Test - Day 1 - 2 Dec 2025 [ENG] - West Indies Tour of New Zealand 2025
-https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764669123~acl=/*~id=05674707413614147854517141822986~hmac=e6e500bab2ffd82b63ec13240439ffa6d3635abcec9dabeb0b3ba0ede588cffa
+https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764670340~acl=/*~id=55474561248374623484919535599484~hmac=976c74070701b4e0f5fd1f613e758809adf50a86480838087eca6ae1aa4ebe87
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
