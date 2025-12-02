@@ -2,7 +2,7 @@
 # --- JStar Playlist ---
 #EXTM3U
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-#Generated on 1764636356
+#Generated on 1764673738
 
 #EXTINF:-1 tvg-id="1373" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png",Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5242,11 +5242,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?&xxx=%7
 
 # --- Fancode Playlist ---
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IRE-vs-BAN_old.jpg" group-title="Fancode-Cricket", Ireland vs Bangladesh (Ireland tour of Bangladesh, 2025)
-https://in-mc-fdlive.fancode.com/mumbai/138241_english_hls_4e52e6bfe264990_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138313_5771_PKA_KNY_FC-Web_1764576118853.jpg" group-title="Fancode-Cricket", Pokhara Avengers vs Karnali Yaks (Nepal Premier League, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138313_english_hls_c269d77b6446709_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IRE-vs-BAN_old.jpg" group-title="Fancode-Cricket", Ireland vs Bangladesh (Ireland tour of Bangladesh, 2025)
+https://in-mc-fdlive.fancode.com/mumbai/138241_english_hls_4e52e6bfe264990_1ta-di_h264/index.m3u8
 
 # --- Willow Playlist ---
 #EXTM3U
