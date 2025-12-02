@@ -5251,6 +5251,9 @@ https://in-mc-fdlive.fancode.com/mumbai/133942_english_hls_924fd5469f81107_1ta-d
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/138461_CASACARDS_APP.png" group-title="Fancode-Cricket", Bahrain vs Thailand (Mini SEA Games Men's T10, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138461_english_hls_3af390809849774_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138312_5771_JKB_CWR_FC-Web_1764576119656.jpg" group-title="Fancode-Cricket", Chitwan Rhinos vs Janakpur Bolts (Nepal Premier League, 2025)
+https://in-mc-fdlive.fancode.com/mumbai/138312_english_hls_0045c9ba337372_1ta-di_h264/index.m3u8
+
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5527,7 +5530,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011927/1764507798698522_NZvsWI25_1st_test_day1_30nov_landscape_thumb.jpg" group-title="sonyliv-Cricket", 1st Test - Day 1 - 2 Dec 2025 [ENG] - West Indies Tour of New Zealand 2025
-https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764697076~acl=/*~id=36275484634464286502301444511092~hmac=7ada56c52bf7215ff3176850cc24dcf6b2c930d679c8fb34ffe7b75a5f0f73f3
+https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764698290~acl=/*~id=16515887136751553776128808487275~hmac=b357b580d30546ca855604a8de3119cbb866b1a6b1c5f06dc9cdc142cf24d8ae
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
