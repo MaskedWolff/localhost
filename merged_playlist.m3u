@@ -5524,7 +5524,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011927/1764507823708522_NZvsWI25_1st_test_day2_30nov_landscape_thumb.jpg" group-title="sonyliv-Cricket", 1st Test - Day 2 - 3 Dec 2025 [ENG] - West Indies Tour of New Zealand 2025
-https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764783960~acl=/*~id=43878559496529254504967775995993~hmac=4a77eae8f7d63bcc0ab0e4da663b7fbf3168da622a6e0b1870b360dc847d1e41
+https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764785176~acl=/*~id=34977111612527850446724489241261~hmac=59378fecd29448e8567c0b8f1ba98dfd30fedf45e5e7cf233a2e4270f11f69cb
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
