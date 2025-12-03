@@ -5243,7 +5243,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?&xxx=%7
 # --- Fancode Playlist ---
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg" group-title="Fancode-Cricket", New Zealand vs West Indies (West Indies tour of New Zealand, 2025)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1764754128~acl=/*~id=66471231334051792038754673953431~hmac=b0e295ed0672c509d5b7b3b783cd0d0e4825b683a38194c9c0176bf19bf2e8d9
+https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1764783421~acl=/*~id=81685836825935475497961191738724~hmac=42450af8d4276795805b91cee454b6b78a8baa91e766b4a2a059a816064665ed
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-China-Women's-Tour-of-Malaysia_old.jpg" group-title="Fancode-Cricket", Hong Kong, China Women vs Malaysia Women (Hong Kong, China Women tour of Malaysia, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138660_english_hls_9abf7d4a6b73740_1ta-di_h264/index.m3u8
@@ -5524,7 +5524,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011927/1764507823708522_NZvsWI25_1st_test_day2_30nov_landscape_thumb.jpg" group-title="sonyliv-Cricket", 1st Test - Day 2 - 3 Dec 2025 [ENG] - West Indies Tour of New Zealand 2025
-https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764782133~acl=/*~id=36354115088076448548563160969766~hmac=41dc2f20dd151da0ff037d8b2c0aed4181fa59494c8274be31e201cfd3420047
+https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764783351~acl=/*~id=84903304160037599474497933333361~hmac=eb18c99889ecc92930ee8d92f39cc1883b43de67e9042ae4fa87ee24bc064e0d
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
