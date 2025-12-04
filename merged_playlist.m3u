@@ -5242,6 +5242,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg" group-title="Fancode-Cricket", New Zealand vs West Indies (West Indies tour of New Zealand, 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1764926954~acl=/*~id=43906148371958557398158050451474~hmac=5dce187d38b040a8442095284d71c5c5219d8379990256b6e14972f5e1d64a45
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hero-World-Challenge_Old-Match-Card.jpg" group-title="Fancode-Golf", Day 1 vs Albany GC (Hero World Challenge)
 https://in-mc-fdlive.fancode.com/mumbai/138276_english_hls_eeee0f749c32127_1ta-di_h264/index.m3u8
 
@@ -5521,7 +5524,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011927/1764507867350522_NZvsWI25_1st_test_day4_30nov_landscape_thumb.jpg" group-title="sonyliv-Cricket", 1st Test - Day 4 - 5 Dec 2025 [ENG] - West Indies Tour of New Zealand 2025
-https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1764926204~acl=/*~id=63291393444763619393601544459544~hmac=3086bd255d2f82135ac4f14673312a8287dd79a750497327fa91d280c29f032e
+https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1764926813~acl=/*~id=19198441574560527168762988947735~hmac=d3f23c993109ae6549d90a96032bc6633b75d088f3789d8c1b12ddc4cfd9378f
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
