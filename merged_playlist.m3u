@@ -5242,6 +5242,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130976_5427_RO_MRC_fc-Web.jpg" group-title="Fancode-Football", Real Oviedo vs RCD Mallorca (LALIGA 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/130976_english_hls_e133ddf3d129241_1ta-di_h264/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Skechers-World-Champions-Cup_Old-Match-Card.png" group-title="Fancode-Golf", Day 2 vs United States (Skechers World Champions Cup)
 https://in-mc-fdlive.fancode.com/mumbai/138681_english_hls_b3a6bc363277119_1ta-di_h264/index.m3u8
 
@@ -5524,7 +5527,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011783/1764076038534870_Bundesliga_MD13_Mainz_vs_BorussiaMgladbach_landscape_thumb.jpg" group-title="sonyliv-Football", Mainz vs Borussia M'gladbach - MD 13 - 6 Dec 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765005914~acl=/*~id=78360049399798777592614934900181~hmac=c54b145d7f8d6f2dac81a2168171328c552226c2329922ba595084d83a9a4822
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765006524~acl=/*~id=96517621439647415652327810421005~hmac=d088ba7a393659fac39737fec63eb12a2dd62f0284954b856b4f98e428d7b79e
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
