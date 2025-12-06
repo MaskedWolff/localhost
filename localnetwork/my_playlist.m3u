@@ -216,7 +216,8 @@ http://192.168.1.3:5350/live/1450.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.1.3:5350/jtvimage/Color_Cineplex_HD.png" group-title="MOVIES HINDI", Colors Cineplex HD
 http://192.168.1.3:5350/live/1477.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.1.3:5350/jtvimage/ANN_News.png" group-title="NEWS HINDI", ANN News
-http://192.168.1.3:5350/live/1699.m3u8
+http://118.91.191.190:81/live/1699.m3u8
+#http://192.168.1.3:5350/live/1699.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.1.3:5350/jtvimage/Colors_Cineplex_Bollywood.png" group-title="MOVIES HINDI", Colors Cineplex Bollywood
 http://192.168.1.3:5350/live/1763.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.1.3:5350/jtvimage/Times_Now_Navbharat.png" group-title="NEWS HINDI", Times Now Navbharat
