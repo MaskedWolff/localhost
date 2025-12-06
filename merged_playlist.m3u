@@ -5248,23 +5248,20 @@ https://d35ky0yx76u70r.cloudfront.net/out/v1/0018736122654365be4cf5e7dfdbcc0b/in
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138627_5786_DC_GG_FC-Web.jpg" group-title="Fancode-Cricket", Dubai Capitals vs Gulf Giants (DP World ILT20 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/138627_english_hls_73a9e8a2fd15196_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130974_5427_VIL_GEF_fc-Web.jpg" group-title="Fancode-Football", Villarreal CF vs Getafe CF (LALIGA 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/130974_english_hls_c2e76a2f8322730_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bristol-City-VS-Millwall_old.jpg" group-title="Fancode-Football", Bristol City F.C. vs Millwall F.C. (EFL Championship 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/136974_english_hls_f4e1b6059537880_1ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130978_5427_ALA_RS_fc-Web.jpg" group-title="Fancode-Football", Deportivo Alaves vs Real Sociedad (LALIGA 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/130978_english_hls_09def18c9647025_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/138266_CASACARDS_APP.png" group-title="Fancode-Football", Huesca vs Real Valladolid (LALIGA Hypermotion 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/138266_english_hls_bc94c4cf6777896_1ta-di_h264/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nedbank-Golf-Challenge_2025_Old_match-cards.jpg" group-title="Fancode-Golf", Day 3 vs Sun City, South Africa (Nedbank Golf Challenge in honour of Gary Player)
 https://in-mc-fdlive.fancode.com/mumbai/138674_english_hls_7b47ff6fec24460_1ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ISRL_Old_match-card_2_1764661126526.jpg" group-title="Fancode-Motorsports", Indian Supercross Racing League vs Hyderabad (Indian Supercross Racing League)
 https://in-mc-fdlive.fancode.com/mumbai/138662_english_hls_9c11adf4eb97375_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Derby-County-VS-Leicester-City_old.jpg" group-title="Fancode-Football", Derby County Football Club vs Leicester City F.C. (EFL Championship 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/136975_english_hls_a9eb233ec5601_1ta-di_h264/index.m3u8
 
 # --- Willow Playlist ---
 #EXTM3U
@@ -5542,22 +5539,22 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011783/1764077502244870_Bundesliga_MD13_VfB-Stuttgart_vs_Bayern-Munich_landscape_thumb.jpg" group-title="sonyliv-Football", VfB Stuttgart vs Bayern Munich - MD 13 - 6 Dec 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765077379~acl=/*~id=65281470226631633831785120575393~hmac=f71965c2394f5a67825c7558513c973c1ea3e381eabd3806e6f6a2901c1f12c4
+https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765077996~acl=/*~id=17340373997530393438771849432708~hmac=6a73a7707eb143619e23193562ad56ae01d28574f501ad1005e26f31e7e2f1e1
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011783/1764076598835870_Bundesliga_MD13_FC_Augsburg_vs_BayerLeverkusen_landscape_thumb.jpg" group-title="sonyliv-Football", FC Augsburg vs Bayer Leverkusen - MD 13 - 6 Dec 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765077379~acl=/*~id=65281470226631633831785120575393~hmac=f71965c2394f5a67825c7558513c973c1ea3e381eabd3806e6f6a2901c1f12c4
+https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765077996~acl=/*~id=17340373997530393438771849432708~hmac=6a73a7707eb143619e23193562ad56ae01d28574f501ad1005e26f31e7e2f1e1
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg" group-title="sonyliv-Football", Goal Arena - MD 13 - 6 Dec 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765077379~acl=/*~id=65281470226631633831785120575393~hmac=f71965c2394f5a67825c7558513c973c1ea3e381eabd3806e6f6a2901c1f12c4
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765077996~acl=/*~id=17340373997530393438771849432708~hmac=6a73a7707eb143619e23193562ad56ae01d28574f501ad1005e26f31e7e2f1e1
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011783/1764076318989870_Bundesliga_MD13_Heidenheim_vs_SC_Freiburg_landscape_thumb.jpg" group-title="sonyliv-Football", Heidenheim vs SC Freiburg - MD 13 - 6 Dec 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765077379~acl=/*~id=65281470226631633831785120575393~hmac=f71965c2394f5a67825c7558513c973c1ea3e381eabd3806e6f6a2901c1f12c4
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765077996~acl=/*~id=17340373997530393438771849432708~hmac=6a73a7707eb143619e23193562ad56ae01d28574f501ad1005e26f31e7e2f1e1
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011783/1764077160567870_Bundesliga_MD13_FC_Koln_vs_St_Pauli_landscape_thumb.jpg" group-title="sonyliv-Football", FC Koln vs St. Pauli - MD 13 - 6 Dec 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765077379~acl=/*~id=65281470226631633831785120575393~hmac=f71965c2394f5a67825c7558513c973c1ea3e381eabd3806e6f6a2901c1f12c4
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765077996~acl=/*~id=17340373997530393438771849432708~hmac=6a73a7707eb143619e23193562ad56ae01d28574f501ad1005e26f31e7e2f1e1
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011801/1764133243276656_Bundesliga_MD13_VfL_Wolfsburg_vs_UnionBerlin_landscape_thumb.jpg" group-title="sonyliv-Football", VfL Wolfsburg vs Union Berlin - MD 13 - 6 Dec 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765077379~acl=/*~id=65281470226631633831785120575393~hmac=f71965c2394f5a67825c7558513c973c1ea3e381eabd3806e6f6a2901c1f12c4
+https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765077996~acl=/*~id=17340373997530393438771849432708~hmac=6a73a7707eb143619e23193562ad56ae01d28574f501ad1005e26f31e7e2f1e1
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
