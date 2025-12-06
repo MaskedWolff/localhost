@@ -5269,9 +5269,6 @@ https://in-mc-fdlive.fancode.com/mumbai/138668_english_hls_f7b9192f5d93582_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/2025-Crown-Australian-Open_Old-Match-Card.png" group-title="Fancode-Golf", Day 3 vs Melbourne, Australia (Crown Australian Open 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138616_english_hls_a310dcd84d76035_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg" group-title="Fancode-Cricket", New Zealand vs West Indies (West Indies tour of New Zealand, 2025)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1765042484~acl=/*~id=35496525545581733037183133762951~hmac=3eadd76286a3bdfaa9c2274ba6c944877457dd29fd13debdcd9b3a89f7dc024e
-
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5547,9 +5544,6 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1765041861~acl=/*~id=97539761924314539453908238571748~hmac=d074e9e9222476b510b1695cb882150a9c56e8c5284d17a8226a8d3918d01ca2
 # --- Sonyliv Events Playlist ---
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011927/1764507875506522_NZvsWI25_1st_test_day5_30nov_landscape_thumb.jpg" group-title="sonyliv-Cricket", 1st Test - Day 5 - 6 Dec 2025 [ENG] - West Indies Tour of New Zealand 2025
-https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765043080~acl=/*~id=45901137821835263123835942347159~hmac=b7d445093ce04dad359b13bcf8fd64fe02373dff473a5bb9648e332294bff2c5
-
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
