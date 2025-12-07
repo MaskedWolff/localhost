@@ -5242,9 +5242,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138629_5786_DC_ADKR_FC-Web.jpg" group-title="Fancode-Cricket", Dubai Capitals vs Abu Dhabi Knight Riders (DP World ILT20 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/138629_english_hls_bf0bb1a94940238_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130971_5427_ESL_RVL_fc-Web.jpg" group-title="Fancode-Football", RCD Espanyol vs Rayo Vallecano (LALIGA 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/130971_english_hls_a92a66d66494781_1ta-di_h264/index.m3u8
 
@@ -5533,7 +5530,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011801/1764134575640656_Bundesliga_MD13_BorussiaDortmund_vs_Hoffenheim_landscape_thumb.jpg" group-title="sonyliv-Football", Borussia Dortmund vs Hoffenheim - MD 13 - 7 Dec 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765173074~acl=/*~id=34701867712698993499826463801631~hmac=edf48e5677935538ecb0580b0de322245d82242a2e2929d58b984eea125818ff
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765174293~acl=/*~id=97558976993091943960347642056160~hmac=45d6e4b369871c3e2bb4e9a923ff1a3933386248e63b7f06ec19ef09645dd8d1
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
