@@ -5524,16 +5524,16 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011990/1764725440085261_UFC323_3dec_clean_landscape_thumb.jpg" group-title="sonyliv-Fight Sports", UFC 323 - Dvalishvili vs Yan 2 - 7 Dec 2025 [ENG] - UFC 323 - Dvalishvili vs Yan 2
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765131656~acl=/*~id=60321331264279200807838925862144~hmac=ac0d7c55f5ad99d36c0d1dbe2e950ad758c543ed816ede45be015ae0963f8c94
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765132885~acl=/*~id=40665645495173624887256034614350~hmac=89ceecfe3dba1f0eb61e2c0a33f0b33f21f52134488676a92972c2b884ec7d93
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011990/1764725440085261_UFC323_3dec_clean_landscape_thumb.jpg" group-title="sonyliv-Fight Sports", UFC 323 - Dvalishvili vs Yan 2 - 7 Dec 2025 [HIN] - UFC 323 - Dvalishvili vs Yan 2
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765131656~acl=/*~id=60321331264279200807838925862144~hmac=ac0d7c55f5ad99d36c0d1dbe2e950ad758c543ed816ede45be015ae0963f8c94
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765132885~acl=/*~id=40665645495173624887256034614350~hmac=89ceecfe3dba1f0eb61e2c0a33f0b33f21f52134488676a92972c2b884ec7d93
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011990/1764725440085261_UFC323_3dec_clean_landscape_thumb.jpg" group-title="sonyliv-Fight Sports", UFC 323 - Dvalishvili vs Yan 2 - 7 Dec 2025 [TAM] - UFC 323 - Dvalishvili vs Yan 2
-https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765131656~acl=/*~id=60321331264279200807838925862144~hmac=ac0d7c55f5ad99d36c0d1dbe2e950ad758c543ed816ede45be015ae0963f8c94
+https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765132885~acl=/*~id=40665645495173624887256034614350~hmac=89ceecfe3dba1f0eb61e2c0a33f0b33f21f52134488676a92972c2b884ec7d93
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011990/1764725440085261_UFC323_3dec_clean_landscape_thumb.jpg" group-title="sonyliv-Fight Sports", UFC 323 - Dvalishvili vs Yan 2 - 7 Dec 2025 [TEL] - UFC 323 - Dvalishvili vs Yan 2
-https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765131656~acl=/*~id=60321331264279200807838925862144~hmac=ac0d7c55f5ad99d36c0d1dbe2e950ad758c543ed816ede45be015ae0963f8c94
+https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765132885~acl=/*~id=40665645495173624887256034614350~hmac=89ceecfe3dba1f0eb61e2c0a33f0b33f21f52134488676a92972c2b884ec7d93
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
