@@ -5242,9 +5242,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134030_5609_NSW_QUN_fc-Web.jpg" group-title="Fancode-Cricket", New South Wales vs Queensland (Sheffield Shield, 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/134030_english_hls_9444508c2d71023_1ta-di_h264/index.m3u8
-
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5521,16 +5518,16 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011990/1764725440085261_UFC323_3dec_clean_landscape_thumb.jpg" group-title="sonyliv-Fight Sports", UFC 323 - Dvalishvili vs Yan 2 - 7 Dec 2025 [ENG] - UFC 323 - Dvalishvili vs Yan 2
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765134724~acl=/*~id=74634208682737916048476560406456~hmac=f8b41e5413731e6c24355152af2ed47322040e2e70e9d7692e200ff44ce3cc9a
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765135335~acl=/*~id=12924479291149914744694703282307~hmac=888d763cdf6fc7cebc14388c036e80e8d86efb35d1dc92676d55f43dc698d43d
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011990/1764725440085261_UFC323_3dec_clean_landscape_thumb.jpg" group-title="sonyliv-Fight Sports", UFC 323 - Dvalishvili vs Yan 2 - 7 Dec 2025 [HIN] - UFC 323 - Dvalishvili vs Yan 2
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765134724~acl=/*~id=74634208682737916048476560406456~hmac=f8b41e5413731e6c24355152af2ed47322040e2e70e9d7692e200ff44ce3cc9a
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765135335~acl=/*~id=12924479291149914744694703282307~hmac=888d763cdf6fc7cebc14388c036e80e8d86efb35d1dc92676d55f43dc698d43d
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011990/1764725440085261_UFC323_3dec_clean_landscape_thumb.jpg" group-title="sonyliv-Fight Sports", UFC 323 - Dvalishvili vs Yan 2 - 7 Dec 2025 [TAM] - UFC 323 - Dvalishvili vs Yan 2
-https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765134724~acl=/*~id=74634208682737916048476560406456~hmac=f8b41e5413731e6c24355152af2ed47322040e2e70e9d7692e200ff44ce3cc9a
+https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765135335~acl=/*~id=12924479291149914744694703282307~hmac=888d763cdf6fc7cebc14388c036e80e8d86efb35d1dc92676d55f43dc698d43d
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011990/1764725440085261_UFC323_3dec_clean_landscape_thumb.jpg" group-title="sonyliv-Fight Sports", UFC 323 - Dvalishvili vs Yan 2 - 7 Dec 2025 [TEL] - UFC 323 - Dvalishvili vs Yan 2
-https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765134724~acl=/*~id=74634208682737916048476560406456~hmac=f8b41e5413731e6c24355152af2ed47322040e2e70e9d7692e200ff44ce3cc9a
+https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765135335~acl=/*~id=12924479291149914744694703282307~hmac=888d763cdf6fc7cebc14388c036e80e8d86efb35d1dc92676d55f43dc698d43d
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
