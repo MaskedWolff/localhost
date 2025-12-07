@@ -5248,6 +5248,9 @@ https://in-mc-fdlive.fancode.com/mumbai/138629_english_hls_bf0bb1a94940238_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130977_5427_VAL_SEV_fc-Web.jpg" group-title="Fancode-Football", Valencia CF vs Sevilla FC (LALIGA 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/130977_english_hls_5145e8e00c7962_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130971_5427_ESL_RVL_fc-Web.jpg" group-title="Fancode-Football", RCD Espanyol vs Rayo Vallecano (LALIGA 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/130971_english_hls_a92a66d66494781_1ta-di_h264/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-AbuDhabi_Old_match-card.jpg" group-title="Fancode-Formula 1", Race vs Abu Dhabi (F1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2025)
 https://de8b7342suh9u.cloudfront.net/out/v1/9cc25569a4144c088b891c592fbc5112/index.m3u8
 
@@ -5533,7 +5536,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011801/1764134575640656_Bundesliga_MD13_BorussiaDortmund_vs_Hoffenheim_landscape_thumb.jpg" group-title="sonyliv-Football", Borussia Dortmund vs Hoffenheim - MD 13 - 7 Dec 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765169418~acl=/*~id=79073733867974036866655156286647~hmac=8add1d47a14496c32d07d6b4e5738306de45c1a88753ed15c7269a67f8e79a2d
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765170637~acl=/*~id=72337134798329640291166433319568~hmac=11a47d4c3f7aba434609f81761324e78eba0e56312f8eb1b302814156c6ce45d
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
