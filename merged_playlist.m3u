@@ -5241,11 +5241,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1765192160~exp=1765278560~acl=/*~hmac=cb19233758cec5d6ac64d50c8a586e9eeccac1dda873a36cc9bb9d27b7dd28f4&xxx=%7Ccookie=__hdnea__=st=1765192160~exp=1765278560~acl=/*~hmac=cb19233758cec5d6ac64d50c8a586e9eeccac1dda873a36cc9bb9d27b7dd28f4
 
 # --- Fancode Playlist ---
-#EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138630_5786_DV_GG_FC-Web.jpg" group-title="Fancode-Cricket", Gulf Giants vs Desert Vipers (DP World ILT20 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/138630_english_hls_c096f3622151528_1ta-di_h264/index.m3u8
-
-# --- Willow Playlist ---
+cURL Error #:Could not resolve host: www.fancode.com# --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
 #EXTM3U
