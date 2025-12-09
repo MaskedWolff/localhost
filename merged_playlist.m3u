@@ -5245,9 +5245,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg" group-title="Fancode-Cricket", West Indies vs New Zealand (West Indies tour of New Zealand, 2025)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1765359103~acl=/*~id=84509112903541907128534083317356~hmac=1424283d11ae400332e1d46a8451d0e063d48b7cff5f7bce377ab1b17263fb32
 
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v2/137593_CASACARDS_APP.png" group-title="Fancode-Football", Paris Saint-Germain Women vs Oud-Heverlee Leuven Women (UEFA Women's Champions League 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/137593_english_hls_f119899e3c73842_1ta-di_h264/index.m3u8
-
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5524,19 +5521,19 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011784/1764078330341284_UCL_25_26_MD6_Inter-vs-Liverpool_landscape_thumb.jpg" group-title="sonyliv-Football", Inter vs Liverpool - MD 6 - 10 Dec 2025 [ENG] - UEFA Champions League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765361882~acl=/*~id=96503318434907432660720020494713~hmac=f2fcb8385dde22e0739368f50ce1ac163b52baf57a881cabeed2281025b093c9
+https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765363099~acl=/*~id=58427494772489812754405629551084~hmac=55413ece559136b3799ba8f6902489a1ffe8c2504c3d2afdb2a3986cacf1a441
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011784/1764078330341284_UCL_25_26_MD6_Inter-vs-Liverpool_landscape_thumb.jpg" group-title="sonyliv-Football", Inter vs Liverpool - MD 6 - 10 Dec 2025 [HIN] - UEFA Champions League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765361882~acl=/*~id=96503318434907432660720020494713~hmac=f2fcb8385dde22e0739368f50ce1ac163b52baf57a881cabeed2281025b093c9
+https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765363099~acl=/*~id=58427494772489812754405629551084~hmac=55413ece559136b3799ba8f6902489a1ffe8c2504c3d2afdb2a3986cacf1a441
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011784/1764078330341284_UCL_25_26_MD6_Inter-vs-Liverpool_landscape_thumb.jpg" group-title="sonyliv-Football", Inter vs Liverpool - MD 6 - 10 Dec 2025 [TAM] - UEFA Champions League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765361882~acl=/*~id=96503318434907432660720020494713~hmac=f2fcb8385dde22e0739368f50ce1ac163b52baf57a881cabeed2281025b093c9
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765363099~acl=/*~id=58427494772489812754405629551084~hmac=55413ece559136b3799ba8f6902489a1ffe8c2504c3d2afdb2a3986cacf1a441
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011784/1764078330341284_UCL_25_26_MD6_Inter-vs-Liverpool_landscape_thumb.jpg" group-title="sonyliv-Football", Inter vs Liverpool - MD 6 - 10 Dec 2025 [TEL] - UEFA Champions League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765361882~acl=/*~id=96503318434907432660720020494713~hmac=f2fcb8385dde22e0739368f50ce1ac163b52baf57a881cabeed2281025b093c9
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765363099~acl=/*~id=58427494772489812754405629551084~hmac=55413ece559136b3799ba8f6902489a1ffe8c2504c3d2afdb2a3986cacf1a441
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012144/1765255330712892_NZvsWI25_2nd_test_day1_9dec_landscape_thumb.jpg" group-title="sonyliv-Cricket", 2nd Test - Day 1 - 10 Dec 2025 [ENG] - West Indies Tour of New Zealand 2025
-https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765361882~acl=/*~id=96503318434907432660720020494713~hmac=f2fcb8385dde22e0739368f50ce1ac163b52baf57a881cabeed2281025b093c9
+https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765363099~acl=/*~id=58427494772489812754405629551084~hmac=55413ece559136b3799ba8f6902489a1ffe8c2504c3d2afdb2a3986cacf1a441
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
