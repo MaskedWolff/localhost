@@ -5245,6 +5245,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ability-sports-league_old-match-card.jpg" group-title="Fancode-Cricket", Delhi Dominators vs Lucknow Stallions (Ability Sports League 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138702_english_hls_29eca8ba5533740_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/OMAN-vs-Qatar-web.jpg" group-title="Fancode-Cricket", Oman Women vs Qatar Women (Oman Women's T20I Triangular Series, 2025)
+https://fancode-dlt-adns.airteledge.in/mum-airtel-origin/138711_english_hls_ddee0c3bfe53480_1ta-di_h264/index.m3u8
+
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5520,6 +5523,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1765387409~acl=/*~id=48681364918387978356876525331867~hmac=4dec6fa26bc95ded86e806fb9cd06e3b879f6cc155b1fdfb80750b34b59a7ac6
 # --- Sonyliv Events Playlist ---
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011992/1764737828465679_AsianTour25_Saudi_Open_presented_by_PIF_Day1_2dec_landscape_thumb.jpg" group-title="sonyliv-Golf", PIF Saudi Open - Day 1 - 10 Dec 2025 [ENG] - Asian Tour 2025
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765401986~acl=/*~id=71782816305407235482350848797436~hmac=a8d5941149de049b614cd5ffae1a42f6f527703e5d6759fe3ce2f5aa6557b0ca
+
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
