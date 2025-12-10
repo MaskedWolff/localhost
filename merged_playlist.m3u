@@ -5245,6 +5245,12 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138632_5786_GG_SWR_FC-Web.jpg" group-title="Fancode-Cricket", Sharjah Warriorz vs Gulf Giants (DP World ILT20 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/138632_english_hls_88e4b812bf39142_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137597_5720_BAR-W_BEN-W_fc-web.jpg" group-title="Fancode-Football", Barcelona Women vs Benfica Women (UEFA Women's Champions League 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/137597_english_hls_9914a92fa955002_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137596_5720_VAL-W_PFC-W_fc-web.jpg" group-title="Fancode-Football", Valerenga Fotball Women vs Paris FC Women (UEFA Women's Champions League 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/137596_english_hls_f9adcd576b87957_1ta-di_h264/index.m3u8
+
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5521,19 +5527,19 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011854/1764136432743622_UCL_25_26_MD6_Villarreal-vs-Copenhagen_landscape_thumb.jpg" group-title="sonyliv-Football", Villarreal vs Copenhagen - MD 6 - 10 Dec 2025 [ENG] - UEFA Champions League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765430602~acl=/*~id=05478571641410960444013571424593~hmac=3efcab01eea0c3d97598036c407fe22c8a9b61ab51af549d3d7f6367bfaffd92
+https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765431824~acl=/*~id=56652525041173792510995038053796~hmac=b87f3d12e16d38b98eb885eef34c8c5ee30faf2798dd2f127be84f654147fec3
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011854/1764136432743622_UCL_25_26_MD6_Villarreal-vs-Copenhagen_landscape_thumb.jpg" group-title="sonyliv-Football", Villarreal vs Copenhagen - MD 6 - 10 Dec 2025 [HIN] - UEFA Champions League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765430602~acl=/*~id=05478571641410960444013571424593~hmac=3efcab01eea0c3d97598036c407fe22c8a9b61ab51af549d3d7f6367bfaffd92
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765431824~acl=/*~id=56652525041173792510995038053796~hmac=b87f3d12e16d38b98eb885eef34c8c5ee30faf2798dd2f127be84f654147fec3
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011854/1764136432743622_UCL_25_26_MD6_Villarreal-vs-Copenhagen_landscape_thumb.jpg" group-title="sonyliv-Football", Villarreal vs Copenhagen - MD 6 - 10 Dec 2025 [TAM] - UEFA Champions League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765430602~acl=/*~id=05478571641410960444013571424593~hmac=3efcab01eea0c3d97598036c407fe22c8a9b61ab51af549d3d7f6367bfaffd92
+https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765431824~acl=/*~id=56652525041173792510995038053796~hmac=b87f3d12e16d38b98eb885eef34c8c5ee30faf2798dd2f127be84f654147fec3
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011854/1764136432743622_UCL_25_26_MD6_Villarreal-vs-Copenhagen_landscape_thumb.jpg" group-title="sonyliv-Football", Villarreal vs Copenhagen - MD 6 - 10 Dec 2025 [TEL] - UEFA Champions League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765430602~acl=/*~id=05478571641410960444013571424593~hmac=3efcab01eea0c3d97598036c407fe22c8a9b61ab51af549d3d7f6367bfaffd92
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765431824~acl=/*~id=56652525041173792510995038053796~hmac=b87f3d12e16d38b98eb885eef34c8c5ee30faf2798dd2f127be84f654147fec3
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011989/1764703669938445_UCL_25_26_MD6_Qarabag-vs-Ajax_landscape_thumb_re1.jpg" group-title="sonyliv-Football", Qarabag vs Ajax - MD 6 - 10 Dec 2025 [ENG] - UEFA Champions League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765430602~acl=/*~id=05478571641410960444013571424593~hmac=3efcab01eea0c3d97598036c407fe22c8a9b61ab51af549d3d7f6367bfaffd92
+https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765431824~acl=/*~id=56652525041173792510995038053796~hmac=b87f3d12e16d38b98eb885eef34c8c5ee30faf2798dd2f127be84f654147fec3
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
