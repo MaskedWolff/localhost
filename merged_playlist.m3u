@@ -5242,6 +5242,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138632_5786_GG_SWR_FC-Web.jpg" group-title="Fancode-Cricket", Gulf Giants vs Sharjah Warriorz (DP World ILT20 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/138632_english_hls_88e4b812bf39142_1ta-di_h264/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136174_5648_SEL_LIO_fc-Web_1758118383225.jpg" group-title="Fancode-Football", Selangor vs Lion City Sailors (AFC Champions League Two 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/136174_english_hls_a94d6475dc90522_1ta-di_h264/index.m3u8
 
@@ -5524,7 +5527,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011994/1764740112914688_UYL2526_MD6_Brugge_vs_Arsenal_2dec_landscape_thumb.jpg" group-title="sonyliv-Football", Club Brugge vs Arsenal - MD 6 - 10 Dec 2025 [ENG] - UEFA Youth League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765417206~acl=/*~id=19019138618873990642001961362855~hmac=9fe075dc4cf7878c1f0aad654dbf8513ba4f253eb26665a7ede269e461e5a7f1
+https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765419032~acl=/*~id=54641416791385744172000375893273~hmac=fcbca5b7532eb9b13b789e109f01c912b6a43e0329eb4ef1db4cec99c0741351
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
