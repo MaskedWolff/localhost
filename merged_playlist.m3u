@@ -5520,6 +5520,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1765475680~acl=/*~id=20814733718968538267500009605210~hmac=549451b142e7977723315dd85fd68512d3cfb685c01d3281bb11a51e51d808e4
 # --- Sonyliv Events Playlist ---
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011992/1764737872643679_AsianTour25_Saudi_Open_presented_by_PIF_Day2_2dec_landscape_thumb.jpg" group-title="sonyliv-Golf", PIF Saudi Open - Day 2 - 11 Dec 2025 [ENG] - Asian Tour 2025
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765487230~acl=/*~id=98186730106364663161907035018982~hmac=5d3c7271cceca4f175a7e954945243a488d519661f66d9b8addb9ae87010d26a
+
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
