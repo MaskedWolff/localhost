@@ -5242,6 +5242,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg" group-title="Fancode-Cricket", West Indies vs New Zealand (West Indies tour of New Zealand, 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1765531999~acl=/*~id=82608478451982435762346274597000~hmac=9ea54fad6e49fb0989e06e9359ef54131db885530740fe66847380e9ee0cee73
+
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5518,10 +5521,10 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011791/1764096257454276_UEL2526_MD6_Basel_vs_Aston_Villa_25nov_landscape_thumb.jpg" group-title="sonyliv-Football", Basel vs Aston Villa - MD 6 - 12 Dec 2025 [ENG] - UEFA Europa League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765531100~acl=/*~id=38195134957076749266025774017484~hmac=c6cf4d4865a4fdab01a30d103b24f0e0d9ecfc7f4361616a2f6152fc3cd0c425
+https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765531708~acl=/*~id=73436837813860350299432864734051~hmac=18788015827b12b97c6fc0fe069ef562752036421526416e1bb8d62bcf5ebc17
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012144/1765255347137892_NZvsWI25_2nd_test_day3_9dec_landscape_thumb.jpg" group-title="sonyliv-Cricket", 2nd Test - Day 3 - 12 Dec 2025 [ENG] - West Indies Tour of New Zealand 2025
-https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765531100~acl=/*~id=38195134957076749266025774017484~hmac=c6cf4d4865a4fdab01a30d103b24f0e0d9ecfc7f4361616a2f6152fc3cd0c425
+https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765531708~acl=/*~id=73436837813860350299432864734051~hmac=18788015827b12b97c6fc0fe069ef562752036421526416e1bb8d62bcf5ebc17
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
