@@ -5517,6 +5517,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1765524408~acl=/*~id=23265305594915374149206505348980~hmac=6c7059b4cb5169f0b46a7d3a07eefd1cc28aae7de68507d8db68601c563637f8
 # --- Sonyliv Events Playlist ---
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011791/1764096257454276_UEL2526_MD6_Basel_vs_Aston_Villa_25nov_landscape_thumb.jpg" group-title="sonyliv-Football", Basel vs Aston Villa - MD 6 - 12 Dec 2025 [ENG] - UEFA Europa League 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765526233~acl=/*~id=75931154865728221604467406459082~hmac=03d2577aa5665e12d18fb5fe45a27f4244a41ae5ae79a0a7a8dd4377e2aea1b0
+
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
