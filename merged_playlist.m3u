@@ -5242,6 +5242,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130985_5427_RS_GIR_fc-web.jpg" group-title="Fancode-Football", Real Sociedad vs Girona FC (LALIGA 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/130985_english_hls_106e3de95c91001_1ta-di_h264/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grant-Thornton-Invitational_old-match-card.jpg" group-title="Fancode-Golf", Day 1 vs Tiburón Golf Club (Grant Thornton Invitational)
 https://in-mc-fdlive.fancode.com/mumbai/138728_english_hls_e8e498860d11924_1ta-di_h264/index.m3u8
 
@@ -5521,7 +5524,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011876/1764304401532124_Bundesliga_MD14_UnionBerlin_vs_RB_Leipzig_landscape_thumb.jpg" group-title="sonyliv-Football", Union Berlin vs RB Leipzig - MD 14 - 13 Dec 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2119931/bundesli1212/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765610862~acl=/*~id=50340994935565539003144581475985~hmac=f37a5f8fe7c4c80f9206b54dfab3c92c5738427cb39cc237cebf11fb804e00d6
+https://sonydaimenew.akamaized.net/hls/live/2119931/bundesli1212/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765611470~acl=/*~id=93505097231226836277656183448347~hmac=7d979fd576afc55e6cec152da07f4070f493b142587c5b10a79bd53679a5d965
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
