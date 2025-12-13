@@ -5245,8 +5245,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130989_5427_BAR_OSN_fc-web.jpg" group-title="Fancode-Football", FC Barcelona vs CA Osasuna (LALIGA 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/130989_english_hls_4028905a0a57778_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138635_5786_ADKR_DC_FC-Web.jpg" group-title="Fancode-Cricket", Dubai Capitals vs Abu Dhabi Knight Riders (DP World ILT20 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/138635_english_hls_d8c1dedcbc37574_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grant-Thornton-Invitational_old-match-card.jpg" group-title="Fancode-Golf", Day 2 vs Tiburón Golf Club (Grant Thornton Invitational)
+https://in-mc-fdlive.fancode.com/mumbai/138729_english_hls_509a3b62cb30853_1ta-di_h264/index.m3u8
 
 # --- Willow Playlist ---
 #EXTM3U
@@ -5524,7 +5524,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011876/1764308901692124_Bundesliga_MD14_BayerLeverkusen_vs_FC_Koln_landscape_thumb.jpg" group-title="sonyliv-Football", Bayer Leverkusen vs FC Koln - MD 14 - 13 Dec 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765695036~acl=/*~id=63343268901480637962893322449611~hmac=97928f1706426b922a132afa89f2c2f8dd28a0c25c4788256ea61bb47913545b
+https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765695645~acl=/*~id=94792547329903402904591506953534~hmac=277b801f847656d33055ab11bd973008ebfe88b6d4c5b69b935c713f1b8bb6e8
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
