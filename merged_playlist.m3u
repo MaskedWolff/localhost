@@ -5248,14 +5248,17 @@ https://in-mc-fdlive.fancode.com/mumbai/138635_english_hls_d8c1dedcbc37574_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138717_5798_BRNW_KU-W_fc-web.jpg" group-title="Fancode-Cricket", Bahrain Women vs Kuwait Women (GCC Women's T20I Championship, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138717_english_hls_23c9efdc5a60218_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136982_5489_WRX_WAT_fc-web.jpg" group-title="Fancode-Football", Wrexham A.F.C. vs Watford F.C. (EFL Championship 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/136982_english_hls_cf5d267e0166435_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130983_5427_MRC_ELC_fc-web.jpg" group-title="Fancode-Football", RCD Mallorca vs Elche CF (LALIGA 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/130983_english_hls_b392c4731f92633_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130989_5427_BAR_OSN_fc-web.jpg" group-title="Fancode-Football", FC Barcelona vs CA Osasuna (LALIGA 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/130989_english_hls_4028905a0a57778_1ta-di_h264/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/138619_CASACARDS_APP.png" group-title="Fancode-Football", Sporting de Gijón vs Granada (LALIGA Hypermotion 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/138619_english_hls_92e07ba7eb6998_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136982_5489_WRX_WAT_fc-web.jpg" group-title="Fancode-Football", Wrexham A.F.C. vs Watford F.C. (EFL Championship 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/136982_english_hls_cf5d267e0166435_1ta-di_h264/index.m3u8
 
 # --- Willow Playlist ---
 #EXTM3U
@@ -5532,6 +5535,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1765685899~acl=/*~id=59180816125941182506247184423491~hmac=8c5fb8b5da366516fcc6abc93d1a7e41e4e22cd31d2ed659cb62ea3290bdff21
 # --- Sonyliv Events Playlist ---
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011876/1764308901692124_Bundesliga_MD14_BayerLeverkusen_vs_FC_Koln_landscape_thumb.jpg" group-title="sonyliv-Football", Bayer Leverkusen vs FC Koln - MD 14 - 13 Dec 2025 [ENG] - Bundesliga 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765688945~acl=/*~id=80219930929147121580866305370679~hmac=6fc17686c61e29126fe44a3ddcb012b79c5441ec3bfe476354a55ae45706814b
+
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
