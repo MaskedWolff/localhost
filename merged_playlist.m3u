@@ -5242,11 +5242,14 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130989_5427_BAR_OSN_fc-web.jpg" group-title="Fancode-Football", FC Barcelona vs CA Osasuna (LALIGA 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/130989_english_hls_4028905a0a57778_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130984_5427_GEF_ESL_fc-web.jpg" group-title="Fancode-Football", Getafe CF vs RCD Espanyol (LALIGA 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/130984_english_hls_1506319c7e67106_1ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grant-Thornton-Invitational_old-match-card.jpg" group-title="Fancode-Golf", Day 2 vs Tiburón Golf Club (Grant Thornton Invitational)
 https://in-mc-fdlive.fancode.com/mumbai/138729_english_hls_509a3b62cb30853_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130989_5427_BAR_OSN_fc-web.jpg" group-title="Fancode-Football", FC Barcelona vs CA Osasuna (LALIGA 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/130989_english_hls_4028905a0a57778_1ta-di_h264/index.m3u8
 
 # --- Willow Playlist ---
 #EXTM3U
@@ -5524,7 +5527,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011876/1764308901692124_Bundesliga_MD14_BayerLeverkusen_vs_FC_Koln_landscape_thumb.jpg" group-title="sonyliv-Football", Bayer Leverkusen vs FC Koln - MD 14 - 13 Dec 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765697470~acl=/*~id=81334369346536104093856948120318~hmac=61f49166886eb82bc35102038fb089b4ebbfdb90095a02be213a68124780c3b7
+https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765698079~acl=/*~id=51697269304851351022324560350722~hmac=7a9da0bf92875a202ebeb63077fc4665d1867e2f17abc7e0029929255b29fb25
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
