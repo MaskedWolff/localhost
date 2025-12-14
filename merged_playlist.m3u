@@ -5242,9 +5242,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138637_5786_DV_DC_FC-Web.jpg" group-title="Fancode-Cricket", Dubai Capitals vs Desert Vipers (DP World ILT20 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/138637_english_hls_1b85ddf4e932717_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grant-Thornton-Invitational_old-match-card.jpg" group-title="Fancode-Golf", Day 3 vs Tiburón Golf Club (Grant Thornton Invitational)
 https://in-mc-fdlive.fancode.com/mumbai/138730_english_hls_b8b4aee44e51905_1ta-di_h264/index.m3u8
 
@@ -5524,10 +5521,10 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011876/1764309988748124_Bundesliga_MD14_BayernMunich_vs_Mainz_Landscape_thumb.jpg" group-title="sonyliv-Football", Bayern Munich vs Mainz - MD 14 - 14 Dec 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765778545~acl=/*~id=76580900823692678831018831648888~hmac=e4d2328d9f9402de3ec130ea4273b76f7ef983d7050569a95479f822aba19462
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765780984~acl=/*~id=53820517876853564829179112134856~hmac=b69e76c623f0dd050f62013277e528f931632704399c0a989a05bd4b3871ba33
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011876/1764310946965124_Bundesliga_MD14_WerderBremen_vs_VfB_Stuttgart_Landscape_thumb.jpg" group-title="sonyliv-Football", Werder Bremen vs VfB Stuttgart - MD 14 - 15 Dec 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765778545~acl=/*~id=76580900823692678831018831648888~hmac=e4d2328d9f9402de3ec130ea4273b76f7ef983d7050569a95479f822aba19462
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765780984~acl=/*~id=53820517876853564829179112134856~hmac=b69e76c623f0dd050f62013277e528f931632704399c0a989a05bd4b3871ba33
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
