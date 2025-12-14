@@ -5248,9 +5248,6 @@ https://in-mc-fdlive.fancode.com/mumbai/138637_english_hls_1b85ddf4e932717_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130981_5427_CEV_ATH_fc-web.jpg" group-title="Fancode-Football", RC Celta vs Athletic Club (LALIGA 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/130981_english_hls_c9e2f5fc2f47732_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130986_5427_SEV_RO_fc-web.jpg" group-title="Fancode-Football", Sevilla FC vs Real Oviedo (LALIGA 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/130986_english_hls_19c9fb892719297_1ta-di_h264/index.m3u8
-
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5527,7 +5524,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011876/1764309717719124_Bundesliga_MD14_SC_Freiburg_vs_BorussiaDortmund_landscape_thumb.jpg" group-title="sonyliv-Football", SC Freiburg vs Borussia Dortmund - MD 14 - 14 Dec 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765768192~acl=/*~id=41838184999372947259425817208762~hmac=48359d95fa07898e055d28ebf686fd91daa165adfe5fbe13e623d7884e666238
+https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765768802~acl=/*~id=37853658362348093070469605440060~hmac=38b833ba4f33339ed3f341c5ff9e6fdac2e97278a129dc39f997c033db36899a
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
