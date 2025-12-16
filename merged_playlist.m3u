@@ -5523,6 +5523,12 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1765866601~acl=/*~id=c9f476038b26d11ee85f86c7c68b92b1-1765823400184~hmac=64f38ed33925c0b97f2b90d5d60cce8ee94fbd7dc253f008e0e603f1661b5f2b
 # --- Sonyliv Events Playlist ---
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012421/1765779495622981_AC25_U19_IND_vs_MAS_15dec_Landscape_thumb.jpg" group-title="sonyliv-Cricket", India U19 vs Malaysia U19 - 16 Dec 2025 [ENG] - DP World Men's U19 Asia Cup 2025
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765902901~acl=/*~id=64744473428553466780660949155436~hmac=5bb95189bc7d8b17631ecaa905c0a64e611476f7f4d3a4b937bc8c7c3e78dd03
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012420/1765778755102237_AC25_U19_PAK_vs_UAE_15dec_Landscape_thumb.jpg" group-title="sonyliv-Cricket", Pakistan U19 vs UAE U19 - 16 Dec 2025 [ENG] - DP World Men's U19 Asia Cup 2025
+https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765902901~acl=/*~id=64744473428553466780660949155436~hmac=5bb95189bc7d8b17631ecaa905c0a64e611476f7f4d3a4b937bc8c7c3e78dd03
+
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
