@@ -5242,12 +5242,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/129th-Harris-Shield-Cricket-Tournament-old-match-card_v2.jpg" group-title="Fancode-Cricket", General Education Academy vs Al Barkat (129th Harris Shield Cricket Tournament)
-https://in-mc-fdlive.fancode.com/mumbai/138910_english_hls_ea9fe29d8e72649_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/129th-Harris-Shield-Cricket-Tournament-old-match-card_v2.jpg" group-title="Fancode-Cricket", Anjuman English Allana vs Dyandeep Seva Mandal (129th Harris Shield Cricket Tournament)
-https://in-mc-fdlive.fancode.com/mumbai/138911_english_hls_465e4ec22294901_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138722_5798_UAE-W_KSAW_fc-web.jpg" group-title="Fancode-Cricket", United Arab Emirates Women vs Saudi Arabia Women (GCC Women's T20I Championship, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138722_english_hls_b5ae6542578976_1ta-di_h264/index.m3u8
 
@@ -5527,10 +5521,10 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012421/1765779495622981_AC25_U19_IND_vs_MAS_15dec_Landscape_thumb.jpg" group-title="sonyliv-Cricket", India U19 vs Malaysia U19 - 16 Dec 2025 [ENG] - DP World Men's U19 Asia Cup 2025
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765925466~acl=/*~id=14195154127188447156239956548673~hmac=7f6d02d4990af596ba45c2d896bdf87a5c70f8999aebb369970e037f696dd135
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765926079~acl=/*~id=15944728096683419239177431479331~hmac=8b8a3b9e4b91dad16b1bcaba2cf02187c729547448eef7c2fe3637d2172606bf
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012420/1765778755102237_AC25_U19_PAK_vs_UAE_15dec_Landscape_thumb.jpg" group-title="sonyliv-Cricket", Pakistan U19 vs UAE U19 - 16 Dec 2025 [ENG] - DP World Men's U19 Asia Cup 2025
-https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765925466~acl=/*~id=14195154127188447156239956548673~hmac=7f6d02d4990af596ba45c2d896bdf87a5c70f8999aebb369970e037f696dd135
+https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765926079~acl=/*~id=15944728096683419239177431479331~hmac=8b8a3b9e4b91dad16b1bcaba2cf02187c729547448eef7c2fe3637d2172606bf
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
