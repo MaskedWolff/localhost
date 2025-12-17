@@ -5251,6 +5251,9 @@ https://in-mc-fdlive.fancode.com/mumbai/138905_english_hls_8eed67590c55608_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137606_5720_PFC-W_BAR-W_fc-web.jpg" group-title="Fancode-Football", Paris FC Women vs Barcelona Women (UEFA Women's Champions League 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/137606_english_hls_46669f6d1119354_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg" group-title="Fancode-Cricket", New Zealand vs West Indies (West Indies tour of New Zealand, 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1766050268~acl=/*~id=01240028137057576773659896661881~hmac=c4e3e83c95f6f3c7c6b24c4b2ed32d4d520d09793ae3e5f50bbd1c466561e130
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137608_5720_BAY-W_VAL-W_fc-web.jpg" group-title="Fancode-Football", Bayern Munich Women vs Valerenga Fotball Women (UEFA Women's Champions League 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/137608_english_hls_86d6f994083421_1ta-di_h264/index.m3u8
 
@@ -5557,7 +5560,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012326/1765546465282346_NZvsWI25_3rd_test_day_1_12dec_landscape_thumb.jpg" group-title="sonyliv-Cricket", 3rd Test - Day 1 - 18 Dec 2025 [ENG] - West Indies Tour of New Zealand 2025
-https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766049524~acl=/*~id=68247572770241152168972004186758~hmac=c73a3c32d63f535b05881d5080cae0d1091a33a6df566085a7a28b735c7cae74
+https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766050742~acl=/*~id=13777504615822744496779177508433~hmac=d0141e53cba5629f06ff21979c012efefbb226558513f9a13db65ca1d9946148
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
