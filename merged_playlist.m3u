@@ -5248,6 +5248,9 @@ https://in-mc-fdlive.fancode.com/mumbai/138907_english_hls_e022dbbfb752615_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138906_5806_OU_ATH_FC-Web.jpg" group-title="Fancode-Football", Ourense CF vs Athletic Club (Copa del Rey, 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/138906_english_hls_bf491899e472588_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138908_5806_RMFC_RB_FC-Web.jpg" group-title="Fancode-Football", Real Murcia Club de Futbol vs Real Betis (Copa del Rey, 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/138908_english_hls_b9ae41533821643_1ta-di_h264/index.m3u8
+
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5524,7 +5527,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011931/1764523912887515_UECL2526_MD6_Crystal_Palace_vs_Kuopion_Palloseura_30nov_landscape_thumb.jpg" group-title="sonyliv-Football", Crystal Palace vs Kuopion Palloseura - MD 6 - 19 Dec 2025 [ENG] - UEFA Conference League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766130549~acl=/*~id=67720746182455778956853224381941~hmac=a8f968c769db7dc82d18911894769908fb7e9764c51366071c410ea79dcdfbf6
+https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766131766~acl=/*~id=10319728146234833665033232924997~hmac=7320b1ab06bc5eaf0423cefec32e2d9ec94cb2f6004a43a49d5fdb131499edb6
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
