@@ -5242,6 +5242,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg" group-title="Fancode-Cricket", New Zealand vs West Indies (West Indies tour of New Zealand, 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1766223119~acl=/*~id=17502696892215825518405472694606~hmac=e30080581acdd5073119fcc571b3701b7ff5775163205b21e712a040ab80ef2f
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130995_5427_VAL_MRC_fc-web_1765803305969.png" group-title="Fancode-Football", Valencia CF vs RCD Mallorca (LALIGA 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/130995_english_hls_67aa1abd8e5278_1ta-di_h264/index.m3u8
 
@@ -5524,10 +5527,10 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012326/1765546498374346_NZvsWI25_3rd_test_day_3_12dec_landscape_thumb.jpg" group-title="sonyliv-Cricket", 3rd Test - Day 3 - 20 Dec 2025 [ENG] - West Indies Tour of New Zealand 2025
-https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766221953~acl=/*~id=93804435191574311009961584237737~hmac=522eb7b9c029e988572e4f05fb903c065f5ae19a9ab0992781513b347da1b515
+https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766223119~acl=/*~id=17502696892215825518405472694606~hmac=e30080581acdd5073119fcc571b3701b7ff5775163205b21e712a040ab80ef2f
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011975/176467402842142_Bundesliga_MD15_Borussia-Dortmund-vs-Borussia-Mgladbach_landscape_thumb.jpg" group-title="sonyliv-Football", Borussia Dortmund vs Borussia M'gladbach - MD 15 - 20 Dec 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766221953~acl=/*~id=93804435191574311009961584237737~hmac=522eb7b9c029e988572e4f05fb903c065f5ae19a9ab0992781513b347da1b515
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766223119~acl=/*~id=17502696892215825518405472694606~hmac=e30080581acdd5073119fcc571b3701b7ff5775163205b21e712a040ab80ef2f
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
