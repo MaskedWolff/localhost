@@ -5245,6 +5245,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130995_5427_VAL_MRC_fc-web_1765803305969.png" group-title="Fancode-Football", Valencia CF vs RCD Mallorca (LALIGA 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/130995_english_hls_67aa1abd8e5278_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136985_5489_SWA_WRX_fc-web.jpg" group-title="Fancode-Football", Swansea City A.F.C. vs Wrexham A.F.C. (EFL Championship 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/136985_english_hls_dcbbf1236f71828_1ta-di_h264/index.m3u8
+
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5521,7 +5524,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011975/176467402842142_Bundesliga_MD15_Borussia-Dortmund-vs-Borussia-Mgladbach_landscape_thumb.jpg" group-title="sonyliv-Football", Borussia Dortmund vs Borussia M'gladbach - MD 15 - 20 Dec 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766215255~acl=/*~id=64032796840979628795311627466106~hmac=896e12e05b00f5f0ce0c4abea401c65b946edf2c910564afe806659c810bc7a7
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766217082~acl=/*~id=68456688211245462928117982472585~hmac=16cd50c8341993c8ebadd431873c366e57458126eb53b047fb6e24ee56242787
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
