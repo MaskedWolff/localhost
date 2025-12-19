@@ -5245,6 +5245,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138801_5802_MAC_BRB_fc-web.jpg" group-title="Fancode-Football", Macarthur vs Brisbane Roar (A League 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/138801_english_hls_fcf35242be34958_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138802_5802_SYW_AFC_fc-web.jpg" group-title="Fancode-Football", Western Sydney Wanderers vs Auckland (A League 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/138802_english_hls_035a85d90e55809_1ta-di_h264/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2).png" group-title="Fancode-Live events", Girls Football vs Don Bosco High School Grounds, Matunga (DBIS Champions Cup 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138956_english_hls_b39f96064a40100_1ta-di_h264/index.m3u8
 
@@ -5530,19 +5533,19 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012511/1765990879722818_AC25_U19_semi_final_IND_vs_SL_17dec_live_Landscape_thumb.jpg" group-title="sonyliv-Cricket", India U19 vs Sri Lanka U19 - Semi-Final - 19 Dec 2025 [ENG] - DP World Men's U19 Asia Cup 2025
-https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766176773~acl=/*~id=55925123720702492285435994053990~hmac=235fba674aeb2c8b58a213b20201bfc8116894817826f7e4fba7c77a7205ecc4
+https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766177383~acl=/*~id=26630686591356589404911510108059~hmac=2b2805cf620f23b035c77ea4d24e5e8a84b076c01a8f421774988e95fc21407d
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012511/1765990879722818_AC25_U19_semi_final_IND_vs_SL_17dec_live_Landscape_thumb.jpg" group-title="sonyliv-Cricket", India U19 vs Sri Lanka U19 - Semi-Final - 19 Dec 2025 [HIN] - DP World Men's U19 Asia Cup 2025
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766176773~acl=/*~id=55925123720702492285435994053990~hmac=235fba674aeb2c8b58a213b20201bfc8116894817826f7e4fba7c77a7205ecc4
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766177383~acl=/*~id=26630686591356589404911510108059~hmac=2b2805cf620f23b035c77ea4d24e5e8a84b076c01a8f421774988e95fc21407d
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012511/1765990879722818_AC25_U19_semi_final_IND_vs_SL_17dec_live_Landscape_thumb.jpg" group-title="sonyliv-Cricket", India U19 vs Sri Lanka U19 - Semi-Final - 19 Dec 2025 [TAM] - DP World Men's U19 Asia Cup 2025
-https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766176773~acl=/*~id=55925123720702492285435994053990~hmac=235fba674aeb2c8b58a213b20201bfc8116894817826f7e4fba7c77a7205ecc4
+https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766177383~acl=/*~id=26630686591356589404911510108059~hmac=2b2805cf620f23b035c77ea4d24e5e8a84b076c01a8f421774988e95fc21407d
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012511/1765990879722818_AC25_U19_semi_final_IND_vs_SL_17dec_live_Landscape_thumb.jpg" group-title="sonyliv-Cricket", India U19 vs Sri Lanka U19 - Semi-Final - 19 Dec 2025 [TEL] - DP World Men's U19 Asia Cup 2025
-https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766176773~acl=/*~id=55925123720702492285435994053990~hmac=235fba674aeb2c8b58a213b20201bfc8116894817826f7e4fba7c77a7205ecc4
+https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766177383~acl=/*~id=26630686591356589404911510108059~hmac=2b2805cf620f23b035c77ea4d24e5e8a84b076c01a8f421774988e95fc21407d
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012511/1765991038967818_AC25_U19_semi_final_BAN_vs_PAK_17dec_live_Landscape_thumb.jpg" group-title="sonyliv-Cricket", Bangladesh U19 vs Pakistan U19 - Semi-Final - 19 Dec 2025 [ENG] - DP World Men's U19 Asia Cup 2025
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766176773~acl=/*~id=55925123720702492285435994053990~hmac=235fba674aeb2c8b58a213b20201bfc8116894817826f7e4fba7c77a7205ecc4
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766177383~acl=/*~id=26630686591356589404911510108059~hmac=2b2805cf620f23b035c77ea4d24e5e8a84b076c01a8f421774988e95fc21407d
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
