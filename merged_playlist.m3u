@@ -5245,6 +5245,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130990_5427_RM_SEV_fc-web_1765803328431.png" group-title="Fancode-Football", Real Madrid vs Sevilla FC (LALIGA 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/130990_english_hls_c8f61dfffc635_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg" group-title="Fancode-Cricket", New Zealand vs West Indies (West Indies tour of New Zealand, 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1766309706~acl=/*~id=86543231812836849982855201433166~hmac=e8dad67559a77a7b9c7ccb697fa0a8ce7deef78e1b3f556678718c2ffb9ab5c7
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PNC-Championship_FC-Web_1766132279851.jpg" group-title="Fancode-Golf", Day 2 vs Ritz-Carlton Golf Club (PNC Championship 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138961_english_hls_d6e276404364593_1ta-di_h264/index.m3u8
 
@@ -5524,7 +5527,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012326/1765546513450346_NZvsWI25_3rd_test_day_4_12dec_landscape_thumb.jpg" group-title="sonyliv-Cricket", 3rd Test - Day 4 - 21 Dec 2025 [ENG] - West Indies Tour of New Zealand 2025
-https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766309078~acl=/*~id=78871494685687149668127626947187~hmac=85063c3406b0a54b43d90e6474f43e271b645c251e9d2f1d097d65fb706f4f70
+https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766309685~acl=/*~id=85503973671017902198349074296418~hmac=ef92a239893a26133619eb463b64fc97a77b7b8bfbb8ffa8eb46027a541dcecb
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
