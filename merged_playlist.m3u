@@ -5248,9 +5248,6 @@ https://in-mc-fdlive.fancode.com/mumbai/138644_english_hls_8d202f52e599076_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130991_5427_OSN_ALA_fc-web_1765803323624.png" group-title="Fancode-Football", CA Osasuna vs Deportivo Alaves (LALIGA 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/130991_english_hls_0147a7876a69528_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130999_5427_LE_RS_fc-web_1765803317925.png" group-title="Fancode-Football", Levante vs Real Sociedad (LALIGA 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/130999_english_hls_c617ca438630_1ta-di_h264/index.m3u8
-
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5527,7 +5524,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011975/176468158348842_Bundesliga_MD15_RB-Leipzig-vs-Bayer-Leverkusen_landscape_thumb.jpg" group-title="sonyliv-Football", RB Leipzig vs Bayer Leverkusen - MD 15 - 20 Dec 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766295103~acl=/*~id=16266460431490387359034479151960~hmac=62c4d50f4d5ac916e4c509fee3efabce9fa687ce2a7036443b21669948d7df9d
+https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766295711~acl=/*~id=25944463223936668765149952129601~hmac=1fb23c8ccf3d40dd1601316b043b4e85554471d994afb52efc78b9e0b878830b
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
