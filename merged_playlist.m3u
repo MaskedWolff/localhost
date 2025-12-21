@@ -5242,6 +5242,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg" group-title="Fancode-Cricket", New Zealand vs West Indies (West Indies tour of New Zealand, 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1766396132~acl=/*~id=42662246996455798340162003387707~hmac=b5ec46f0689c3bddf099132de616c681d0edf0e5d1b111528d2c0df32c0f5303
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130997_5427_RB_GEF_fc-web_1765803351858.png" group-title="Fancode-Football", Real Betis vs Getafe CF (LALIGA 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/130997_english_hls_352139d67164755_1ta-di_h264/index.m3u8
 
@@ -5524,7 +5527,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012326/1765546552805346_NZvsWI25_3rd_test_day_5_12dec_landscape_thumb.jpg" group-title="sonyliv-Cricket", 3rd Test - Day 5 - 22 Dec 2025 [ENG] - West Indies Tour of New Zealand 2025
-https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766395635~acl=/*~id=68941462950781752505811487671214~hmac=3b0857b6264a81faaf04ef0d00b5401ec53f312b67d8ed2fc622006c37a73b03
+https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766396243~acl=/*~id=34890361238034442118194505220310~hmac=804ab9d4932d14a0607fe39abdd22769305413e4506aa2b6f1c2d76e115dd164
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
