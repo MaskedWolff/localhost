@@ -5248,9 +5248,6 @@ https://in-mc-fdlive.fancode.com/mumbai/138646_english_hls_4931acf80e81400_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130993_5427_VIL_BAR_fc-web_1765803339397.png" group-title="Fancode-Football", Villarreal CF vs FC Barcelona (LALIGA 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/130993_english_hls_ef1f00097140350_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130992_5427_GIR_ATL_fc-web_1765803333703.png" group-title="Fancode-Football", Girona FC vs Atletico de Madrid (LALIGA 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/130992_english_hls_b631c3db3053300_1ta-di_h264/index.m3u8
-
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5527,7 +5524,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011975/176468180251242_Bundesliga_MD15_Mainz-vs-St-Pauli_landscape_thumb.jpg" group-title="sonyliv-Football", Mainz vs St. Pauli - MD 15 - 21 Dec 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766373733~acl=/*~id=14431225249305146618567415175819~hmac=bd6d5270d639b0eeff1cdf5263bbb903ecc9d4607701d8b71d3291420307caf2
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766374343~acl=/*~id=90220523044457519081999640690202~hmac=97be0ee245f5887d0f8ffd1c00604499fd004017969126bf6fd6f1fc1091693a
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
