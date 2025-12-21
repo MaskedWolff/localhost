@@ -5241,11 +5241,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1766278326~exp=1766364726~acl=/*~hmac=bd64d2de70defa1a836fda304e5e2e65f2d7a908251fdf4f4b2eb4bb101aec6c&xxx=%7Ccookie=__hdnea__=st=1766278326~exp=1766364726~acl=/*~hmac=bd64d2de70defa1a836fda304e5e2e65f2d7a908251fdf4f4b2eb4bb101aec6c
 
 # --- Fancode Playlist ---
-#EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AfrAsia-Bank-Mauritius-Open_New_old.jpg" group-title="Fancode-Golf", AfrAsia Bank Mauritius Open vs Heritage La Réserve GC, Heritage Bel Ombre, Maurit (AfrAsia Bank Mauritius Open)
-https://in-mc-fdlive.fancode.com/mumbai/138698_english_hls_ed53d405b244650_1ta-di_h264/index.m3u8
-
-# --- Willow Playlist ---
+{"error":"Failed to fetch data from source.","status":0}# --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
 #EXTM3U
@@ -5521,16 +5517,16 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012573/1766171937892118_AC25_U19_final_IND_vs_PAK_19dec_Landscape_thumb.jpg" group-title="sonyliv-Cricket", India U19 vs Pakistan U19 - Final - 21 Dec 2025 [ENG] - DP World Men's U19 Asia Cup 2025
-https://liveakmt-p.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766345584~acl=/*~id=26371369032303404526745309673252~hmac=fd1e0bd700a51b8988869d8c24d9a8cc3bae23388dd1dee846e7243c2aa27289
+https://liveakmt-p.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766346197~acl=/*~id=34238661577167594213100973198715~hmac=11842794d97bf48e8af2c22834506dca020e8ea4d75631c57e1d3c2a24ee17e2
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012573/1766171937892118_AC25_U19_final_IND_vs_PAK_19dec_Landscape_thumb.jpg" group-title="sonyliv-Cricket", India U19 vs Pakistan U19 - Final - 21 Dec 2025 [HIN] - DP World Men's U19 Asia Cup 2025
-https://liveakmt-p.slivcdn.com/hls/live/2018457/DAI09-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766345584~acl=/*~id=26371369032303404526745309673252~hmac=fd1e0bd700a51b8988869d8c24d9a8cc3bae23388dd1dee846e7243c2aa27289
+https://liveakmt-p.slivcdn.com/hls/live/2018457/DAI09-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766346197~acl=/*~id=34238661577167594213100973198715~hmac=11842794d97bf48e8af2c22834506dca020e8ea4d75631c57e1d3c2a24ee17e2
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012573/1766171937892118_AC25_U19_final_IND_vs_PAK_19dec_Landscape_thumb.jpg" group-title="sonyliv-Cricket", India U19 vs Pakistan U19 - Final - 21 Dec 2025 [TAM] - DP World Men's U19 Asia Cup 2025
-https://liveakmt-p.slivcdn.com/hls/live/2018458/DAI10-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766345584~acl=/*~id=26371369032303404526745309673252~hmac=fd1e0bd700a51b8988869d8c24d9a8cc3bae23388dd1dee846e7243c2aa27289
+https://liveakmt-p.slivcdn.com/hls/live/2018458/DAI10-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766346197~acl=/*~id=34238661577167594213100973198715~hmac=11842794d97bf48e8af2c22834506dca020e8ea4d75631c57e1d3c2a24ee17e2
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012573/1766171937892118_AC25_U19_final_IND_vs_PAK_19dec_Landscape_thumb.jpg" group-title="sonyliv-Cricket", India U19 vs Pakistan U19 - Final - 21 Dec 2025 [TEL] - DP World Men's U19 Asia Cup 2025
-https://liveakmt-p.slivcdn.com/hls/live/2022315/DAI11-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766345584~acl=/*~id=26371369032303404526745309673252~hmac=fd1e0bd700a51b8988869d8c24d9a8cc3bae23388dd1dee846e7243c2aa27289
+https://liveakmt-p.slivcdn.com/hls/live/2022315/DAI11-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766346197~acl=/*~id=34238661577167594213100973198715~hmac=11842794d97bf48e8af2c22834506dca020e8ea4d75631c57e1d3c2a24ee17e2
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
