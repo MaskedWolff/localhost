@@ -5242,6 +5242,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138764_5801_CH-W_WB-W_fc-web_1766596522063.jpg" group-title="Fancode-Cricket", Wellington Blaze vs Central Hinds (Women's Super Smash, 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/138764_english_hls_47a1911cdc87207_1ta-di_h264/index.m3u8
+
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5517,6 +5520,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1766817001~acl=/*~id=8e2eade235527cc1c4423095e90b2449-1766773800176~hmac=1e383607bb3a6480f77d24677f98a33c55f93846d60875a9209c160bb01b621d
 # --- Sonyliv Events Playlist ---
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012723/1766745639823754_SuperSmash_W_CentralHinds_vs_WellingtonBlaze__landscape_thumb_Live.jpg" group-title="sonyliv-Cricket", Central Hinds vs Wellington Blaze - 27 Dec 2025 [ENG] - Super Smash 2025/26 Women's
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766834939~acl=/*~id=50172626924986573088927499911098~hmac=11351b7b02930e0091fdcef2376c3950d426f2c39d02f00f8feeeaf4b669e58a
+
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
