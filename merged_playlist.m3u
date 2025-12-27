@@ -5520,6 +5520,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1766852663~acl=/*~id=71083935874921912213095895426870~hmac=6c897e8fae75a05a4e878176b624f5f1e9cb1eb9b6c9ad61b28136d520802f01
 # --- Sonyliv Events Playlist ---
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012723/1766746689773754_SuperSmash_M_CentralStags_vs_WellingtonFirebirds_landscape_thumb_Live.jpg" group-title="sonyliv-Cricket", Central Stags vs Wellington Firebirds- 27 Dec 2025 [ENG] - Super Smash 2025/26 Men's
+https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766857283~acl=/*~id=15631742188834765769913323420301~hmac=993ec3d30af6ee06b52cebaca3e86b33008d4cdfa137002c4b99b05baf24ea50
+
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
