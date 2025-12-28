@@ -5242,9 +5242,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138652_5786_GG_ADKR_FC-Web.jpg" group-title="Fancode-Cricket", Abu Dhabi Knight Riders vs Gulf Giants (DP World ILT20 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/138652_english_hls_184b19809a71672_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg" group-title="Fancode-Cricket", Yalla Shabab Giants vs Muscat Thunders (Oman D20 League, 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/139153_english_hls_421d7085f925255_1ta-di_h264/index.m3u8
 
@@ -5526,9 +5523,6 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1766986319~acl=/*~id=66688522697134764971226491681451~hmac=9af993dd08ef1c057f50c846bb207420adfe987fa79a856e7b1604fc9a5adde7
 # --- Sonyliv Events Playlist ---
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012721/1766745312464210_BOS_2025_Aryna_Sabalenka-vs-Nick_Kyrgios_landscape_thumb.jpg" group-title="sonyliv-Tennis", Aryna Sabalenka vs Nick Kyrgios - 28 Dec 2025 [ENG] - Battle Of The Sexes
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766988142~acl=/*~id=04226675103245189060202992883413~hmac=bbadc85cf7cd5d3c97530c324ad6e533b29f851b2a9c447227654a8117df0c43
-
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
