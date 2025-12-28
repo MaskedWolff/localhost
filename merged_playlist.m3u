@@ -5242,6 +5242,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138766_5801_WB-W_AH-W_fc-web_1766596522064.jpg" group-title="Fancode-Cricket", Wellington Blaze vs Auckland Hearts (Women's Super Smash, 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/138766_english_hls_c48307625820922_1ta-di_h264/index.m3u8
+
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5517,6 +5520,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1766989802~acl=/*~id=e86f7dc6e0e8838239ef46a530157e7a-1766946600112~hmac=f8cb2e69b079cdfd95ea8aa81176e030dc67c2ee1f888b5c049f1d207698790f
 # --- Sonyliv Events Playlist ---
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012742/1766771153220152_SuperSmash2526_womens_Wellington_Blaze_vs_Auckland_Hearts_26dec_landscape_thumb.jpg" group-title="sonyliv-Cricket", Wellington Blaze vs Auckland Hearts - 29 Dec 2025 [ENG] - Super Smash 2025/26 Women's
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767007596~acl=/*~id=39863344583547240687722386085156~hmac=d90a44ac7617d1c22dad317768d1c021602115d1bbf0e974c045b6a5e5ad413d
+
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
