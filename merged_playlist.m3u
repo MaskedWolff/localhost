@@ -5526,6 +5526,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1766968201~acl=/*~id=b22be53166d9b289bcd972927981ec29-1766925000143~hmac=64d889d6fdf7be1f62190f99d6c03abc7badbb2078fbd6ededcd2278d4e64fef
 # --- Sonyliv Events Playlist ---
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012721/1766745312464210_BOS_2025_Aryna_Sabalenka-vs-Nick_Kyrgios_landscape_thumb.jpg" group-title="sonyliv-Tennis", Aryna Sabalenka vs Nick Kyrgios - 28 Dec 2025 [ENG] - Battle Of The Sexes
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766981452~acl=/*~id=61650932866485048262490602553488~hmac=c6db4440307b5ddd47aac31acd9a753d8c40dc28e38f90744d37187708a2601d
+
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
