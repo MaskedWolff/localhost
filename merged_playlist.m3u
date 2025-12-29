@@ -5242,6 +5242,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138767_5801_OS-W_CH-W_fc-web_1766596522209.jpg" group-title="Fancode-Cricket", Central Hinds vs Otago Sparks (Women's Super Smash, 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/138767_english_hls_843d7c911b99616_1ta-di_h264/index.m3u8
+
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5517,6 +5520,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1767076443~acl=/*~id=bcf1962919682fc912b6b67c6a4c2ce2-1767033240614~hmac=9efa80a34beb503b2451a230e7f3299ab597582fdeb3cdbb55ab9d34ba174c8d
 # --- Sonyliv Events Playlist ---
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012742/1766771998636152_SuperSmash2526_womens_Otago_Sparks_vs_Central_Hinds_26dec_landscape_thumb.jpg" group-title="sonyliv-Cricket", Otago Sparks vs Central Hinds - 30 Dec 2025 [ENG] - Super Smash 2025/26 Women's
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767094681~acl=/*~id=79085553292458709179248165667031~hmac=c77c48ff4d02c81dacb7d8e526332e6381239b6e243e9814daa9d7b71cc1179f
+
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
