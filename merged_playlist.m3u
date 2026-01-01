@@ -5311,6 +5311,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1767314042~acl=/*~id=5c4dcd8b9d969ab602ebd350e9275d02-1767270840662~hmac=a3f651dd4555da4c7f482290c40a3fed6b321c58d1a6985690b0bef72c984c88
 # --- Sonyliv Events Playlist ---
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012742/1766776883972152_SuperSmash2526_womens_Auckland_Hearts_vs_Wellington_Blaze_26dec_landscape_thumb.jpg" group-title="sonyliv-Cricket", Auckland Hearts vs Wellington Blaze - 2 Jan 2026 [ENG] - Super Smash 2025/26 Women's
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767352702~acl=/*~id=82453185774623267856697405009918~hmac=e0a97d52dd2a9747e09482b289cf910a9862d232078785ab92f7c95cb77a2c6f
+
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
