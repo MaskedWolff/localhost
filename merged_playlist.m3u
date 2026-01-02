@@ -5245,9 +5245,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138926_5808_DC_CCH_fc-web_1766733054203.jpg" group-title="Fancode-Cricket", Dhaka Capitals vs Chattogram Royals (Bangladesh Premier League, 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/138926_english_hls_bf9d95893460924_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg" group-title="Fancode-Cricket", Yalla Shabab Giants vs Muscat Thunders (Oman D20 League, 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/139159_english_hls_66b437e81a25094_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138815_5802_MLV_PG_fc-web.jpg" group-title="Fancode-Football", Melbourne Victory vs Perth Glory (A League 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/138815_english_hls_f496bda21a30772_1ta-di_h264/index.m3u8
 
@@ -5321,7 +5318,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012824/1767159010787170_UC26_greece_vs_japan_31dec_landscape_thumb.jpg" group-title="sonyliv-Tennis",  Greece vs Japan - 2 Jan 2026 [ENG] - United Cup 2026 
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767389824~acl=/*~id=26245195847170402697460546136296~hmac=3e5b36befc404e89de5314fdccccfe8e31d11b2d3afc79109ebf8742bc79c241
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767391039~acl=/*~id=76163432222673825479629819195906~hmac=09a15c4d67745566d4740ead7186961666e81d60c8475d256e9ca4688d5fd8a3
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
