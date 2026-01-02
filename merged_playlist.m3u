@@ -5248,6 +5248,9 @@ https://in-mc-fdlive.fancode.com/mumbai/138926_english_hls_bf9d95893460924_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg" group-title="Fancode-Cricket", Yalla Shabab Giants vs Muscat Thunders (Oman D20 League, 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/139159_english_hls_66b437e81a25094_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138815_5802_MLV_PG_fc-web.jpg" group-title="Fancode-Football", Melbourne Victory vs Perth Glory (A League 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/138815_english_hls_f496bda21a30772_1ta-di_h264/index.m3u8
+
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5317,6 +5320,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1767381905~acl=/*~id=38040683243854584001381677207035~hmac=9076a6d5a1a54c9a04937a7acaa36ccf50e92a53a2af4a3175f07997215ea730
 # --- Sonyliv Events Playlist ---
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012824/1767158901179170_UC26_spain_vs_argentina_31dec_landscape_thumb.jpg" group-title="sonyliv-Tennis", Spain vs Argentina - 2 Jan 2026 [ENG] - United Cup 2026 
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767386162~acl=/*~id=21045497759981750133468599010802~hmac=932c10ff29f88c32ab5c0d146132364885b644a29c077bda7ea3541c6052c04b
+
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
