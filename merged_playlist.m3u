@@ -5242,6 +5242,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138771_5801_CH-W_CM-W_fc-web_1766596522078.jpg" group-title="Fancode-Cricket", Central Hinds vs Canterbury Magicians (Women's Super Smash, 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/138771_english_hls_927149832076500_1ta-di_h264/index.m3u8
+
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5312,10 +5315,10 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012758/1766829392461385_SuperSmash2526_womens_Central-Hinds-vs-Canterbury-Magicians_27dec_landscape_thumb.jpg" group-title="sonyliv-Cricket", Central Hinds vs Canterbury Magicians - 3 Jan 2026 [ENG] - Super Smash 2025/26 Women's
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767439686~acl=/*~id=15602736840496154915178713082544~hmac=751ea2b8467dc93f7f6984a2755da1ce16230e4e84de6acd374bc4830394f809
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767440295~acl=/*~id=65751336249122825567312819742770~hmac=792edd3e1192509b37a9aa866892dc9b7610df8f0f9320fa49ff93d03e2f5831
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012862/176733628664789_UC26_Belgium_vs_China_2jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Belgium vs China - 3 Jan 2026 [ENG] - United Cup 2026 
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767439686~acl=/*~id=15602736840496154915178713082544~hmac=751ea2b8467dc93f7f6984a2755da1ce16230e4e84de6acd374bc4830394f809
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767440295~acl=/*~id=65751336249122825567312819742770~hmac=792edd3e1192509b37a9aa866892dc9b7610df8f0f9320fa49ff93d03e2f5831
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
