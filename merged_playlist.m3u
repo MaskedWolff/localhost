@@ -5318,7 +5318,7 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012824/1767159010787170_UC26_greece_vs_japan_31dec_landscape_thumb.jpg" group-title="sonyliv-Tennis",  Greece vs Japan - 2 Jan 2026 [ENG] - United Cup 2026 
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767392257~acl=/*~id=32426030928148440114969005480783~hmac=fe93b0990a16422abdbed0e1aa19a0af33c28be7a8774d139bfcf84b0fe61108
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767393472~acl=/*~id=51149796165617980659587853623747~hmac=4ff1de9fd7cd07745412b66c6f3e232b41ad7f06ede7fdf85f5c5e9b2119690e
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
