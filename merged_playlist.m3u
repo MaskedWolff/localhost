@@ -5315,10 +5315,10 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012865/1767337567004298_UC26_Australia_vs_Norway_2jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Australia vs Norway - 3 Jan 2026 [ENG] - United Cup 2026 
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767473167~acl=/*~id=74279158683356424980118203169781~hmac=d0dd6ff516e5c045b5a76fb062616fcf1aca2f6fac7e37f81d104c262e5d653b
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767474385~acl=/*~id=82937544258283182672383659264849~hmac=319b51b96a3a68fef2219657948eec60502fbac6077487dd1bbb7a41ac56faa2
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012864/1767337389784631_UC26_France_vs_Switzerland_2jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", France vs Switzerland - 3 Jan 2026 [ENG] - United Cup 2026 
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767473167~acl=/*~id=74279158683356424980118203169781~hmac=d0dd6ff516e5c045b5a76fb062616fcf1aca2f6fac7e37f81d104c262e5d653b
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767474385~acl=/*~id=82937544258283182672383659264849~hmac=319b51b96a3a68fef2219657948eec60502fbac6077487dd1bbb7a41ac56faa2
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
