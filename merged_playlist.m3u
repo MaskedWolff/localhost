@@ -5242,6 +5242,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v1_1758034980139.jpg" group-title="Fancode-Cricket", Queensland Fire vs Tasmania Women (Women's National Cricket League, 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/133962_english_hls_178f8d65cd6342_1ta-di_h264/index.m3u8
+
 # --- Willow Playlist ---
 #EXTM3U
 # --- Z5 Playlist ---
@@ -5311,6 +5314,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1767504208~acl=/*~id=76941912928620456777432349133627~hmac=b4fcc2b95bcdd978290eab7c4c0b4d0564c212dcac90378fa95dcc189f3fec1b
 # --- Sonyliv Events Playlist ---
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012903/1767417783017834_UC26_Germany_vs_Netherlands_3jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Germany vs Netherlands - 4 Jan 2026 [ENG] - United Cup 2026 
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767526058~acl=/*~id=94004613085865842825779946059324~hmac=dcfeea07cdd19439b208ff997ab733a62b3e5d9fcf2abbc726455cce047e5bd1
+
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
