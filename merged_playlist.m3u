@@ -5242,8 +5242,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 # --- Fancode Playlist ---
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138923_5808_DC_RAN_fc-web_1766733054311.jpg" group-title="Fancode-Cricket", Dhaka Capitals vs Rangpur Riders (Bangladesh Premier League, 2025-26)
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138923_5808_DC_RAN_fc-web_1766733054311.jpg" group-title="Fancode-Cricket", Rangpur Riders vs Dhaka Capitals (Bangladesh Premier League, 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/138923_english_hls_dde84a7f2d34956_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136995_5489_BIR_CVC_fc-web.jpg" group-title="Fancode-Football", Birmingham City F.C. vs Coventry City Football Club (EFL Championship 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/136995_english_hls_5bfdb1693841546_1ta-di_h264/index.m3u8
 
 # --- Willow Playlist ---
 #EXTM3U
@@ -5315,10 +5318,10 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012907/1767418859715450_UC26_Italy_vs_Switzerland_3jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Italy vs Switzerland - 4 Jan 2026 [ENG] - United Cup 2026 
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767569942~acl=/*~id=50664423180440695729922709565505~hmac=44a6333c6fb79db4bc2f42734204dcf2751e742f7f5d939be0337b4cb4015685
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767570552~acl=/*~id=01217587824965069291726736717450~hmac=985d0693bba7876cce7bae53acd018a298a7ee9549b640efd210b81a6999f2ef
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012906/176741854171177_UC26_Canada_vs_China_3jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Canada vs China - 4 Jan 2026 [ENG] - United Cup 2026 
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767569942~acl=/*~id=50664423180440695729922709565505~hmac=44a6333c6fb79db4bc2f42734204dcf2751e742f7f5d939be0337b4cb4015685
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767570552~acl=/*~id=01217587824965069291726736717450~hmac=985d0693bba7876cce7bae53acd018a298a7ee9549b640efd210b81a6999f2ef
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
