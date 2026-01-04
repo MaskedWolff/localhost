@@ -20,48 +20,31 @@ jobs:
         run: |
           set -e
           echo "⬇️ Downloading external playlists..."
-          curl -fsSL "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jstar.m3u" -o external_jstar.m3u || echo "⚠️ JStar playlist failed"
-          curl -fsSL "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u" -o external_fancode.m3u || echo "⚠️ Fancode playlist failed"
-          curl -fsSL "https://raw.githubusercontent.com/abid58b/WillowLivePlaylist/refs/heads/main/willowlive.m3u" -o external_willow.m3u || echo "⚠️ Willow playlist failed"
-          curl -fsSL "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u" -o external_z5.mu || echo "⚠️ Z5 playlist failed"
-          curl -fsSL "https://raw.githubusercontent.com/himanshu-temp/m3u/refs/heads/main/sony.m3u" -o external_sony.m3u || echo "⚠️ Sony playlist failed"
-          curl -fsSL "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u" -o external_sonyliv.m3u || echo "⚠️ Sonyliv playlist failed"
+          curl -fsSL "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jstar.m3u" -o external_jstar.m3u || echo "⚠️ JStar failed"
+          curl -fsSL "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u" -o external_fancode.m3u || echo "⚠️ Fancode failed"
+          curl -fsSL "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u" -o external_z5.m3u || echo "⚠️ Z5 failed"
+          curl -fsSL "https://raw.githubusercontent.com/himanshu-temp/m3u/refs/heads/main/sony.m3u" -o external_sony.m3u || echo "⚠️ Sony failed"
+          curl -fsSL "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u" -o external_sonyliv.m3u || echo "⚠️ Sonyliv failed"
 
       - name: Merge Playlists
         run: |
           echo "#EXTM3U" > merged_playlist.m3u
 
-          echo "# --- JStar Playlist ---" >> merged_playlist.m3u
-          [ -f external_jstar.m3u ] && cat external_jstar.m3u >> merged_playlist.m3u
+          for f in external_jstar.m3u external_fancode.m3u external_z5.m3u external_sony.m3u external_sonyliv.m3u; do
+            [ -f "$f" ] && grep -v '^#EXTM3U' "$f" >> merged_playlist.m3u
+          done
 
-          echo "# --- Fancode Playlist ---" >> merged_playlist.m3u
-          [ -f external_fancode.m3u ] && cat external_fancode.m3u >> merged_playlist.m3u
-
-          echo "# --- Willow Playlist ---" >> merged_playlist.m3u
-          [ -f external_willow.m3u ] && cat external_willow.m3u >> merged_playlist.m3u
-
-          echo "# --- Z5 Playlist ---" >> merged_playlist.m3u
-          [ -f external_z5.m3u ] && cat external_z5.m3u >> merged_playlist.m3u
-
-          echo "# --- Sony Playlist ---" >> merged_playlist.m3u
-          [ -f external_sony.m3u ] && cat external_sony.m3u >> merged_playlist.m3u
-
-          echo "# --- Sonyliv Events Playlist ---" >> merged_playlist.m3u
-          [ -f external_sonyliv.m3u ] && cat external_sonyliv.m3u >> merged_playlist.m3u
-
-          echo "# --- Local Playlist ---" >> merged_playlist.m3u
-          cat localnetwork/my_playlist.m3u >> merged_playlist.m3u
-
+          grep -v '^#EXTM3U' localnetwork/my_playlist.m3u >> merged_playlist.m3u
           echo "✅ Merge complete."
 
-      - name: Add liv1 to Sony channels (merged playlist)
+      - name: Add liv1 to Sony channels (safe)
         run: |
-          if [ -f merged_playlist.m3u ]; then
-            sed -i '/#EXTINF/ {/Sony/ s/$/ liv1/}' merged_playlist.m3u
-            echo "✅ liv1 added to Sony channel names"
-          else
-            echo "⚠️ merged_playlist.m3u not found"
-          fi
+          sed -i '/#EXTINF/{
+            /Sony/{
+              /liv1/! s/$/ liv1/
+            }
+          }' merged_playlist.m3u
+          echo "✅ liv1 added safely to Sony channels"
 
       - name: Commit if Updated
         run: |
@@ -69,10 +52,9 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add merged_playlist.m3u
           if ! git diff --cached --quiet; then
-            echo "📝 Changes detected. Committing updated playlist..."
-            git commit -m "Auto-merge playlists + add liv1 to Sony channels"
+            git commit -m "Auto-merge playlists (Willow removed) + liv1 tagging"
             git pull origin main --rebase
             git push origin main
           else
-            echo "ℹ️ No changes detected in merged_playlist.m3u"
+            echo "ℹ️ No changes detected"
           fi
