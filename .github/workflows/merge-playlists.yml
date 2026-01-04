@@ -37,6 +37,18 @@ jobs:
           grep -v '^#EXTM3U' localnetwork/my_playlist.m3u >> merged_playlist.m3u
           echo "✅ Merge complete."
 
+      - name: Remove Educational group channels
+        run: |
+          awk '
+            BEGIN { skip=0 }
+            /^#EXTINF/ {
+              if ($0 ~ /group-title="?Educational"?/i) skip=1
+              else skip=0
+            }
+            skip==0 { print }
+          ' merged_playlist.m3u > temp.m3u && mv temp.m3u merged_playlist.m3u
+          echo "✅ Educational group removed"
+
       - name: Add liv1 to Sony channels (safe)
         run: |
           sed -i '/#EXTINF/{
@@ -52,7 +64,7 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add merged_playlist.m3u
           if ! git diff --cached --quiet; then
-            git commit -m "Auto-merge playlists (Willow removed) + liv1 tagging"
+            git commit -m "Auto-merge playlists (Willow + Educational removed)"
             git pull origin main --rebase
             git push origin main
           else
