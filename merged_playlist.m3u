@@ -5324,13 +5324,13 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012758/1766817717601385_SuperSmash2526_mens_Northern-Brave-vs-Otago-Volts_27dec_landscape_thumb.jpg" group-title="sonyliv-Cricket", Northern Brave vs Otago Volts - 4 Jan 2026 [ENG] - Super Smash 2025/26 Men's
-https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767555921~acl=/*~id=02041082892983863866601920815875~hmac=446d5e8ee9b0e44d28574a4621882d51fa76a0b6faa3983c05a2a35c252c04a1
+https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767556531~acl=/*~id=59060307968408748278705653389276~hmac=bf9fa5555185e035a863385bb92139d87f0f364f3a752f4f4749ba0b67c54a3a
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012905/176741816598432_UC26_Great_Britain_vs_Japan_3jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Great Britain vs Japan - 4 Jan 2026 [ENG] - United Cup 2026 
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767555921~acl=/*~id=02041082892983863866601920815875~hmac=446d5e8ee9b0e44d28574a4621882d51fa76a0b6faa3983c05a2a35c252c04a1
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767556531~acl=/*~id=59060307968408748278705653389276~hmac=bf9fa5555185e035a863385bb92139d87f0f364f3a752f4f4749ba0b67c54a3a
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012906/176741854171177_UC26_Canada_vs_China_3jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Canada vs China - 4 Jan 2026 [ENG] - United Cup 2026 
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767555921~acl=/*~id=02041082892983863866601920815875~hmac=446d5e8ee9b0e44d28574a4621882d51fa76a0b6faa3983c05a2a35c252c04a1
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767556531~acl=/*~id=59060307968408748278705653389276~hmac=bf9fa5555185e035a863385bb92139d87f0f364f3a752f4f4749ba0b67c54a3a
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5356,14 +5356,14 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tp.drmlive-01.workers.dev?id=123
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-http://192.168.1.12:8000/tataplay-main/manifest.mpd?id=123|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+http://192.168.1.13:8000/tataplay-main/manifest.mpd?id=123|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_list/1170x658withlogo358457080.png",&Xplor HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tp.drmlive-01.workers.dev?id=1183
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-http://192.168.1.12:8000/tataplay/get-mpd.php?id=1183|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+http://192.168.1.13:8000/tataplay/get-mpd.php?id=1183|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
 ***DISH TV***
 
@@ -5377,7 +5377,7 @@ https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://live1.ottlive.co.in/voiceurdutv/voiceurdutv/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/ETV_Urdu.png" group-title="Dish TV", News18 JKLH
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/ETV_Urdu.png" group-title="Dish TV", News18 JKLH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://nw18live.cdn.jio.com/bpk-tv/News18_Urdu_NW18_MOB/output01/index.m3u8
 
@@ -5414,21 +5414,21 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://tp.drmlive-01.workers.dev?id=727
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-http://192.168.1.12:8000/tataplay-main/get-mpd.php?id=727|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+http://192.168.1.13:8000/tataplay-main/get-mpd.php?id=727|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
 #EXTINF:-1 tvg-id="ts100" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ActionCinema_Transparent_c60a8e1a-249c-433c-91d6-f1a74de835d9.png" group-title="Dish TV",Action Cinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tp.drmlive-01.workers.dev?id=100
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-http://192.168.1.12:8000/tataplay-main/manifest.mpd?id=100|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+http://192.168.1.13:8000/tataplay-main/manifest.mpd?id=100|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
 #EXTINF:-1 tvg-id="ts1499" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/GoldminesMovies_Transparent_9b7db248-999e-4200-a459-6cc594650f3d.png" group-title="Dish TV",Goldmines Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tp.drmlive-01.workers.dev?id=1499
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-http://192.168.1.12:8000/tataplay-main/manifest.mpd?id=1499|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+http://192.168.1.13:8000/tataplay-main/manifest.mpd?id=1499|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-classic/logo_20231219_184825_52.png" group-title="Dish TV",Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
@@ -5485,89 +5485,89 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.
 
 JIO TV
 
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/Colors_HD.png" group-title="ENTERAINMENT", Colors HD
-http://192.168.1.12:5350/live/144.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/Aaj_Tak.png" group-title="NEWS HINDI", Aaj Tak
-http://192.168.1.12:5350/live/173.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/ABP_News_India.png" group-title="NEWS HINDI", ABP News India
-http://192.168.1.12:5350/live/177.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/B4U_Movies.png" group-title="MOVIES Hindi", B4U Movies
-http://192.168.1.12:5350/live/182.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/IBN_7.png" group-title="NEWS HINDI", News 18 India
-http://192.168.1.12:5350/live/231.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/India_TV.png" group-title="NEWS HINDI", India TV
-http://192.168.1.12:5350/live/235.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/NDTV_24x7.png" group-title="NEWS HINDI", NDTV 24x7
-http://192.168.1.12:5350/live/255.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/NDTV_India.png" group-title="NEWS HINDI", NDTV India
-http://192.168.1.12:5350/live/258.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/Times_NOW.png" group-title="NEWS HINDI", Times NOW
-http://192.168.1.12:5350/live/383.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/Wion.png" group-title="NEWS HINDI", Wion
-http://192.168.1.12:5350/live/412.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/Mirror_Now.png" group-title="NEWS HINDI", Mirror Now
-http://192.168.1.12:5350/live/491.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/CNN_NEWS_18.png" group-title="NEWS HINDI", CNN NEWS 18
-http://192.168.1.12:5350/live/492.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/India_Today.png" group-title="NEWS HINDI", India Today
-http://192.168.1.12:5350/live/493.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/News_X.png" group-title="NEWS HINDI", News X
-http://192.168.1.12:5350/live/495.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/News_Nation.png" group-title="NEWS HINDI", News Nation
-http://192.168.1.12:5350/live/499.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/News_24.png" group-title="NEWS HINDI", News 24
-http://192.168.1.12:5350/live/501.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/Tez.png" group-title="NEWS HINDI", Good News Today
-http://192.168.1.12:5350/live/502.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/Zee_News.png" group-title="NEWS HINDI", Zee News
-http://192.168.1.12:5350/live/504.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/Sudarshan.png" group-title="NEWS HINDI", Sudarshan
-http://192.168.1.12:5350/live/518.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/Colors_HD.png" group-title="ENTERAINMENT", Colors HD
+http://192.168.1.13:5350/live/144.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/Aaj_Tak.png" group-title="NEWS HINDI", Aaj Tak
+http://192.168.1.13:5350/live/173.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/ABP_News_India.png" group-title="NEWS HINDI", ABP News India
+http://192.168.1.13:5350/live/177.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/B4U_Movies.png" group-title="MOVIES Hindi", B4U Movies
+http://192.168.1.13:5350/live/182.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/IBN_7.png" group-title="NEWS HINDI", News 18 India
+http://192.168.1.13:5350/live/231.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/India_TV.png" group-title="NEWS HINDI", India TV
+http://192.168.1.13:5350/live/235.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/NDTV_24x7.png" group-title="NEWS HINDI", NDTV 24x7
+http://192.168.1.13:5350/live/255.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/NDTV_India.png" group-title="NEWS HINDI", NDTV India
+http://192.168.1.13:5350/live/258.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/Times_NOW.png" group-title="NEWS HINDI", Times NOW
+http://192.168.1.13:5350/live/383.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/Wion.png" group-title="NEWS HINDI", Wion
+http://192.168.1.13:5350/live/412.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/Mirror_Now.png" group-title="NEWS HINDI", Mirror Now
+http://192.168.1.13:5350/live/491.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/CNN_NEWS_18.png" group-title="NEWS HINDI", CNN NEWS 18
+http://192.168.1.13:5350/live/492.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/India_Today.png" group-title="NEWS HINDI", India Today
+http://192.168.1.13:5350/live/493.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/News_X.png" group-title="NEWS HINDI", News X
+http://192.168.1.13:5350/live/495.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/News_Nation.png" group-title="NEWS HINDI", News Nation
+http://192.168.1.13:5350/live/499.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/News_24.png" group-title="NEWS HINDI", News 24
+http://192.168.1.13:5350/live/501.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/Tez.png" group-title="NEWS HINDI", Good News Today
+http://192.168.1.13:5350/live/502.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/Zee_News.png" group-title="NEWS HINDI", Zee News
+http://192.168.1.13:5350/live/504.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/Sudarshan.png" group-title="NEWS HINDI", Sudarshan
+http://192.168.1.13:5350/live/518.m3u8
 #EXTINF:-1 tvg-logo="https://spoo.me/Animalplane" group-title="Nature Hindi", Animal Planet Hindi
-http://192.168.1.12:5350/live/566.m3u8
+http://192.168.1.13:5350/live/566.m3u8
 #EXTINF:-1 tvg-logo="https://spoo.me/Discover" group-title="Nature Hindi", Discovery Hindi
-http://192.168.1.12:5350/live/575.m3u8
+http://192.168.1.13:5350/live/575.m3u8
 #EXTINF:-1 tvg-logo="https://spoo.me/historyTV18" group-title="Nature Hindi", History TV18 HD Hindi
-http://192.168.1.12:5350/live/578.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/News9.png" group-title="NEWS HINDI", News 9
-http://192.168.1.12:5350/live/656.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/ETV_Urdu.png" group-title="NEWS HINDI", News18 JKLH
-http://192.168.1.12:5350/live/694.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/DD_Kashir.png" group-title="ENTERAINMENT", DD Kashir
+http://192.168.1.13:5350/live/578.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/News9.png" group-title="NEWS HINDI", News 9
+http://192.168.1.13:5350/live/656.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/ETV_Urdu.png" group-title="NEWS HINDI", News18 JKLH
+http://192.168.1.13:5350/live/694.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/DD_Kashir.png" group-title="ENTERAINMENT", DD Kashir
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/index.m3u8
 #https://cdn-6.pishow.tv/live/16/master.m3u8
-#http://192.168.1.12:5350/live/716.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/Zee_Salaam.png" group-title="NEWS HINDI", Zee Salaam
-http://192.168.1.12:5350/live/728.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/Gulistan_News.png" group-title="NEWS HINDI", Gulistan News
-http://192.168.1.12:5350/live/807.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/Republic_TV.png" group-title="NEWS HINDI", Republic TV
-http://192.168.1.12:5350/live/858.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/4_TV.png" group-title="NEWS HINDI", 4 TV
-http://192.168.1.12:5350/live/933.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/TV9_Bharatvarsh.png" group-title="NEWS HINDI", TV9 Bharatvarsh
-http://192.168.1.12:5350/live/1251.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/B4U_Kadak.png" group-title="MOVIES HINDI", B4U Kadak
-http://192.168.1.12:5350/live/1295.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/Republic_Bharat.png" group-title="NEWS HINDI", Republic Bharat
-http://192.168.1.12:5350/live/1403.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/Rishtey_Cineplex.png" group-title="MOVIES HINDI", Colors Cineplex Superhit
-http://192.168.1.12:5350/live/1450.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/Color_Cineplex_HD.png" group-title="MOVIES HINDI", Colors Cineplex HD
-http://192.168.1.12:5350/live/1477.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/ANN_News.png" group-title="NEWS HINDI", ANN News
+#http://192.168.1.13:5350/live/716.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/Zee_Salaam.png" group-title="NEWS HINDI", Zee Salaam
+http://192.168.1.13:5350/live/728.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/Gulistan_News.png" group-title="NEWS HINDI", Gulistan News
+http://192.168.1.13:5350/live/807.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/Republic_TV.png" group-title="NEWS HINDI", Republic TV
+http://192.168.1.13:5350/live/858.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/4_TV.png" group-title="NEWS HINDI", 4 TV
+http://192.168.1.13:5350/live/933.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/TV9_Bharatvarsh.png" group-title="NEWS HINDI", TV9 Bharatvarsh
+http://192.168.1.13:5350/live/1251.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/B4U_Kadak.png" group-title="MOVIES HINDI", B4U Kadak
+http://192.168.1.13:5350/live/1295.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/Republic_Bharat.png" group-title="NEWS HINDI", Republic Bharat
+http://192.168.1.13:5350/live/1403.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/Rishtey_Cineplex.png" group-title="MOVIES HINDI", Colors Cineplex Superhit
+http://192.168.1.13:5350/live/1450.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/Color_Cineplex_HD.png" group-title="MOVIES HINDI", Colors Cineplex HD
+http://192.168.1.13:5350/live/1477.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/ANN_News.png" group-title="NEWS HINDI", ANN News
 https://cdn.ottlive.co.in/annnews/tracks-v1a1/mono.m3u8
-#http://192.168.1.12:5350/live/1699.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/Colors_Cineplex_Bollywood.png" group-title="MOVIES HINDI", Colors Cineplex Bollywood
-http://192.168.1.12:5350/live/1763.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/Times_Now_Navbharat.png" group-title="NEWS HINDI", Times Now Navbharat
-http://192.168.1.12:5350/live/1906.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/Munsif_TV.png" group-title="NEWS HINDI", Munsif TV
-http://192.168.1.12:5350/live/2017.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/Firstpost.png" group-title="NEWS HINDI", Firstpost
-http://192.168.1.12:5350/live/2326.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.1.12:5350/jtvimage/India_Daily_Live.png" group-title="NEWS HINDI", India Daily Live
-http://192.168.1.12:5350/live/2772.m3u8
+#http://192.168.1.13:5350/live/1699.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/Colors_Cineplex_Bollywood.png" group-title="MOVIES HINDI", Colors Cineplex Bollywood
+http://192.168.1.13:5350/live/1763.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/Times_Now_Navbharat.png" group-title="NEWS HINDI", Times Now Navbharat
+http://192.168.1.13:5350/live/1906.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/Munsif_TV.png" group-title="NEWS HINDI", Munsif TV
+http://192.168.1.13:5350/live/2017.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/Firstpost.png" group-title="NEWS HINDI", Firstpost
+http://192.168.1.13:5350/live/2326.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.13:5350/jtvimage/India_Daily_Live.png" group-title="NEWS HINDI", India Daily Live
+http://192.168.1.13:5350/live/2772.m3u8
 
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/QKHNYN/TV/thumbnail/QK_2000x2000.png" group-title="Dish TV", The Q Kahaniyan
 https://qyou-runn.cdn.runn.tv/title-Kahaniyan_Non_SSAI/v1/vglive-sk-466626/0188093ecb6509831f170280d807/01880944196c09831f170280d80a/main.m3u8
@@ -5582,42 +5582,42 @@ https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://tp.drmlive-01.workers.dev?id=15
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-http://192.168.1.12:8000/tataplay-main/manifest.mpd?id=15|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+http://192.168.1.13:8000/tataplay-main/manifest.mpd?id=15|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SONYLIV", Sony SAB liv1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tp.drmlive-01.workers.dev?id=559
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-http://192.168.1.12:8000/tataplay-main/manifest.mpd?id=559|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+http://192.168.1.13:8000/tataplay-main/manifest.mpd?id=559|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SONYLIV", Sony PAL liv1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tp.drmlive-01.workers.dev?id=554
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-http://192.168.1.12:8000/tataplay-main/manifest.mpd?id=554|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+http://192.168.1.13:8000/tataplay-main/manifest.mpd?id=554|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="SONYLIV", Sony WAH liv1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tp.drmlive-01.workers.dev?id=56
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-http://192.168.1.12:8000/tataplay-main/manifest.mpd?id=56|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+http://192.168.1.13:8000/tataplay-main/manifest.mpd?id=56|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
 #EXTINF:-1 tvg-id="1000009247" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="SONYLIV", Sony MAX HD liv1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tp.drmlive-01.workers.dev?id=80
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-http://192.168.1.12:8000/tataplay-main/manifest.mpd?id=80|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+http://192.168.1.13:8000/tataplay-main/manifest.mpd?id=80|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
 #EXTINF:-1 tvg-id="1000044878" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="SONYLIV", Sony MAX2 liv1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tp.drmlive-01.workers.dev?id=120
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-http://192.168.1.12:8000/tataplay-main/manifest.mpd?id=120|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+http://192.168.1.13:8000/tataplay-main/manifest.mpd?id=120|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
 ***STAR CHANNELS***
 
@@ -5650,14 +5650,14 @@ https://game.denver1769.fun/Jtv/tAPJvH/Jtv.mpd?id=1113|User-Agent=Denver1769
 #KODIPROP:inputstream.adaptive.license_key=https://tp.drmlive-01.workers.dev?id=245
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-http://192.168.1.12:8000/tataplay-main/manifest.mpd?id=245|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+http://192.168.1.13:8000/tataplay-main/manifest.mpd?id=245|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
 #EXTINF:-1 tvg-id="ts1183" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/&XplorHD_Transparent_bae4fa59-767e-41cc-8172-7b41e6027546.png" group-title="Dish Tv",&Xplor HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tp.drmlive-01.workers.dev?id=1183
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-http://192.168.1.12:8000/tataplay-main/manifest.mpd?id=1183|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+http://192.168.1.13:8000/tataplay-main/manifest.mpd?id=1183|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" group-title="Dish TV",Zee Cine Classic
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
