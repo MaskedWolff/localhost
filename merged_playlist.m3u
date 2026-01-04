@@ -5324,10 +5324,10 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 # --- Sonyliv Events Playlist ---
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012907/1767418859715450_UC26_Italy_vs_Switzerland_3jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Italy vs Switzerland - 4 Jan 2026 [ENG] - United Cup 2026 
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767561409~acl=/*~id=63408747261993136453130584556763~hmac=6ceb5cf28303b00d046a223ca43041c2ad6ba299acc429166b5effa4a6162649
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767562630~acl=/*~id=65833086293857527196655907071717~hmac=299fb4f20f28d725a35fb0ae9d392da9591355e71d66ad8dc92ae6285dc757c9
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012906/176741854171177_UC26_Canada_vs_China_3jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Canada vs China - 4 Jan 2026 [ENG] - United Cup 2026 
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767561409~acl=/*~id=63408747261993136453130584556763~hmac=6ceb5cf28303b00d046a223ca43041c2ad6ba299acc429166b5effa4a6162649
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767562630~acl=/*~id=65833086293857527196655907071717~hmac=299fb4f20f28d725a35fb0ae9d392da9591355e71d66ad8dc92ae6285dc757c9
 
 # --- Local Playlist ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
